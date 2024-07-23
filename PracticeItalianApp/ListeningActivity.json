@@ -1,0 +1,3857 @@
+[
+	{
+
+		"audioName": "Pasta Alla Carbonara",
+        
+        "isConversation": false,
+        "speaker1Image": "chef",
+        "speaker2Image": "placeholder",
+        "numberOfDialogueQuestions": 5,
+
+		"audioTranscriptItalian": "Per prima cosa mettete a bollire l'acqua per la pasta mentre si prepara il condimento. Tagliare 200 grammi di guanciale a pezzetti, quindi cuocete in una padella a fuoco medio per 2 o 3 minuti fino a quando diventa marrone e croccante. Preparare quindi la crema di Pecorino Romano. In una ciotola mettete 4 uova intere e 100 grammi di pecorino romano. Aggiungete del pepe nero fresco e mescolate velocemente con una forchetta o una frusta fino ad ottenere una salsa cremosa. Mettete da parte il sugo e buttate la pasta nell'acqua bollente con un po' di sale e cuocetela al dente. Quando la pasta sarà cotta, scolatela e mettetela in una padella a fuoco vivace. Mescolare la pasta cotta con il guanciale per circa 1 minuto. Infine, togliete la padella dal fuoco e aggiungete a filo la vostra crema di pecorino continuando a mantecare gli spaghetti. Se la salsa è troppo liquida, puoi aggiungere altro formaggio. Se è troppo denso, puoi aggiungere un po' dell'acqua della pasta per ottenere la consistenza desiderata.",
+        
+		"audioTranscriptEnglish": "First, boil water for the pasta while the sauce is prepared. Cut 200 grams of guanciale into small pieces then cook in a skill on medium heat for 2 to 3 minutes until brown and crispy. Next, prepare the Pecorino Romano cream sauce. In a bowl, put 4 whole eggs and 100 grams of Pecorino Romano cheese. Add some fresh black pepper and mix quickly with a fork or whisk until the sauce is creamy. Set the sauce aside and put your pasta into the boiling water with some salt and cook until al dente. When the pasta is done, drain and place in a skillet on high heat. Mix the cooked pasta with the guanciale for about 1 minute. Finally, take the pan off the stove and slowly add in your pecorino cream while continuing to stir the spaghetti. If the sauce is too thin, you may add more cheese. If it is too thick, you may add some of the pasta water for the desired texture.",
+        
+        "audioCutArrays": ["pasta1", "pasta2", "pasta3", "pasta4", "pasta5", "pasta6", "pasta7", "pasta8"],
+
+		"comprehensionQuestions": [
+            {
+
+            "question": "Qual è la prima cosa da fare?",
+
+            "answer": "Bollire l'acqua per la pasta",
+
+            "choices": ["Bollire l'acqua per la pasta", "Tagliare il guanciale in piccoli pezzi", "Grattugiare il formaggio", "Mescolare le uova"]
+
+            },
+
+            {
+
+            "question": "Quanti grammi di guanciale devi usare?",
+
+            "answer": "200",
+
+            "choices": ["200", "100", "2", "120"]
+
+            },
+
+            {
+
+            "question": "Quanti tuorli d'uovo devi usare? ",
+
+            "answer": "4",
+
+            "choices": ["4", "2", "3", "6"]
+
+            },
+
+            {
+
+            "question": "Cucina il guanciale a temperatura alta.",
+
+            "answer": "Falso",
+
+            "choices": ["Vero", "Falso"]
+
+            },
+
+            {
+
+            "question": "La pentola rimane sul piano cottura mentre aggiungila crema al pecorino.",
+
+            "answer": "Falso",
+
+            "choices": ["Vero", "Falso"]
+
+            }
+
+		],
+
+		"fillInDialogueQuestion": [
+			{
+				"fullSentence": "Per prima cosa mettete a bollire l'acqua per la pasta mentre si prepara il condimento.",
+                "speakerNumber": 1,
+				"questionPart1": "Per prima cosa mettete a ",
+				"answer": "bollire",
+				"questionPart2": " l'acqua per la pasta mentre si prepara il condimento.",
+				"answerArray": [
+					{"letter": "b", "showLetter": false}, 
+					{"letter": "o", "showLetter": false}, 
+					{"letter": "l", "showLetter": false}, 
+					{"letter": "l", "showLetter": false}, 
+					{"letter": "i", "showLetter": false}, 
+					{"letter": "r", "showLetter": false}, 
+					{"letter": "e", "showLetter": false}
+				],
+				"isQuestion": true,
+                "correctChosen": false
+
+			},
+			{
+				"fullSentence": "Tagliate 200 grammi di guanciale a pezzetti, quindi cuocete in una padella a fuoco medio per 2 o 3 minuti fino a quando diventa marrone e croccante.",
+                "speakerNumber": 1,
+				"questionPart1": "",
+				"answer": "Tagliate",
+				"questionPart2": " 200 grammi di guanciale a pezzetti, quindi cuocere in una padella a fuoco medio per 2 o 3 minuti fino a quando diventa marrone e croccante.",
+                "answerArray": [
+                    {"letter": "T", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+				"isQuestion": true,
+                "correctChosen": false
+			},
+			{
+				"fullSentence": "Preparare quindi la crema di Pecorino Romano. In una ciotola mettete 4 uova intere e 100 grammi di pecorino romano.",
+                "speakerNumber": 1,
+				"questionPart1": "",
+				"answer": "",
+				"questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+				"isQuestion": false,
+                "correctChosen": false
+			},
+			{
+				"fullSentence": "Aggiungete del pepe nero fresco e mescolate velocemente con una forchetta o una frusta fino ad ottenere una salsa cremosa.",
+                "speakerNumber": 1,
+				"questionPart1": "Aggiungete del pepe nero fresco e ",
+				"answer": "mescolate",
+				"questionPart2": " velocemente con una forchetta o una frusta fino ad ottenere una salsa cremosa.",
+				"answerArray": [
+					{"letter": "m", "showLetter": false}, 
+					{"letter": "e", "showLetter": false}, 
+					{"letter": "s", "showLetter": false}, 
+					{"letter": "c", "showLetter": false}, 
+					{"letter": "o", "showLetter": false}, 
+					{"letter": "l", "showLetter": false}, 
+					{"letter": "a", "showLetter": false}, 
+					{"letter": "t", "showLetter": false}, 
+					{"letter": "e", "showLetter": false}
+				],
+				"isQuestion": true,
+                "correctChosen": false
+			},
+            {
+				"fullSentence": "Mettete da parte il sugo e buttate la pasta nell'acqua bollente con un po' di sale e cuocetela al dente.",
+                "speakerNumber": 1,
+				"questionPart1": "",
+				"answer": "",
+				"questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+				"isQuestion": false,
+                "correctChosen": false
+			},
+            {
+				"fullSentence": "Quando la pasta sarà cotta, scolatela e mettetela in una padella a fuoco vivace. Mescolare la pasta cotta con il guanciale per circa 1 minuto.",
+                "speakerNumber": 1,
+				"questionPart1": "Quando la pasta ",
+				"answer": "sarà",
+				"questionPart2": " cotta, scolatela e mettetela in una padella a fuoco vivace. Mescolare la pasta cotta con il guanciale per circa 1 minuto.",
+				"answerArray": [
+					{"letter": "s", "showLetter": false}, 
+					{"letter": "a", "showLetter": false}, 
+					{"letter": "r", "showLetter": false}, 
+					{"letter": "à", "showLetter": false}
+				],
+				"isQuestion": true,
+                "correctChosen": false
+			},
+			{
+				"fullSentence": "Infine, togliete la padella dal fuoco e aggiungete a filo la vostra crema di pecorino continuando a mantecare gli spaghetti.",
+                "speakerNumber": 1,
+				"questionPart1": "Infine, togliete la padella dal fuoco e ",
+				"answer": "aggiungete",
+				"questionPart2": " a filo la vostra crema di pecorino continuando a mantecare gli spaghetti.",
+				"answerArray": [
+					{"letter": "a", "showLetter": false}, 
+					{"letter": "g", "showLetter": false}, 
+					{"letter": "g", "showLetter": false}, 
+					{"letter": "i", "showLetter": false}, 
+					{"letter": "u", "showLetter": false}, 
+					{"letter": "n", "showLetter": false}, 
+					{"letter": "g", "showLetter": false}, 
+					{"letter": "e", "showLetter": false}, 
+					{"letter": "t", "showLetter": false}, 
+					{"letter": "e", "showLetter": false}
+				],
+				"isQuestion": true,
+                "correctChosen": false
+			},
+			{
+				"fullSentence": "Se la salsa è troppo liquida, puoi aggiungere altro formaggio. Se è troppo denso, puoi aggiungere un po' dell'acqua della pasta per ottenere la consistenza desiderata.",
+                "speakerNumber": 1,
+				"questionPart1": "",
+				"answer": "",
+				"questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+				"isQuestion": false,
+                "correctChosen": false
+			}
+			
+		],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Bollire",
+                "wordEnglish": "boil",
+                "choices": ["cook", "fry", "boil", "add", "cut"]
+            },
+            {
+                "wordItalian": "Tagliare",
+                "wordEnglish": "cut",
+                "choices": ["cook", "fry", "boil", "cut", "add"]
+            },
+            {
+                "wordItalian": "Mescolare",
+                "wordEnglish": "mix",
+                "choices": ["mix", "fry", "cut", "add", "cook"]
+            },
+            {
+           		"wordItalian": "Sarà",
+                "wordEnglish": "it will be",
+                "choices": ["it will be", "it was", "it is", "cooked", "added"]
+            },
+            {
+                "wordItalian": "Agguingare",
+                "wordEnglish": "add",
+                "choices" : ["add", "fry", "boil", "cook", "cut"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "pastaPIO1_2", "position": 1},
+                    {"audioFile": "pastaPIO3_4", "position": 2},
+                    {"audioFile": "pastaPIO5_6", "position": 3},
+                    {"audioFile": "pastaPIO7", "position": 4},
+                    {"audioFile": "pastaPIO8", "position": 5}
+                ]
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Bollire",
+                "wordEnglish": "To boil"
+               
+            },
+            {
+                "wordItalian": "Tagliare",
+                "wordEnglish": "To cut"
+               
+            },
+            {
+                "wordItalian": "Mescolare",
+                "wordEnglish": "To mix"
+             
+            },
+            {
+                "wordItalian": "Essere",
+                "wordEnglish": "To be"
+              
+            },
+            {
+                "wordItalian": "Aggiungare",
+                "wordEnglish": "To add"
+              
+            },
+            {
+                "wordItalian": "Mettere",
+                "wordEnglish": "To put"
+              
+            },
+            {
+                "wordItalian": "Preperare",
+                "wordEnglish": "To prepare"
+              
+            },
+            {
+                "wordItalian": "Pezzetti",
+                "wordEnglish": "Little pieces"
+              
+            },
+            {
+                "wordItalian": "Padella",
+                "wordEnglish": "Pan"
+              
+            },
+            {
+                "wordItalian": "Ciotola",
+                "wordEnglish": "Pot"
+              
+            },
+            {
+                "wordItalian": "Uova",
+                "wordEnglish": "Cucinare"
+              
+            },
+            {
+                "wordItalian": "Piano cottura",
+                "wordEnglish": "Stove top"
+              
+            }
+            
+        ],
+		
+		
+		
+		
+	
+		     "keyIdeas": [
+            {
+                "idea": "Presente"
+         
+            },
+			{
+                "idea": "Futuro"
+         
+            },
+            {
+                "idea": "Imperativo"
+         
+            },
+			{
+                "idea": "Nouns/Adjectives about cooking and typical food items"
+         
+            }
+            
+ 
+            
+        ]
+	},
+    
+    {
+
+        "audioName": "Cosa Desidera?",
+        
+        "isConversation": true,
+        "speaker1Image": "woman1",
+        "speaker2Image": "man1",
+        "numberOfDialogueQuestions": 6,
+        
+        "audioTranscriptItalian": "Cameriere: Buonasera! \nCliente: Salve, Ha un tavolo per uno? \nCameriere: Ne abbiamo uno fuori, va bene? \nCliente: Certamente \nCameriere: Mi segua perfavore. \nCameriere: Cosa desidera? \nCliente: Che piatti tipici italiani ha per cena oggi? \nCameriere: Abbiamo melanzane alla parmigiana, gnocchi al pesto, e la specialità di oggi è un buonissimo bucatini alla amatriciana. \nCliente: Hmm, i bucatini all'amatriciana sembrano deliziosi! Ne prendo uno per favore. \nCameriere: Meraviglioso, vuole qualcosa da bere con quello? Un aperitivo magari? \nCliente: Prendo un bicchiere di vino rosso e una bottiglia di acqua naturale per favore. \nCameriere: Perfetto, ora prendo il suo vino. \nCliente Grazie \nCameriere: Prego",
+        
+        "audioTranscriptEnglish": "Waiter: Good evening! \nCustomer: Hello! Do you have a table for one? \nWaiter: We have one outside, is that okay? \nCustomer: Certainly \nWaiter: Follow me please \nWaiter: What do you desire? \nCustomer: What typical Italian dishes do you have for dinner today? \nWaiter: We have eggplant parmesan, gnocchi al pesto, and today’s special is a very good bucatini alla amatriciana. \nCustomer: Hmm, the bucatini alla amatriciana sounds delicious! I will take one please. \nWaiter: Wonderful, do you want anything to drink with that? An aperitif maybe? \nCustomer: I will take a glass of red wine, and a bottle of natural water please. \nWaiter: Wonderful, I will get your wine now. \nCustomer Thank you \nWaiter: Prego",
+        
+        "audioCutArrays": ["cosaDesidera1", "cosaDesidera2", "cosaDesidera3", "cosaDesidera4", "cosaDesidera5", "cosaDesidera6", "cosaDesidera7", "cosaDesidera8", "cosaDesidera9", "cosaDesidera10", "cosaDesidera11", "cosaDesidera12", "cosaDesidera13", "cosaDesidera14"],
+
+        "comprehensionQuestions": [
+            {
+
+                       "question": "C’è un tavolo libero per il cliente?",
+
+                       "answer": "Vero",
+
+                       "choices": ["Vero", "Falso"]
+
+                   },
+
+                   {
+
+                       "question": "Il tavolo è fuori o dentro?",
+
+                       "answer": "Fuori",
+
+                       "choices": ["Fuori", "Dentro"]
+
+                   },
+
+                   {
+
+                       "question": "Quale sono i due piatti tipici che il cliente può ordinare?",
+
+                       "answer": "Parmigiana di melanzane, Gnocchi al Pesto",
+
+                       "choices": ["Parmigiana di melanzane, Gnocchi al Pesto","Lasagna, Pasta alla Carbonara", "Gnocchi al Pesto", "Spaghetti alle Bolognese, Ravioli"]
+
+                   },
+
+                   {
+
+                       "question": "C’è un speciale piatto oggi?",
+
+                       "answer": "Vero",
+
+                       "choices": ["Vero", "Falso"]
+
+                   },
+
+                   {
+
+                       "question": "Il cliente solo ha voluto un bicchiere di vino.",
+
+                       "answer": "Falso",
+
+                       "choices": ["Vero", "Falso"]
+
+                   }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Buonasera!",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Salve, ha un tavolo per uno?",
+                "speakerNumber": 2,
+                "questionPart1": "Salve, ",
+                "answer": "ha",
+                "questionPart2": " un tavolo per uno?",
+                "answerArray": [
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Ne abbiamo uno fuori, va bene?",
+                "speakerNumber": 1,
+                "questionPart1": "Ne abbiamo uno ",
+                "answer": "fuori",
+                "questionPart2": " , va bene?",
+                "answerArray": [
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Certamente.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Mi segua perfavore.",
+                "speakerNumber": 1,
+                "questionPart1": "Mi ",
+                "answer": "segua",
+                "questionPart2": " perfavore.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Cosa desidera?",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Che piatti tipici italiani ha per cena oggi?",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Abbiamo melanzane alla parmigiana, gnocchi al pesto, e la specialità di oggi è un buonissimo bucatini alla amatriciana.",
+                "speakerNumber": 1,
+                "questionPart1": "Abbiamo ",
+                "answer": "melanzane",
+                "questionPart2": " alla parmigiana, gnocchi al pesto, e la specialità di oggi è un buonissimo bucatini alla amatriciana.",
+                "answerArray": [
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "z", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Hmm, i bucatini all'amatriciana sembrano deliziosi! Ne prendo uno per favore.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Meraviglioso, vuole qualcosa da bere con quello? Un aperitivo magari?",
+                "speakerNumber": 1,
+                "questionPart1": "Meraviglioso, ",
+                "answer": "vuole",
+                "questionPart2": " qualcosa da bere con quello? Un aperitivo magari?",
+                "answerArray": [
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Prendo un bicchiere di vino rosso e una bottiglia di acqua naturale per favore.",
+                "speakerNumber": 2,
+                "questionPart1": "Prendo un ",
+                "answer": "bicchiere",
+                "questionPart2": " di vino rosso e una bottiglia di acqua naturale per favore.",
+                "answerArray": [
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Perfetto, ora prendo il suo vino.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Grazie",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Prego",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Fuori",
+                "wordEnglish": "outside",
+                "choices": ["inside", "outside", "next to", "behind", "in front"]
+            },
+            {
+                "wordItalian": "Seguire",
+                "wordEnglish": "follow",
+                "choices": ["follow", "sort", "walk", "welcome", "enter"]
+            },
+            {
+                "wordItalian": "Melanzane",
+                "wordEnglish": "eggplant",
+                "choices": ["mix", "eggplant", "carrot", "melon", "butter"]
+            },
+            {
+                   "wordItalian": "Bicchiere",
+                "wordEnglish": "glass",
+                "choices": ["bottle", "glass", "cup", "can", "bicycle"]
+            },
+            {
+                "wordItalian": "Agguingare",
+                "wordEnglish": "add",
+                "choices" : ["add", "fry", "boil", "cook", "cut"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "cosadesideraPIO1_5", "position": 1},
+                    {"audioFile": "cosadesideraPIO6_8", "position": 2},
+                    {"audioFile": "cosadesideraPIO9_10", "position": 3},
+                    {"audioFile": "cosaDesideraPIO11", "position": 4},
+                    {"audioFile": "cosadesideraPIO12_14", "position": 5}
+                ]
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Fuori",
+                "wordEnglish": "Outside"
+               
+            },
+            {
+                "wordItalian": "Dentro",
+                "wordEnglish": "Inside"
+               
+            },
+            {
+                "wordItalian": "Tavolo",
+                "wordEnglish": "Table"
+             
+            },
+            {
+                "wordItalian": "Piatti tipici",
+                "wordEnglish": "Typical plates/food"
+              
+            },
+            {
+                "wordItalian": "Bicchiere",
+                "wordEnglish": "Glass"
+              
+            },
+            {
+                "wordItalian": "Avere",
+                "wordEnglish": "To have"
+              
+            },
+            {
+                "wordItalian": "Seguire",
+                "wordEnglish": "To follow"
+              
+            },
+            {
+                "wordItalian": "Melanzane",
+                "wordEnglish": "Eggplant"
+              
+            },
+            {
+                "wordItalian": "Volere",
+                "wordEnglish": "To want"
+              
+            },
+            {
+                "wordItalian": "Sembrare",
+                "wordEnglish": "To seem"
+              
+            }
+            
+        ],
+		
+		
+		
+		
+	
+		     "keyIdeas": [
+            {
+                "idea": "Presente"
+         
+            },
+            {
+                "idea": "Nouns/Adjectives about restuarants and tipical Italian food"
+         
+            }
+            
+ 
+            
+        ]
+    },
+    
+    {
+
+        "audioName": "Indicazioni per gli Uffizi",
+        
+        "isConversation": true,
+        "speaker1Image": "man2",
+        "speaker2Image": "woman2",
+        "numberOfDialogueQuestions": 7,
+
+        "audioTranscriptItalian": "Mateo: Mi scusi \nSconosciuto: Sì? Come posso aiutarla? \nMateo: Grazie, sto cercando di arrivare alla Galleria degli Uffizi, ma mi sono persa. Può darmi indicazioni? \nSconosciuto: Certo, ci sei molto vicino. Forse 5 o 10 minuti a piedi da qui. \nSconosciuto: Devi camminare dritto sulla via dei Benci fino al primo incrocio. \nSconosciuto: Poi girare a sinistra su Borgo dei Greci e proseguire dritto fino a raggiungere un altro incrocio. \nSconosciuto: Lì, girerai a destra in via del Leoni. \nSconosciuto. Segui quella strada verso sud e passerai davanti al ristorante Braceria Auditore. \nSconosciuto: Il ristorante è vicino alla galleria, se fai ancora qualche metro lungo la strada dovresti vedere le indicazioni per il museo. \nSconosciuto: Chiaro? \nMatteo: Sì! Grazie mille. \nSconosciuto: Prego, non c’è di che.",
+        
+        "audioTranscriptEnglish": "Mateo: Excuse me! \nStranger: Yes? How can I help you? Mateo: Thank you, I am trying to get to the Galleria degli Uffizi, but I am lost. Can you give me directions? \nStranger: Certainly, you are very close. Maybe 5 or 10 minutes by foot from here. \nStranger: You need to walk straight ahead on la via dei Benci until you reach the first intersection. \nStranger: Then turn left on Borgo dei Greci and continue straight until you reach another intersection. \nStranger: There, you will make a right onto via del Leoni. \nStranger. Follow that street south, and you will pass il ristorante Braceria Auditore. \nStranger: The restaurant is next to the galleria, if you walk a few more meters down the street, you should see signs for the museum. \nStranger: Understand? \nMateo: Yes! Thank you very much. \nStranger: Prego",
+        
+        "audioCutArrays": ["uffizi1", "uffizi2", "uffizi3", "uffizi4", "uffizi5", "uffizi6", "uffizi7", "uffizi8", "uffizi9", "uffizi10", "uffizi11", "uffizi12"],
+
+        "comprehensionQuestions": [
+            {
+
+                     "question": "La Galleria degli uffizi dista solo 30 min dallo sconosciuto?",
+                     "answer": "Falso",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Quale strada lui deve percorrere prima?",
+
+                     "answer": "Via dei Benci",
+
+                     "choices": ["Via dei Benci", "Via dei Saponai", "Via Vinegia", "Via del Leoni"]
+
+                 },
+
+                 {
+
+                     "question": "In strada lui deve girare a sinistra?",
+
+                     "answer": "Via del Leoni",
+
+                     "choices": ["Via dei Benci", "Via dei Saponai", "Via Vinegia", "Via del Leoni"]
+
+                 },
+
+                 {
+
+                     "question": "Lui deve seguire la strada verso sud fino a passare per il ristorante Braceria Auditore.",
+
+                     "answer": "Vero",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Il ristorante _________  Galleria degli Uffizi.",
+
+                     "answer": "Accanto alla",
+
+                     "choices": ["Accanto alla", "Dietro alla", "Di fronte alla"]
+
+                 }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Mi scusi",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Sì? Come posso aiutarla?",
+                "speakerNumber": 2,
+                "questionPart1": "Sì? Come posso ",
+                "answer": "aiutarla",
+                "questionPart2": " ?",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Grazie, sto cercando di arrivare alla Galleria degli Uffizi, ma mi sono perso. Può darmi indicazioni?",
+                "speakerNumber": 1,
+                "questionPart1": "Grazie, sto cercando di arrivare alla Galleria degli Uffizi, ma mi sono ",
+                "answer": "persa",
+                "questionPart2": " . Può darmi indicazioni?",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Certo, ci sei molto vicina. Forse 5 o 10 minuti a piedi da qui.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Devi camminare dritto sulla via dei Benci fino al primo incrocio.",
+                "speakerNumber": 2,
+                "questionPart1": "Devi camminare ",
+                "answer": "dritto",
+                "questionPart2": " sulla via dei Benci fino al primo incrocio.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Poi girare a sinistra su Borgo dei Greci e proseguire dritto fino a raggiungere un altro incrocio.",
+                "speakerNumber": 2,
+                "questionPart1": "Poi girare a ",
+                "answer": "sinistra",
+                "questionPart2": " su Borgo dei Greci e proseguire dritto fino a raggiungere un altro incrocio.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Lì, girerai a destra in via del Leoni.",
+                "speakerNumber": 2,
+                "questionPart1": "Lì, girerai a ",
+                "answer": "destra",
+                "questionPart2": " in via del Leoni.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Segui quella strada verso sud e passerai davanti al ristorante Braceria Auditore.",
+                "speakerNumber": 2,
+                "questionPart1": "Segui quella strada verso sud e passerai ",
+                "answer": "davanti",
+                "questionPart2": " al ristorante Braceria Auditore.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "i", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Il ristorante è vicino alla galleria, se fai ancora qualche metro lungo la strada dovresti vedere le indicazioni per il museo.",
+                "speakerNumber": 2,
+                "questionPart1": "Il ristorante è ",
+                "answer": "vicino",
+                "questionPart2": " alla galleria, se fai ancora qualche metro lungo la strada dovresti vedere le indicazioni per il museo.",
+                "answerArray": [
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Chiaro?",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Sì! Grazie mille.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Prego, non c’è di che.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Aiutare",
+                "wordEnglish": "to help",
+                "choices": ["to help", "to be", "to have", "to walk", "to talk"]
+            },
+            {
+                "wordItalian": "Perdere",
+                "wordEnglish": "to lose",
+                "choices": ["to lose", "to follow", "to walk", "to ask", "to have"]
+            },
+            {
+                "wordItalian": "Dritto",
+                "wordEnglish": "straight",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Sinistra",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                "wordItalian": "Destra",
+                "wordEnglish": "right",
+                "choices" : ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Davanti",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "in front of", "near"]
+            },
+            {
+                   "wordItalian": "Vicino",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "uffiziPIO1_3", "position": 1},
+                    {"audioFile": "uffiziPIO4_6", "position": 2},
+                    {"audioFile": "uffiziPIO7_8", "position": 3},
+                    {"audioFile": "uffiziPIO9", "position": 4},
+                    {"audioFile": "uffiziPIO10_13", "position": 5}
+                ]
+            }
+			
+		
+			
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Aiutare",
+                "wordEnglish": "To help"
+         
+            },
+            {
+                "wordItalian": "Perdere",
+                "wordEnglish": "To lose"
+             
+            },
+            {
+                "wordItalian": "Dritto",
+                "wordEnglish": "Straight"
+             
+            },
+            {
+                   "wordItalian": "Sinistra",
+                "wordEnglish": "Left"
+               
+            },
+            {
+                "wordItalian": "Destra",
+                "wordEnglish": "Right"
+              
+            },
+            {
+                   "wordItalian": "Davanti",
+                "wordEnglish": "In front of"
+               
+            },
+            {
+                "wordItalian": "Vicino",
+                "wordEnglish": "Near"
+              
+            },
+            {
+                "wordItalian": "Sto cercando",
+                "wordEnglish": "Stare + Cercare (Gerundio): I am searching"
+         
+            },
+            {
+                "wordItalian": "A piedie",
+                "wordEnglish": "By foot/On foot"
+             
+            },
+            {
+                "wordItalian": "Camminare",
+                "wordEnglish": "To walk"
+             
+            },
+            {
+                   "wordItalian": "Incrocio",
+                "wordEnglish": "Intersection"
+               
+            },
+            {
+                "wordItalian": "Girare",
+                "wordEnglish": "To turn"
+              
+            },
+            {
+                   "wordItalian": "Passerare",
+                "wordEnglish": "To pass"
+               
+            }
+ 
+            
+        ],
+		
+		
+		
+		
+	
+		     "keyIdeas": [
+            {
+                "idea": "Presente"
+         
+            },
+            {
+                "idea": "Stare + Gerundio Presente"
+         
+            },
+            {
+                "idea": "Nouns/Adjectives about direction and traffic"
+         
+            },
+			{
+                "idea": "Futuro"
+         
+            },
+			{
+                "idea": "Imperativo"
+         
+            }
+ 
+            
+        ]
+    },
+    
+    {
+
+        "audioName": "Stili di Bellagio",
+        
+        "isConversation": false,
+        "speaker1Image": "woman3",
+        "speaker2Image": "placeholder",
+        "numberOfDialogueQuestions": 10,
+
+        "audioTranscriptItalian": "Ciao a tutti! Venite a visitare il nostro nuovo negozio “Stili di Bellagio”. Abbiamo molte belle mode per uomini e donne. Maglioni di cotone di tante taglie e colori diversi. Abiti di seta con fiori per l'estate e bei tailleur per uomo. Abbiamo anche scarpe di molti stili e trame diversi. Scarpe da ginnastica per l'allenamento e scarpe in pelle per uscire o per l'ufficio. Abbiamo molti camerini e ti invitiamo a entrare e provare i nostri vestiti. Se qualcosa è troppo stretto o troppo grande, troveremo la taglia giusta per te! Se ti piace guardare le vetrine, abbiamo anche alcuni dei nostri migliori vestiti nelle vetrine dei negozi. Siamo aperti dalle 9:00 alle 17:00 e ci troviamo accanto alla gelateria di via Roma. ti aspettiamo vieni a trovarci!",
+        
+        "audioTranscriptEnglish": "Hello all! Please come and visit our new store “Styles of Bellagio” We have many beautiful fashions for men and women. Cotton sweaters of many different sizes and colors. Silk dresses with flowers for the summer and handsome suits for men. We also have shoes of many different styles and textures. Gym shoes for exercising and leather shoes for going out or for the office. We have many dressing rooms and encourage you to come inside and try on our clothing. If something is too tight or too large, we will find the right size for you! If you like to window shop, we have some of our best clothes in the shop windows as well. We are open from 9am to 5pm and can be found next to the ice cream shop on via Roma. Please come and see us!",
+        
+        "audioCutArrays": ["bellagio1", "bellagio2", "bellagio3", "bellagio4", "bellagio5", "bellagio6", "bellagio7", "bellagio8", "bellagio9", "bellagio10", "bellagio11"],
+
+        "comprehensionQuestions": [
+                    {
+
+                          "question": "Stili di Bellagio ha vestiti solo per ragazze?",
+
+                          "answer": "Falso",
+
+                          "choices": ["Vero", "Falso"]
+
+                      },
+
+                      {
+
+                          "question": "I Vestiti con i fiori di che materiale sono?",
+
+                          "answer": "Seta",
+
+                          "choices": ["Seta", "Cotone", "Pelle", "Lana"]
+
+                      },
+
+                      {
+
+                          "question": "Che tipo di scarpe vende il negozio?",
+
+                          "answer": "Scarpe di pelle",
+
+                          "choices": ["Scarpe di pelle", "Stivali", "Scarpe da tennis", "Sandali"]
+
+                      },
+
+                      {
+
+                          "question": "Il negozio ha solo uno camerino.",
+
+                          "answer": "Falso",
+
+                          "choices": ["Vero", "Falso"]
+
+                      },
+
+                      {
+
+                          "question": "Quali sono gli orari di apertura e di chiusura di Stile di Bellagio?",
+
+                          "answer": "Dalle 9 alle 5",
+
+                          "choices": ["Dalle 8 alle 4", "Dalle 9 alle 5", "Dalle 6 alle 5", "Dalle 10 alle 9"]
+
+                      }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Ciao a tutti! Venite a visitare il nostro nuovo negozio Stili di Bellagio.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Abbiamo molte belle mode per uomini e donne.",
+                "speakerNumber": 1,
+                "questionPart1": "Abbiamo molte belle ",
+                "answer": "mode",
+                "questionPart2": " per uomini e donne.",
+                "answerArray": [
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Maglioni di cotone di tante taglie e colori diversi.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "Maglione",
+                "questionPart2": " di cotone di tante taglie e colori diversi.",
+                "answerArray": [
+                    {"letter": "M", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Abiti di seta con fiori per l'estate e bei tailleur per uomo.",
+                "speakerNumber": 1,
+                "questionPart1": "Abiti di ",
+                "answer": "seta",
+                "questionPart2": " con fiori per l'estate e bei tailleur per uomo.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Abbiamo anche scarpe di molti stili e trame diversi.",
+                "speakerNumber": 1,
+                "questionPart1": "Abbiamo anche ",
+                "answer": "scarpe",
+                "questionPart2": " di molti stili e trame diversi.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Scarpe da ginnastica per l'allenamento e scarpe in pelle per uscire o per l'ufficio.",
+                "speakerNumber": 1,
+                "questionPart1": "Scarpe da ginnastica per l'allenamento e scarpe in ",
+                "answer": "pelle",
+                "questionPart2": " per uscire o per l'ufficio.",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Abbiamo molti camerini e ti invitiamo a entrare e provare i nostri vestiti.",
+                "speakerNumber": 1,
+                "questionPart1": "Abbiamo molti ",
+                "answer": "camerini",
+                "questionPart2": " e ti invitiamo a entrare e provare i nostri vestiti.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Se qualcosa è troppo stretto o troppo grande, troveremo la taglia giusta per te!",
+                "speakerNumber": 1,
+                "questionPart1": "Se qualcosa è troppo ",
+                "answer": "stretto",
+                "questionPart2": " o troppo grande, troveremo la taglia giusta per te!",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Se ti piace guardare le vetrine, abbiamo anche alcuni dei nostri migliori vestiti nelle vetrine dei negozi.",
+                "speakerNumber": 1,
+                "questionPart1": "Se ti piace guardare le ",
+                "answer": "vetrine",
+                "questionPart2": " abbiamo anche alcuni dei nostri migliori vestiti nelle vetrine dei negozi.",
+                "answerArray": [
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Siamo aperti dalle 9:00 alle 17:00 e ci troviamo accanto alla gelateria di via Roma.",
+                "speakerNumber": 1,
+                "questionPart1": "Siamo ",
+                "answer": "aperti",
+                "questionPart2": " dalle 9:00 alle 17:00 e ci troviamo accanto alla gelateria di via Roma.",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "ti aspettiamo vieni a trovarci!",
+                "speakerNumber": 1,
+                "questionPart1": "ti ",
+                "answer": "aspettiamo",
+                "questionPart2": " vieni a trovarci",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Mode",
+                "wordEnglish": "fashions",
+                "choices": ["middle", "fun", "shirts", "shoes", "store"]
+            },
+            {
+                "wordItalian": "Maglione",
+                "wordEnglish": "sweater",
+                "choices": ["shirt", "pants", "shoes", "coat", "gloves"]
+            },
+            {
+                "wordItalian": "Seta",
+                "wordEnglish": "silk",
+                "choices": ["leather", "silk", "cotton", "wool", "soft"]
+            },
+            {
+                   "wordItalian": "Scarpe",
+                "wordEnglish": "shoes",
+                "choices": ["shirt", "pants", "shoes", "coat", "gloves"]
+            },
+            {
+                "wordItalian": "Pelle",
+                "wordEnglish": "leather",
+                "choices" : ["leather", "silk", "cotton", "wool", "soft"]
+            },
+            {
+                   "wordItalian": "Camera",
+                "wordEnglish": "dressing room",
+                "choices": ["dressing room", "living room", "window", "wool", "bedroom"]
+            },
+            {
+                   "wordItalian": "Stretto",
+                "wordEnglish": "tight",
+                "choices": ["tight", "loose", "big", "size", "straight"]
+            },
+            {
+                   "wordItalian": "Ventrine",
+                "wordEnglish": "shop window",
+                "choices": ["door", "dressing room", "sign", "shoes", "sweaters"]
+            },
+            {
+                   "wordItalian": "Aperti",
+                "wordEnglish": "Open - adjective",
+                "choices": ["door", "dressing room", "sign", "shoes", "sweaters"]
+            },
+            {
+                   "wordItalian": "Aspettare",
+                "wordEnglish": "to wait",
+                "choices": ["to wait", "to come", "to buy", "to sell", "to open"]
+            }
+    
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "bellagioPIO1_3mp3", "position": 1},
+                    {"audioFile": "bellagioPIO3_5", "position": 2},
+                    {"audioFile": "bellagioPIO6_7", "position": 3},
+                    {"audioFile": "bellagioPIO8_9", "position": 4},
+                    {"audioFile": "bellagioPIO10_11", "position": 5}
+                ]
+            }
+			
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Mode",
+                "wordEnglish": "Fashions"
+            
+            },
+            {
+                "wordItalian": "Maglione",
+                "wordEnglish": "Sweater"
+             
+            },
+            {
+                "wordItalian": "Seta",
+                "wordEnglish": "Silk"
+              
+            },
+            {
+                "wordItalian": "Scarpe",
+                "wordEnglish": "Shoes"
+               
+            },
+            {
+                "wordItalian": "Pelle",
+                "wordEnglish": "Leather"
+              
+            },
+            {
+                "wordItalian": "Camera",
+                "wordEnglish": "Dressing room"
+                
+            },
+            {
+                "wordItalian": "Stretto",
+                "wordEnglish": "Tight"
+               
+            },
+            {
+                "wordItalian": "Ventrine",
+                "wordEnglish": "Shop window"
+               
+            },
+            {
+                "wordItalian": "Aperti",
+                "wordEnglish": "Open"
+               
+            },
+            {
+                "wordItalian": "Aspettare",
+                "wordEnglish": "To wait"
+               
+            },
+            {
+                "wordItalian": "Taglie",
+                "wordEnglish": "Sizes"
+             
+            },
+            {
+                "wordItalian": "Abiti",
+                "wordEnglish": "Clothes"
+ 
+            },
+            {
+                "wordItalian": "Fiori",
+                "wordEnglish": "Flowers"
+             
+            },
+            {
+                "wordItalian": "Tailleur",
+                "wordEnglish": "Suit"
+              
+            },
+            {
+                "wordItalian": "Tailleur",
+                "wordEnglish": "Suit"
+              
+            },
+            {
+                "wordItalian": "Trame",
+                "wordEnglish": "Themes"
+              
+            },
+            {
+                "wordItalian": "L'allenamento",
+                "wordEnglish": "Training"
+              
+            },
+            {
+                "wordItalian": "Trovarci",
+                "wordEnglish": "Find us/Locate us"
+              
+            }
+        ],
+		
+		
+	
+		     "keyIdeas": [
+            {
+                "idea": "Presente"
+         
+            },
+            {
+                "idea": "Clothing nouns and adjectives"
+         
+            },
+            {
+                "idea": "Nouns and adjectives about stores/buildings"
+         
+            }
+ 
+            
+        ]
+    },
+    
+    {
+
+        "audioName": "Il Rinascimento",
+        
+        "isConversation": false,
+        "speaker1Image": "teacher",
+        "speaker2Image": "placeholder",
+        "numberOfDialogueQuestions": 8,
+
+        "audioTranscriptItalian": "Il Rinascimento italiano è stato un periodo della storia italiana che si è verificato nei XV e XVI secoli. Il rinascimento iniziò in Toscana, ma il cuore del movimento stava avvenendo nella città di Firenze. Il Rinascimento italiano è famoso per le sue conquiste nella pittura, nella musica, nella scultura, nella letteratura e in molte altre forme di arte e scienza. Alcuni degli artisti italiani più famosi di quel tempo includono Leonardo da Vinci, Michelangelo, Donatello, e Piero della Francesca. Gran parte del Rinascimento includeva il movimento culturale chiamato 'Umanesimo'. La sua filosofia era di far avvicinare le persone alla scienza alle arti classiche. Uno dei motivi per cui iniziò il rinascimento in Italia fu proprio in quel periodo, l'Italia era diventata molto ricca e quelle persone benestanti erano disposte a spendere i loro soldi per sostenere artisti e scienziati nella loro ricerca dell'umanesimo. Il Rinascimento si diffuse in tutta Europa ed è responsabile della crescita della conoscenza e dell'arte in tutto il mondo.",
+        
+        "audioTranscriptEnglish": "The Italian Renaissance was a period of Italian history that occurred in the 15th and 16th centuries. The renaissance started in Tuscany, but the heart of the movement was happening in the city of Florence. The Italian renaissance is famous for its achievements in painting, music, sculpture, literature and many other forms of art and science. Some of the most famous Italian artists from that time include Leonardo da Vinci, Michelangelo, Donatello, and Piero della Francesca. A large part of the renaissance included the cultural movement called ‘Humanism’. It was the philosophy that people should try to become more educated in both science and classical arts. One of the reasons that the renaissance began in Italy was during that period, Italy had become very wealthy, and those wealthy people were willing to spend their money to support artists and scientists in their pursuit of humanism. The Renaissance spread throughout Europe and is responsible for the growth of knowledge and art all over the world.",
+        
+        "audioCutArrays": ["rena1", "rena2", "rena3", "rena4", "rena5", "rena6", "rena7", "rena8", "rena9"],
+
+        "comprehensionQuestions": [
+            {
+
+                           "question": "Dove è iniziato Il Rinascimento?",
+
+                           "answer": "Toscana",
+
+                           "choices": ["Toscana", "Firenze", "Venezia", "Milano"]
+
+                       },
+
+                       {
+
+                           "question": "Quale argomento culturale non è discusso nel testo?",
+
+                           "answer": "Economia",
+
+                           "choices": ["Economia", "Musica", "Arte", "Letteratura"]
+
+                       },
+
+                       {
+
+                           "question": "Qual è il nome del movimento culturale che ha reso famoso Il Rinascimento?",
+
+
+                           "answer": "Umanesimo",
+
+                           "choices": ["Altruismo", "Umanesimo", "Realismo", "Surrealismo"]
+
+                       },
+
+                       {
+
+                           "question": "Uno dei motivi per cui Il Rinascimento è iniziato in Italia è perché molte persone ricche hanno investito nell’arte.",
+
+                           "answer": "True",
+
+                           "choices": ["True", "False"]
+
+                       },
+
+                       {
+
+                           "question": "Chi tra i famosi artisti del rinascimento non è stato nominato nel testo?",
+
+                           "answer": "Raphael",
+
+                           "choices": ["Michelangelo", "Leonardo da Vinci", "Piero della Francesa", "Raphael"]
+
+                       }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Il Rinascimento italiano è stato un periodo della storia italiana che si è verificato nei XV e XVI secoli.",
+                "speakerNumber": 1,
+                "questionPart1": "Il Rinascimento italiano è stato un periodo della storia italiana che si è verificato nei XV e XVI ",
+                "answer": "secoli",
+                "questionPart2": " .",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Il rinascimento iniziò in Toscana, ma il cuore del movimento stava avvenendo nella città di Firenze.",
+                "speakerNumber": 1,
+                "questionPart1": "Il rinascimento iniziò in Toscana, ma il ",
+                "answer": "cuore",
+                "questionPart2": " del movimento stava avvenendo nella città di Firenze.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Il Rinascimento italiano è famoso per le sue conquiste nella pittura, nella musica, nella scultura, nella letteratura e in molte altre forme di arte e scienza.",
+                "speakerNumber": 1,
+                "questionPart1": "Il Rinascimento italiano è famoso per le sue ",
+                "answer": "conquiste",
+                "questionPart2": " nella pittura, nella musica, nella scultura, nella letteratura e in molte altre forme di arte e scienza.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "q", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Alcuni degli artisti italiani più famosi di quel tempo includono Leonardo da Vinci, Michelangelo, Donatello, e Piero della Francesca.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Gran parte del Rinascimento includeva il movimento culturale chiamato 'Umanesimo'.",
+                "speakerNumber": 1,
+                "questionPart1": "Gran parte del Rinascimento includeva il movimento culturale ",
+                "answer": "chiamato",
+                "questionPart2": " 'Umanesimo'.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "La sua filosofia era di far avvicinare le persone sia alla scienza che alle arti classiche.",
+                "speakerNumber": 1,
+                "questionPart1": "La sua filosofia era di far ",
+                "answer": "avvicinare",
+                "questionPart2": " le persone alla scienza alle arti classiche.",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Uno dei motivi per cui iniziò il rinascimento in Italia fu proprio in quel periodo, l'Italia era diventata molto ricca.",
+                "speakerNumber": 1,
+                "questionPart1": "Uno dei motivi per cui iniziò il rinascimento in Italia fu proprio in quel periodo, l'Italia era ",
+                "answer": "diventata",
+                "questionPart2": " molto ricca.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Quelle persone benestanti erano disposte a spendere i loro soldi per sostenere artisti e scienziati nella loro ricerca dell'umanesimo.",
+                "speakerNumber": 1,
+                "questionPart1": "Quelle persone benestanti erano disposte a spendere i loro soldi per sostenere artisti e scienziati nella loro ",
+                "answer": "ricerca",
+                "questionPart2": " dell'umanesimo.",
+                "answerArray": [
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Il Rinascimento si diffuse in tutta Europa ed è responsabile della crescita della conoscenza e dell'arte in tutto il mondo.",
+                "speakerNumber": 1,
+                "questionPart1": "Il Rinascimento si diffuse in tutta Europa ed è responsabile della ",
+                "answer": "crescita",
+                "questionPart2": " della conoscenza e dell'arte in tutto il mondo.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Secoli",
+                "wordEnglish": "centuries",
+                "choices": ["centuries", "ages", "sections", "years", "history"]
+            },
+            {
+                "wordItalian": "Cuore",
+                "wordEnglish": "heart",
+                "choices": ["heart", "arm", "leg", "head", "stomach"]
+            },
+            {
+                "wordItalian": "Conquiste",
+                "wordEnglish": "conquests",
+                "choices": ["conquests", "jobs", "improvements", "accomplishments", "failures"]
+            },
+            {
+                   "wordItalian": "Chiamare",
+                "wordEnglish": "to call",
+                "choices": ["to call", "to talk", "to describe", "to become", "to grow"]
+            },
+            {
+                "wordItalian": "Avvicinare",
+                "wordEnglish": "to approach",
+                "choices" : ["to approach", "to add", "to become", "to grow", "to call"]
+            },
+            {
+                   "wordItalian": "Diventare",
+                "wordEnglish": "to become",
+                "choices": ["to become", "to approach", "to grow", "to call", "to search"]
+            },
+            {
+                   "wordItalian": "Ricerca",
+                "wordEnglish": "research",
+                "choices": ["research", "search", "find", "discover", "turn"]
+            },
+            {
+                   "wordItalian": "Crescita",
+                "wordEnglish": "growth",
+                "choices": ["decline", "growth", "search", "discover", "approach"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "renaPIO1_2", "position": 1},
+                    {"audioFile": "renaPIO3_4", "position": 2},
+                    {"audioFile": "renaPIO5", "position": 3},
+                    {"audioFile": "renaPIO6_7", "position": 4},
+                    {"audioFile": "renaPIO8_9", "position": 5}
+                ]
+				
+			
+				
+				
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Secoli",
+                "wordEnglish": "Centuries"
+       
+            },
+            {
+                "wordItalian": "Cuore",
+                "wordEnglish": "Heart"
+         
+            },
+            {
+                "wordItalian": "Conquiste",
+                "wordEnglish": "Conquests"
+          
+            },
+            {
+                "wordItalian": "Chiamare",
+                "wordEnglish": "To call"
+               
+            },
+            {
+                "wordItalian": "Avvicinare",
+                "wordEnglish": "To approach"
+              
+            },
+            {
+                "wordItalian": "Diventare",
+                "wordEnglish": "To become"
+               
+            },
+            {
+                "wordItalian": "Ricerca",
+                "wordEnglish": "Research"
+               
+            },
+            {
+                "wordItalian": "Crescita",
+                "wordEnglish": "Growth"
+             
+            },
+            {
+                "wordItalian": "Verificare",
+                "wordEnglish": "To verify"
+             
+            },
+            {
+                "wordItalian": "Pittura",
+                "wordEnglish": "Painting"
+             
+            },
+            {
+                "wordItalian": "Benestanti",
+                "wordEnglish": "Wealthy"
+             
+            },
+            {
+                "wordItalian": "Ricca",
+                "wordEnglish": "Rich (feminine)"
+             
+            },
+            {
+                "wordItalian": "Disposte",
+                "wordEnglish": "Willing"
+             
+            },
+            {
+                "wordItalian": "Diffusare",
+                "wordEnglish": "To spread"
+             
+            },
+            {
+                "wordItalian": "Crescita",
+                "wordEnglish": "Growth"
+             
+            }
+        ],
+		
+		
+		
+		     "keyIdeas": [
+            {
+                "idea": "Passato Prossimo"
+         
+            },
+            {
+                "idea": "L'Imperfetto Progressivo"
+         
+            },
+            {
+                "idea": "Presente"
+         
+            },
+			{
+                "idea": "Imperfetto"
+         
+            }
+ 
+            
+        ]
+    },
+	
+	{
+
+        "audioName": "Il Colloquio di Lavoro",
+        
+        "isConversation": true,
+        "speaker1Image": "man2",
+        "speaker2Image": "woman2",
+        "numberOfDialogueQuestions": 12,
+
+        "audioTranscriptItalian": "Manager: Salve, grazie per essere qui oggi. Sei Gianna, giusto? \nGianna: Salve, si, sono Gianna. Piacere. \nManager: Piacere mio , allora, sei qui per la posizione come insegnante di inglese. Può parlarmi di lei? \nGianna: Certo, sono Gianna, ho ventiquattro anni, e sono nata a Boston negli Stati Uniti. Ho frequentato L'università di Boston dove ho studiato la lingua e l’arte italiana. Sto cercando una posizione full time in Italia come insegnante d’Inglese. Il mio sogno è vivere qui permanentemente e questo è il mio primo passo. \nManager: Molto interessante… Questa posizione è a tempo pieno e dovrebbe insegnare agli adulti.  Cosa ne pensa a riguardo? Può parlarmi delle sue esperienze nell’ambito dell’insegnamento? \nGianna: Mi trovo bene a insegnare agli adulti, e ho molta esperienza nell'insegnamento dell’inglese quando ho frequentatol'università. Ho fatto parte di una programma dove i madrelingua  insegnavano inglese agli studenti stranieri per aiutarli ad ambientarsi nelle università americane. Ho avuto tre studenti e tutti hanno raggiunto il livello B2 dopo un anno. \nManager: Impressionante, adesso, mi piacerebbe  farle questa domanda. Mi dica un suo punto debole e un suo punto di forza. \nGianna: Hmm, buona domanda. Penso che un mio pregio sia la mia abilità con la comunicazione. Sono molto brava a parlare con nuove persone e ho anche molta pazienza. Tutti i miei studenti mi hanno lasciato buone recensioni dicendomi che sono gentile e che per loro è facile  parlare con me. Il mio punto debole è che non lavoro bene sotto pressione. All’ inizio con la maggior parte dei miei studenti, era difficile ricordare tutti i dettagli importante che li riguardavano, ma sto lavorando su questo e sto provando ad essere più organizzata. \nManager: Grazie per la sua onestà, quindi, penso che sia una buona insegnante per la nostra azienda. Spero che la quantità di studenti non sarà un problema per te qualora ricevessi il lavoro. \nGianna: Sono sicura con un po’ di pratica potrò riuscire a svolgere bene questo lavoro. \nManager: Perfetto, grazie per il suo tempo e ti telefoneremo se sarai selezionata  o no per questo lavoro, tra una settimana. Arrivederla. \nGianna: Grazie mille, Arrivederla.",
+        
+        "audioTranscriptEnglish": "Manager: Hello, thanks for being here today. You are Gianna, right? \nGianna: Hello, yes, I am Gianna. Pleased to meet you. \nManager: My pleasure, so, you are here for the positions as an english teacher. Can you tell me about yourself? \nGianna: Sure, I am Gianna, I am twenty four years old, and I was born in Boston, in the United States. I went to the University of Boston where I studied Italian language and art. I am searching for a full time position in Italy as a english teacher. My dream is to live here permanently and this is my first step. \nManager: Very interesting...This position is a full time position and it would require teaching to adults, what do you think about this? Can you tell me about your experiences in the teaching sector? \nGianna: I find it ok to teach to adults, and I have alot of experience in the teaching of english when I went to university. I took part in a program where native speakers taught english to foreign students to help them acclimate in american universities. I had three students and all of them had reached level B2 after one year. \nManager: Impressive, now, it would please me to ask you this question. Tell me a weaknesses and one of your strengths. \nGianna: Hmm, good question. I think that my asset is my ability with communication. I am very good at talking with new people and I have a lot of patience. All of my studnets left me a good review saying to me that I am kind and that it is easy for them to talk to me. My punt of weakness is that I do not work well under pressure. In the begining, with the major part of my stiends, it was difficult to remember all of the important details about them, but I am working on this and I am trying to be more organized. \nManager: Thank you for your honesty, so, I think that you would be a good teacher for our company. I hope that the number of students will not be a problem for you if you get the job. \nGianna: I am sure that with  a little practice I will be able to succeed at carrying out this job well. \nManager: Perfect, thank your for your time and we will call you if you will be selected o not for this job, within a week. Goodbye. \nGianna: Thank you very much, goodbye.",
+        
+        "audioCutArrays": ["colloquio1", "colloquio2", "colloquio3", "colloquio4", "colloquio5", "colloquio6", "colloquio7", "colloquio8", "colloquio9", "colloquio10", "colloquio11", "colloquio12", "colloquio13", "colloquio14", "colloquio15", "colloquio16"],
+
+        "comprehensionQuestions": [
+				{
+
+                     "question": "Gianna sta facendo un colloquio per lavorare come?",
+                     "answer": "Insegnante di Inglese",
+
+                     "choices": ["Insegnante di Inglese", "Insegnante di Italiano", "Una cuoca", "Una grafica"]
+
+                 },
+
+                 {
+
+                     "question": "Gianna ha lavorato per un’azienda privata.",
+
+                     "answer": "Falso",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Gli studenti di Gianna hanno scritto nelle loro recensioni che lei è?",
+
+                     "answer": "Gentile e pazienza",
+
+                     "choices": ["Gentile e pazienza", "Scortese e antipatica", "Scontrosa", "Divertente e simpatica"]
+
+                 },
+
+                 {
+
+                     "question": "Un pregio di Gianna è la sua abilità a comunicare.",
+
+                     "answer": "Vero",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Il manager è preoccupato riguardo a...?",
+
+                     "answer": "La quantità degli studenti",
+
+                     "choices": ["La quantità degli studenti", "La sua conoscenza dell’inglese", "Le sue abilità d’insegnamento", "I suoi problemi d’organizzazione"]
+
+                 },
+				 
+				 {
+
+                     "question": "Riceverà una risposta riguarda il lavoro tra...?",
+
+                     "answer": "Una settimana",
+
+                     "choices": ["Una settimana", "Due settimane", "Un mese", "Due giorni"]
+
+                 }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Salve, grazie per essere qui oggi. Sei Gianna, giusto?",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Salve, si, sono Gianna. Piacere.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Piacere mio, allora, sei qui per la posizione come insegnante di inglese. Può parlarmi di lei?",
+                "speakerNumber": 1,
+                "questionPart1": "Piacere mio, allora, sei qui per la posizione come insegnante di inglese. Può ",
+                "answer": "parlarmi",
+                "questionPart2": " di lei?",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "m", "showLetter": false},
+					{"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Certo, sono Gianna, ho ventiquattro anni, e sono nata a Boston negli Stati Uniti. Ho frequentato l'università di Boston dove ho studiato la lingua e l’arte italiana.",
+                "speakerNumber": 2,
+                "questionPart1": "Certo, sono Gianna, ho ventiquattro anni, e sono nata a Boston negli Stati Uniti. ",
+                "answer": "Ho frequentato",
+                "questionPart2": " l'università di Boston dove ho studiato la lingua e l’arte italiana.",
+                "answerArray": [
+                    {"letter": "H", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "q", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+					{"letter": "e", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Sto cercando una posizione full time in Italia come insegnante d’Inglese. Il mio sogno è vivere qui permanentemente e questo è il mio primo passo.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "Sto cercando",
+                "questionPart2": " una posizione full time in Italia come insegnante d’Inglese. Il mio sogno è vivere qui permanentemente e questo è il mio primo passo.",
+                "answerArray": [
+                    {"letter": "S", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Molto interessante… Questa posizione è a tempo pieno e dovrebbe insegnare agli adulti.",
+                "speakerNumber": 1,
+                "questionPart1": "Molto interessante… Questa posizione è a tempo pieno e ",
+                "answer": "dovrebbe",
+                "questionPart2": " insegnare agli adulti.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Cosa ne pensa a riguardo? può parlarmi delle sue esperienze nell'ambito dell’insegnamento?",
+                "speakerNumber": 1,
+                "questionPart1": "Cosa ne pensa a riguardo? può parlarmi delle sue esperienze nell' ",
+                "answer": "ambito",
+                "questionPart2": " dell’insegnamento?",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "m", "showLetter": false},
+					{"letter": "b", "showLetter": false},
+					{"letter": "i", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Mi trovo bene a insegnare agli adulti, e ho molta esperienza nell'insegnamento dell’inglese quando ho frequentatol'università.Ho fatto parte di  una programma dove i madrelingua  insegnavano inglese agli studenti stranieri per aiutarli ad ambientarsi nelle università americane.",
+                "speakerNumber": 2,
+                "questionPart1": "Mi trovo bene a insegnare agli adulti, e ho molta esperienza nell'insegnamento dell’inglese quando ho frequentatol'università.Ho fatto parte di  una programma dove i madrelingua ",
+                "answer": "insegnavano",
+                "questionPart2": " inglese agli studenti stranieri per aiutarli ad ambientarsi nelle università americane.",
+                "answerArray": [
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+					{"letter": "v", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Ho avuto tre studenti e tutti hanno raggiunto il livello B2 dopo un anno.",
+                "speakerNumber": 2,
+                "questionPart1": "Ho avuto tre studenti e tutti ",
+                "answer": "hanno raggiunto",
+                "questionPart2": " il livello B2 dopo un anno.",
+                "answerArray": [
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "g", "showLetter": false},
+					{"letter": "g", "showLetter": false},
+					{"letter": "i", "showLetter": false},
+					{"letter": "u", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+				
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Impressionante, adesso, mi piacerebbe  farle questa domanda. Mi dica un suo punto debole e un suo punto di forza.",
+                "speakerNumber": 1,
+                "questionPart1": "Impressionante, adesso, mi piacerebbe  farle questa domanda. Mi dica un suo punto ",
+                "answer": "debole",
+                "questionPart2": " e un suo punto di forza.",
+                "answerArray": [
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Hmm, buona domanda. Penso che un mio pregio sia la mia abilità con la comunicazione. Sono molto brava a parlare con nuove persone e ho anche molta pazienza. Tutti i miei studenti mi hanno lasciato buone recensioni dicendomi che sono gentile e che per loro è facile  parlare con me.",
+                "speakerNumber": 2,
+                "questionPart1": "Hmm, buona domanda. Penso che un mio ",
+                "answer": "pregio",
+                "questionPart2": " sia la mia abilità con la comunicazione. Sono molto brava a parlare con nuove persone e ho anche molta pazienza. Tutti i miei studenti mi hanno lasciato buone recensioni dicendomi che sono gentile e che per loro è facile  parlare con me.",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Il mio punto debole è che non lavoro bene sotto pressione. All’ inizio con la maggior parte dei miei studenti, era difficile ricordare tutti i dettagli che li riguardavano, ma sto lavorando su questo e sto provando ad essere più organizzata.",
+                "speakerNumber": 2,
+                "questionPart1": "Il mio punto debole è che non lavoro bene sotto pressione. All’ inizio con la maggior parte dei miei studenti, era difficile ricordare tutti i dettagli che li riguardavano, ma ",
+                "answer": "sto lavorando",
+                "questionPart2": " su questo e sto provando ad essere più organizzata.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Grazie per la sua onestà, quindi, penso che sia una buona insegnante per la nostra azienda. Spero che la quantità di studenti non sarà un problema per te qualora ricevessi il lavoro.",
+                "speakerNumber": 1,
+                "questionPart1": "Grazie per la sua onestà, quindi, penso che sia una buona insegnante per la nostra azienda. Spero che la quantità di studenti non sarà un problema per te qualora ",
+                "answer": "ricevessi",
+                "questionPart2": " il lavoro.",
+                "answerArray": [
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+					{"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Sono sicura con un po’ di pratica potrò riuscire a svolgere bene questo lavoro.",
+                "speakerNumber": 2,
+                "questionPart1": "Sono sicura con un po’ di pratica potrò riuscire a ",
+                "answer": "svolgere",
+                "questionPart2": " bene questo lavoro.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Perfetto, grazie per il suo tempo e ti telefoneremo se sarai selezionata  o no per questo lavoro, tra una settimana o più. Arrivederla.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Grazie mille, Arrivederla.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Aiutare",
+                "wordEnglish": "to help",
+                "choices": ["to help", "to be", "to have", "to walk", "to talk"]
+            },
+            {
+                "wordItalian": "Perdere",
+                "wordEnglish": "to lose",
+                "choices": ["to lose", "to follow", "to walk", "to ask", "to have"]
+            },
+            {
+                "wordItalian": "Dritto",
+                "wordEnglish": "straight",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Sinistra",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                "wordItalian": "Destra",
+                "wordEnglish": "right",
+                "choices" : ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Davanti",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "in front of", "near"]
+            },
+            {
+                   "wordItalian": "Vicino",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "colloquioPIO1_3", "position": 1},
+                    {"audioFile": "colloquioPIO4_6", "position": 2},
+                    {"audioFile": "colloquioPIO7_9", "position": 3},
+                    {"audioFile": "colloquioPIO10_12", "position": 4},
+                    {"audioFile": "colloquioPIO13_16", "position": 5}
+                ]
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Parlarmi",
+                "wordEnglish": "Talk to me"
+         
+            },
+            {
+                "wordItalian": "Frequentare",
+                "wordEnglish": "To attend"
+             
+            },
+            {
+                "wordItalian": "Cercare",
+                "wordEnglish": "To search for"
+             
+            },
+            {
+                   "wordItalian": "Dovere",
+                "wordEnglish": "To have to"
+               
+            },
+            {
+                "wordItalian": "Ambito",
+                "wordEnglish": "Scope"
+              
+            },
+            {
+                   "wordItalian": "Insegnare",
+                "wordEnglish": "To teach"
+               
+            },
+            {
+                "wordItalian": "Raggiungere",
+                "wordEnglish": "To reach"
+              
+            },
+            {
+                "wordItalian": "Debole",
+                "wordEnglish": "Weakness"
+         
+            },
+            {
+                "wordItalian": "Pregio",
+                "wordEnglish": "Merit/Strength"
+             
+            },
+            {
+                "wordItalian": "Lavorare",
+                "wordEnglish": "To work"
+             
+            },
+            {
+                   "wordItalian": "Ricevere",
+                "wordEnglish": "To receive"
+               
+            },
+            {
+                "wordItalian": "Svolgere",
+                "wordEnglish": "To carry out"
+              
+            }
+		],
+ 
+            
+        
+		
+		     "keyIdeas": [
+            {
+                "idea": "Passato Prossimo"
+         
+            },
+            {
+                "idea": "Stare + Gerundio Presente"
+         
+            },
+            {
+                "idea": "Condizionale"
+         
+            },
+            {
+                "idea": "Imperfetto"
+         
+            },
+			{
+                "idea": "Conguintivo"
+         
+            },
+			{
+                "idea": "Conguintivo Imperfetto"
+         
+            }
+ 
+            
+        ]
+    },
+	
+	{
+
+        "audioName": "Alla Ricerca di un Appartamento",
+        
+        "isConversation": true,
+        "speaker1Image": "man2",
+        "speaker2Image": "woman2",
+        "numberOfDialogueQuestions": 15,
+
+        "audioTranscriptItalian": "Chiara: Pronto. \nIsabella: Salve, lei è Chiara? la persona che sta affittando l'appartamento? \nChiara: Si, sono Chiara, chi è? \nIsabella: Sono Isabella, sono interessata al suo appartamento. \nChiara: Perfetto, come posso aiutarla? \nIsabella: Ho un paio di domande. L'appartamento è al terzo piano giusto? \nChiara: Si, al terzo piano e l'edificio ha quattro piani in tutto. \nIsabella: C'è un ascensore? \nChiara: No, è un edificio antico , che ha solo le scale . \nIsabella: Ah, che peccato. \nIsabella: C'è l’ aria condizionata? \nChiara: No, mi dispiace, come le ho detto, è un edificio antico. Non sono sicura se questo appartamento faccia al caso suo. \nIsabella: Forse ha ragione. Com’è  la zona in generale? C’è molto spazio? C'è molta luce?  Ci sono buoni ristorantie, negozi, o supermercati vicino? \nChiara: L'appartamento non ha molto spazio ma è abbastanza grande per una persona. C'è una camera da letto, un soggiorno con abbastanza spazio per un divano, una tv, e un piccolo tavolo. C'è una piccola cucina con un frigorifero e un piano cottura. Ovviamente ha un bagno con una doccia, è un appartamento semplice ma comodo. \nIsabella: E la posizione? \nChiara: Riguarda la posizione, è proprio buono, e vicino a ottimi ristoranti, negozi, e c'è anche un Conad che può raggiungere a piedi. \nIsabella: Mi sembra bello. E l'affitto costa cinquecento euro al mese? \nChiara: Si, cinquecento. \nIsabella: Posso vederlo di persona? \nChiara: Certo, quando vorrebbe vederlo? \nIsabella:  Domani va bene per lei? verso dieci? \nChiara: Perfetto, ci vediamo. \nIsabella: Grazie mille, arrivederci.",
+        
+        "audioTranscriptEnglish": "Chiara: Pronto. \nIsabella: Hello, is this Chiara? the person that is renting the apartment? \nChiara: Yes, I am Chiara, who is this? \nIsabella: I am Isabella, I am interestted in your apartment. \nChiara: Perfect, how can I help you? \nIsabella: I have a couple of questions. The apartment is on the third floor right? \nChiara: Yes, the third floor and the building has floors total. \nIsabella: Is there an elevator? \nChiara: No, it is an old building, it only has stairs. \nIsabella: Ah, what a shame. \nIsabella: Is there air conditioning? \nChiara: No, I am sorry, like I told you, it is a old building. I am not sure this appartment is a good fit for you. \nIsabella: Maybe you are right. How is the area in general? Is there a lot of space? Is there a lot of light? Is there good restaurants, stores, or supermarkets near? \nChiara: The apartment does not have a lot of space but it is big enough for one person. There is a bedroom, a living room with enough space for a couch, a sofa, a tv, and a small table. There is a small kitchen with a refrigerator and a stovetop. Obviously there is a bathroom with a shower, it is a simple appartment but comfortable. \nIsabella: And the location? \nChiara: Regarding the location, it is really good, and close to excellent restaurants, stores, and there is also a Conad that you can reach by foot. \nIsabella: It seems beautiful to me. And the rent is 500 euro per month? \nChiara: Yes, 500. \nIsabella: Can I see it in person? \nChiara: Sure, when would you like to see it? \nIsabella: Is tomorrow ok for you? around 10? \nChiara: Perfect, Ill see you then. \nIsabella: Thank you very much, goodbye.",
+        
+        "audioCutArrays": ["appartamento1withRing", "appartamento2", "appartamento3", "appartamento4", "appartamento5", "appartamento6", "appartamento7", "appartamento8", "appartamento9", "appartamento10", "appartamento11", "appartamento12", "appartamento13", "appartamento14", "appartamento15", "appartamento16", "appartamento17", "appartamento18", "appartamento19", "appartamento20","appartamento21", "appartamento22", "appartamento23"],
+
+        "comprehensionQuestions": [
+            {
+
+                     "question": "Isabella sta provando...?",
+                     "answer": "Affitare un'appartamento",
+
+                     "choices": ["Affitare un'appartamento", "Comprare una macchina", "Fare prenotazione per cena", "Comprare una casa"]
+
+                 },
+
+                 {
+
+                     "question": "L'appartamento è al quarto piano.",
+
+                     "answer": "Falso",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Describi la appartamento.",
+
+                     "answer": "Piccolo ma comodo",
+
+                     "choices": ["Grande e nuovo", "Vecchio ma grande", "Piccolo ma comodo", "Lontano di ristoranti e negozi"]
+
+                 },
+
+                 {
+
+                     "question": "Quanto costa l'affitto per mese?",
+
+                     "answer": "Cinquecento",
+
+                     "choices": ["Cinquecento", "Quattrocento", "Seicento", "Cinquanta cinquecento"]
+
+                 },
+
+                 {
+
+                     "question": "L'apartamento già ha...?",
+
+                     "answer": "Frigorifero e un bagno",
+
+                     "choices": ["Frigorifero e un bagno", "Il balcone e un giardino", "Aria condizionata", "Ascensore e camera da letto"]
+
+                 },
+				 
+				 {
+
+                     "question": "L'appartamento non è vicino ristoranti e negozi.",
+
+                     "answer": "Falso",
+
+                     "choices": ["Vero", "Falso"]
+
+                 }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Pronto",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "l", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Salve, lei è Chiara? la persona che sta affittando l'appartamento?",
+                "speakerNumber": 2,
+                "questionPart1": "Salve, lei è Chiara? la persona che ",
+                "answer": "sta affitando",
+                "questionPart2": " l'appartamento.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Si, sono Chiara, chi è?",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "m", "showLetter": false},
+					{"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Sono Isabella, sono interessata al suo appartamento.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "H", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "q", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+					{"letter": "e", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Perfetto, come posso aiutarla?",
+                "speakerNumber": 1,
+                "questionPart1": "Perfetto, come ",
+                "answer": "posso",
+                "questionPart2": " aiutarla?",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+     
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Ho un paio di domande. L'appartamento è al terzo piano giusto?",
+                "speakerNumber": 2,
+                "questionPart1": "Ho un paio di domande. L'appartamento è al ",
+                "answer": "terzo",
+                "questionPart2": " piano giusto?",
+                "answerArray": [
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "z", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Si, al terzo piano e l'edificio ha quattro piani in tutto.",
+                "speakerNumber": 1,
+                "questionPart1": "Si, al terzo piano e l' ",
+                "answer": "edificio",
+                "questionPart2": " ha quattro piani in tutto.",
+                "answerArray": [
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "'", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+					{"letter": "i", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "C'è un ascensore?",
+                "speakerNumber": 2,
+                "questionPart1": "C'è un ",
+                "answer": "ascensore",
+                "questionPart2": " .",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "e", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "No, è un edificio antico, che ha solo le scale.",
+                "speakerNumber": 1,
+                "questionPart1": "No, è un edificio antico, che ha solo le ",
+                "answer": "scale",
+                "questionPart2": " .",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+				
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Ah, che peccato. C'è l'aria condizionata?",
+                "speakerNumber": 2,
+                "questionPart1": "Ah, che peccato. C'è l' ",
+                "answer": "aria condizionata",
+                "questionPart2": " ?",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "z", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "No, mi dispiace, come le ho detto, è un edificio antico. Non sono sicura se questo appartamento faccia al caso suo.",
+                "speakerNumber": 1,
+                "questionPart1": "No, mi dispiace, come le ho detto, è un edificio ",
+                "answer": "antico",
+                "questionPart2": " . Non sono sicura se questo appartamento faccia al caso suo.",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Forse ha ragione. Com’è  la zona in generale? C’è molto spazio? C'è molta luce?  Ci sono buoni ristoranti, negozi, o supermercati vicino?",
+                "speakerNumber": 2,
+                "questionPart1": "Forse ",
+                "answer": "ha ragione",
+                "questionPart2": " . Com’è  la zona in generale? C’è molto spazio? C'è molta luce?  Ci sono buoni ristoranti, negozi, o supermercati vicino?",
+                "answerArray": [
+                    {"letter": "h", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "L'appartamento non ha molto spazio ma è abbastanza grande per una persona. C'è una camera da letto, un soggiorno con abbastanza spazio per un divano, una tv, e un piccolo tavolo. ",
+                "speakerNumber": 1,
+                "questionPart1": "L'appartamento non ha molto spazio ma è abbastanza grande per una persona. C'è una camera da letto, un ",
+                "answer": "soggiorno",
+                "questionPart2": " con abbastanza spazio per un divano, una tv, e un piccolo tavolo.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "C'è una piccola cucina con un frigorifero e un piano cottura. Ovviamente ha un bagno con una doccia, è un appartamento semplice ma comodo.",
+                "speakerNumber": 1,
+                "questionPart1": "C'è una piccola cucina con un frigorifero e un ",
+                "answer": "piano cottura",
+                "questionPart2": " . Ovviamente ha un bagno con una doccia, è un appartamento semplice ma comodo.",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "u", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "E la posizione?",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Riguarda la posizione, è proprio buono, e vicino a ottimi ristoranti, negozi, e c'è anche un  Conad che può raggiungere a piedi.",
+                "speakerNumber": 1,
+                "questionPart1": "Riguarda la posizione, è proprio buono, e vicino a ottimi ristoranti, negozi, e c'è anche un  Conad che può ",
+                "answer": "raggiungere",
+                "questionPart2": " a piedi.",
+                "answerArray": [
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+					{"letter": "e", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Mi sembra bello. E l'affitto costa cinquecento euro al mese?",
+                "speakerNumber": 2,
+                "questionPart1": "Mi sembra bello. E l' ",
+                "answer": "affitto",
+                "questionPart2": " costa cinquecento euro al mese?",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "f", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Si, cinquecento.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+			{
+                "fullSentence": "Posso vederlo di persona?",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Certo, quando vorrebbe vederlo?",
+                "speakerNumber": 1,
+                "questionPart1": "Certo, quando ",
+                "answer": "vorrebbe",
+                "questionPart2": " vederlo?",
+                "answerArray": [
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "b", "showLetter": false},
+                    {"letter": "e", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			
+			{
+                "fullSentence": "Domani va bene per lei? Verso dieci?",
+                "speakerNumber": 2,
+                "questionPart1": "Domani va bene per lei? ",
+                "answer": "Verso",
+                "questionPart2": " dieci?",
+                "answerArray": [
+                    {"letter": "V", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+			{
+                "fullSentence": "Perfetto, ci vediamo.",
+                "speakerNumber": 1,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            },
+			{
+                "fullSentence": "Grazie mille, arrivederci",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "",
+                "questionPart2": "",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "l", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "d", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": false,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Aiutare",
+                "wordEnglish": "to help",
+                "choices": ["to help", "to be", "to have", "to walk", "to talk"]
+            },
+            {
+                "wordItalian": "Perdere",
+                "wordEnglish": "to lose",
+                "choices": ["to lose", "to follow", "to walk", "to ask", "to have"]
+            },
+            {
+                "wordItalian": "Dritto",
+                "wordEnglish": "straight",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Sinistra",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                "wordItalian": "Destra",
+                "wordEnglish": "right",
+                "choices" : ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Davanti",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "in front of", "near"]
+            },
+            {
+                   "wordItalian": "Vicino",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "appartamentoPIO1_5", "position": 1},
+                    {"audioFile": "appartamentoPIO6_10", "position": 2},
+                    {"audioFile": "appartamentoPIO11_14", "position": 3},
+                    {"audioFile": "appartamentoPIO15_18mp3", "position": 4},
+                    {"audioFile": "appartamentoPIO19_23", "position": 5}
+                ]
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Affitare",
+                "wordEnglish": "To rent"
+         
+            },
+            {
+                "wordItalian": "Potere",
+                "wordEnglish": "To be able to"
+             
+            },
+            {
+                "wordItalian": "Terzo",
+                "wordEnglish": "Third"
+             
+            },
+            {
+                   "wordItalian": "Edificio",
+                "wordEnglish": "Building"
+               
+            },
+            {
+                "wordItalian": "Ascensore",
+                "wordEnglish": "Elevator"
+              
+            },
+            {
+                   "wordItalian": "Scale",
+                "wordEnglish": "Stairs"
+               
+            },
+            {
+                "wordItalian": "Aria Condizionata",
+                "wordEnglish": "Air conditioning"
+              
+            },
+            {
+                "wordItalian": "Antico",
+                "wordEnglish": "Antique/Old (Used for things/buildings)"
+         
+            },
+            {
+                "wordItalian": "Ha Ragione",
+                "wordEnglish": "You are right (Formal) "
+             
+            },
+            {
+                "wordItalian": "Soggiorno",
+                "wordEnglish": "Living room"
+             
+            },
+            {
+                   "wordItalian": "Piano cottura",
+                "wordEnglish": "Stovetop"
+               
+            },
+            {
+                "wordItalian": "Raggiungere",
+                "wordEnglish": "To reach"
+              
+            },
+			{
+                "wordItalian": "Affito",
+                "wordEnglish": "rent"
+              
+            },
+			{
+                "wordItalian": "Volere",
+                "wordEnglish": "To want"
+              
+            },
+			{
+                "wordItalian": "Verso",
+                "wordEnglish": "Around/Towards"
+              
+            }
+ 
+            
+        ],
+		
+		     "keyIdeas": [
+            {
+                "idea": "Stare + Gerundio Presente"
+         
+            },
+            {
+                "idea": "Condizionale"
+         
+            },
+            {
+                "idea": "Presente"
+         
+            },
+			{
+                "idea": "The two women do not know each other. \nTherefore, this conversation should be more formal. \nTo achieve this, conjugate in the third person. Instead of the informal 'Tu'."
+         
+            }
+ 
+            
+        ]
+    },
+	
+		{
+
+        "audioName": "Il Festival di Sanremo",
+        
+        "isConversation": false,
+        "speaker1Image": "man2",
+        "speaker2Image": "",
+        "numberOfDialogueQuestions": 10,
+
+        "audioTranscriptItalian": "Il Festival di Sanremo 2024 sarà il sessantaquattresimo Festival della canzone italiana. Come ogni anno il Teatro Ariston di Sanremo ospiterà la gara, che sarà trasmessa sul canale RAI. Il torneo comincerà il 6 Febbraio e finirà il 10. Tristemente sarà l'ultimo spettacolo per il nostro bravissimo presentatore Amadeus, il quale sarà il direttore artistico  della competizione. Come sempre sarà accompagnato da persone molto talentuose come Marco Mengoni, Teresa Mannino, Lorella Cuccarini e Rosario Fiorello. La prima del festival è una trasmissione introduttiva, che sarà in onda ogni sera prima degli spettacoli e ci saranno diversi presentatori. Quest’anno ci sono un paio di cambiamenti, tra questi sono,  la quantità dei partecipanti tra ventotto a trenta. Altri cambiamenti riguardano la votazione, le regole si potranno trovare sul nostro sito web. Daremo il benvenuto ad alcuni ospiti speciali durante la gara come Federica Brignone, John Travolta, e Gigi D’Agostino. Come sempre il vincitore avrà la possibilità di rappresentare l’Italia all’Eurovision 2024. Quindi, per favore unisciti a noi il 6 di Febbraio per celebrare il talento di questi straordinari cantanti.",
+        
+        "audioTranscriptEnglish": "The Festival of Sanremo 2024 will be the 74th Festival of Italian songs. Like every reay the Ariston Theatre of Sanremo will host the competition, that will be transmitted on the RAI channel. The tournament will start on February 6th and will finish on the 10th. Sadly it will be the last show for our great presenter Amadeus, who will be the artistic director of the competition. Like always he will be accompanied by many talented people like Marco Mengoni, Teresa Mannino, Lorella Cuccarini and Rosario Fiorello. The beginning of the festival is a introductory broadcast, that will be on air every evening before the show and there will be diferent presentors. This year there are a few changes, among these are, the quantity of participants from 28 to 30. Other changes are regarding the voting, the rules can be found on our website. We will welcome some special guests during the competition like Federica Brignone, John Travolta, and Gigi D'Agostino. Like always the winner will have the possibility to represent Italy at Eurovision 2024. So, please join us on the 6th of February to celebrate these talented singers.",
+        
+        "audioCutArrays": ["sanremo1", "sanremo2", "sanremo3", "sanremo4", "sanremo5", "sanremo6", "sanremo7", "sanremo8", "sanremo9", "sanremo10"],
+
+        "comprehensionQuestions": [
+            {
+
+                     "question": "Questo sarà il ____________ Festival di Sanremo.",
+                     "answer": "settantaquattresimo",
+
+                     "choices": ["settantaquattresimo", "sessantesimo", "sessantaquattresimo", "settantesimo"]
+
+                 },
+
+                 {
+
+                     "question": "La gara comincerà il ___ e finirà il ___ di Febbraio.",
+
+                     "answer": "sei e dieci",
+
+                     "choices": ["sei e dieci", "sei e undici", "siete e dieci", "dieci e seidici"]
+
+                 },
+
+                 {
+
+                     "question": "Ci sarà una trasmissione introduttiva prima degli spettacoli.",
+
+                     "answer": "Vero",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "La quantità dei participanti ha aumentato tra ventuno a trenta.",
+
+                     "answer": "Falso",
+
+                     "choices": ["Vero", "Falso"]
+
+                 },
+
+                 {
+
+                     "question": "Altri cambiamenti riguardano?",
+
+                     "answer": "La votazione",
+
+                     "choices": ["La votazione", "Il premio", "I presentetori", "Le date della gara"]
+
+                 },
+				 
+				 {
+
+                     "question": "Il vintore riceverà",
+
+                     "answer": "Rappresentare l'italia in EuroVision",
+
+                     "choices": ["Molti Soldi", "Rappresentare l'italia in EuroVision", "Contratto musicale", "Viaggio fantastico"]
+
+                 }
+
+        ],
+
+        "fillInDialogueQuestion": [
+            {
+                "fullSentence": "Il Festival di Sanremo 2024 sarà il sessantaquattresimo Festival della canzone italiana.",
+                "speakerNumber": 1,
+                "questionPart1": "Il Festival di Sanremo 2024 ",
+                "answer": "sarà",
+                "questionPart2": " il sessantaquattresimo Festival della canzone italiana.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "à", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Come ogni anno il Teatro Ariston di Sanremo ospiterà la gara, che sarà trasmessa sul canale RAI. Il torneo comincerà il 6 Febbraio e finirà il 10.",
+                "speakerNumber": 2,
+                "questionPart1": "Come ogni anno il Teatro Ariston di Sanremo ",
+                "answer": "ospiterà",
+                "questionPart2": " la gara, che sarà trasmessa sul canale RAI. Il torneo comincerà il 6 Febbraio e finirà il 10.",
+                "answerArray": [
+                    {"letter": "o", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "à", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Tristemente sarà l'ultimo spettacolo per il nostro bravissimo presentatore Amadeus, il quale sarà il direttore artistico  della competizione.",
+                "speakerNumber": 1,
+                "questionPart1": "Tristemente sarà l'ultimo ",
+                "answer": "spettacolo",
+                "questionPart2": " per il nostro bravissimo presentatore Amadeus, il quale sarà il direttore artistico  della competizione.",
+                "answerArray": [
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+                    {"letter": "t", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "c", "showLetter": false},
+					{"letter": "o", "showLetter": false},
+					{"letter": "l", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Come sempre sarà accompagnato da persone molto talentuose come Marco Mengoni, Teresa Mannino, Lorella Cuccarini e Rosario Fiorello.",
+                "speakerNumber": 2,
+                "questionPart1": "Come sempre sarà ",
+                "answer": "accompagnato",
+                "questionPart2": " da persone molto talentuose come Marco Mengoni, Teresa Mannino, Lorella Cuccarini e Rosario Fiorello.",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+					{"letter": "o", "showLetter": false},
+					{"letter": "m", "showLetter": false},
+					{"letter": "p", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "g", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "La prima del festival è una trasmissione introduttiva, che sarà in onda ogni sera prima degli spettacoli e ci saranno diversi presentatori.",
+                "speakerNumber": 1,
+                "questionPart1": "La prima del festival è una trasmissione introduttiva, che sarà in onda ogni sera prima degli spettacoli e ",
+                "answer": "ci saranno",
+                "questionPart2": " diversi presentatori.",
+                "answerArray": [
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": " ", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+					{"letter": "r", "showLetter": false},
+					{"letter": "a", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+     
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Quest’anno ci sono un paio di cambiamenti, tra questi sono,  la quantità dei partecipanti tra ventuno e trenta.",
+                "speakerNumber": 1,
+                "questionPart1": "Quest’anno ci sono un ",
+                "answer": "paio",
+                "questionPart2": " di cambiamenti, tra questi sono,  la quantità dei partecipanti tra ventuno e trenta.",
+                "answerArray": [
+                    {"letter": "p", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Altri cambiamenti riguardano la votazione, le regole si potranno trovare sul nostro sito web.",
+                "speakerNumber": 1,
+                "questionPart1": "Altri cambiamenti ",
+                "answer": "riguardano",
+                "questionPart2": " la votazione, le regole si potranno trovare sul nostro sito web.",
+                "answerArray": [
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "g", "showLetter": false},
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "d", "showLetter": false},
+                    {"letter": "o", "showLetter": false},
+					{"letter": "n", "showLetter": false},
+					{"letter": "o", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Daremo il benvenuto ad alcuni ospiti speciali durante la gara come Federica Brignone, John Travolta, e Gigi D’Agostino.",
+                "speakerNumber": 2,
+                "questionPart1": "",
+                "answer": "Daremo",
+                "questionPart2": " il benvenuto ad alcuni ospiti speciali durante la gara come Federica Brignone, John Travolta, e Gigi D’Agostino. ",
+                "answerArray": [
+                    {"letter": "D", "showLetter": false},
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "e", "showLetter": false},
+                    {"letter": "m", "showLetter": false},
+                    {"letter": "o", "showLetter": false}
+                    
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Come sempre il vincitore avrà la possibilità di rappresentare l’Italia all’Eurovision 2024.",
+                "speakerNumber": 1,
+                "questionPart1": "Come sempre il vincitore ",
+                "answer": "avrà",
+                "questionPart2": " la possibilità di rappresentare l’Italia all’Eurovision 2024.",
+                "answerArray": [
+                    {"letter": "a", "showLetter": false},
+                    {"letter": "v", "showLetter": false},
+                    {"letter": "r", "showLetter": false},
+                    {"letter": "à", "showLetter": false}
+				
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            },
+            {
+                "fullSentence": "Quindi, per favore unisciti a noi il 6 di Febbraio per celebrare il talento di questi straordinari cantanti.",
+                "speakerNumber": 2,
+                "questionPart1": "Quindi, per favore ",
+                "answer": "unisciti",
+                "questionPart2": " a noi il 6 di Febbraio per celebrare il talento di questi straordinari cantanti.",
+                "answerArray": [
+                    {"letter": "u", "showLetter": false},
+                    {"letter": "n", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+                    {"letter": "s", "showLetter": false},
+                    {"letter": "c", "showLetter": false},
+                    {"letter": "i", "showLetter": false},
+					{"letter": "t", "showLetter": false},
+					{"letter": "i", "showLetter": false}
+                ],
+                "isQuestion": true,
+                "correctChosen": false
+
+            }
+            
+        ],
+        
+        "blankExplanation": [
+            {
+                "wordItalian": "Aiutare",
+                "wordEnglish": "to help",
+                "choices": ["to help", "to be", "to have", "to walk", "to talk"]
+            },
+            {
+                "wordItalian": "Perdere",
+                "wordEnglish": "to lose",
+                "choices": ["to lose", "to follow", "to walk", "to ask", "to have"]
+            },
+            {
+                "wordItalian": "Dritto",
+                "wordEnglish": "straight",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Sinistra",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                "wordItalian": "Destra",
+                "wordEnglish": "right",
+                "choices" : ["straight", "left", "right", "backwards", "near"]
+            },
+            {
+                   "wordItalian": "Davanti",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "in front of", "near"]
+            },
+            {
+                   "wordItalian": "Vicino",
+                "wordEnglish": "left",
+                "choices": ["straight", "left", "right", "backwards", "near"]
+            }
+        ],
+        
+        "putInOrderDialogueBoxes": [
+            {
+                "fullSentences": [
+                    {"audioFile": "sanremoPIO1_2mp3", "position": 1},
+                    {"audioFile": "sanremoPIO2_4", "position": 2},
+                    {"audioFile": "sanremoPIO5_6", "position": 3},
+                    {"audioFile": "sanremoPIO7_8", "position": 4},
+                    {"audioFile": "sanremoPIO9_10", "position": 5}
+                ]
+            }
+        ],
+        
+        "keywords": [
+            {
+                "wordItalian": "Essere",
+                "wordEnglish": "To be"
+         
+            },
+            {
+                "wordItalian": "Ospitare",
+                "wordEnglish": "To host"
+             
+            },
+            {
+                "wordItalian": "Tristemente",
+                "wordEnglish": "Sadly"
+             
+            },
+            {
+                   "wordItalian": "Accompagnare",
+                "wordEnglish": "To accompany"
+               
+            },
+            {
+                "wordItalian": "Ci saranno",
+                "wordEnglish": "There will be"
+              
+            },
+            {
+                   "wordItalian": "Riguardare",
+                "wordEnglish": "To concern"
+               
+            },
+            {
+                "wordItalian": "Dare",
+                "wordEnglish": "To give"
+              
+            },
+            {
+                "wordItalian": "Avere",
+                "wordEnglish": "To have"
+         
+            },
+            {
+                "wordItalian": "Unire",
+                "wordEnglish": "To join"
+             
+            }
+ 
+            
+        ],
+		
+		     "keyIdeas": [
+            {
+                "idea": "Futuro"
+         
+            }
+ 
+            
+        ]
+    }
+    
+
+]

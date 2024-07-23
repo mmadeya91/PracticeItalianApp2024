@@ -1,0 +1,5673 @@
+[
+    {
+        "flashSetName": "Food",
+        "words": [
+            {
+                "wordItal": "Bistecca",
+                "gender": "fem.",
+                "wordEng": "Steak"
+            },
+            {
+                "wordItal": "Agnello",
+                "gender": "masc.",
+                "wordEng": "Lamb"
+            },
+            {
+                "wordItal": "Manzo",
+                "gender": "masc.",
+                "wordEng": "Beef"
+            },
+            {
+                "wordItal": "Maiale",
+                "gender": "masc.",
+                "wordEng": "Pork"
+            },
+            {
+                "wordItal": "Pesce",
+                "gender": "masc.",
+                "wordEng": "Fish"
+            },
+            {
+                "wordItal": "Pollo",
+                "gender": "masc.",
+                "wordEng": "Chicken"
+            },
+            {
+                "wordItal": "Pane",
+                "gender": "masc.",
+                "wordEng": "Bread"
+            },
+            {
+                "wordItal": "Minestra",
+                "gender": "masc.",
+                "wordEng": "Soup"
+            },
+            {
+                "wordItal": "Pomodoro",
+                "gender": "masc.",
+                "wordEng": "Tomato"
+            },
+            {
+                "wordItal": "Melanzana",
+                "gender": "fem.",
+                "wordEng": "Eggplant"
+            },
+            {
+                "wordItal": "Formaggio",
+                "gender": "masc.",
+                "wordEng": "Cheese"
+            },
+            {
+                "wordItal": "Parmagagiano",
+                "gender": "masc.",
+                "wordEng": "Parmesan Cheese"
+            },
+            {
+                "wordItal": "Vino",
+                "gender": "masc.",
+                "wordEng": "Wine"
+            },
+            {
+                "wordItal": "Birra",
+                "gender": "fem.",
+                "wordEng": "Beer"
+            },
+            {
+                "wordItal": "Limonata",
+                "gender": "fem.",
+                "wordEng": "Lemonade"
+            }
+        ]
+    },
+    {
+        "flashSetName": "Animals",
+        "words": [
+            {
+                "wordItal": "Cane",
+                "gender": "masc.",
+                "wordEng": "Dog"
+            },
+            {
+                "wordItal": "Gatto",
+                "gender": "masc.",
+                "wordEng": "Cat"
+            },
+            {
+                "wordItal": "Elefante",
+                "gender": "masc.",
+                "wordEng": "Elephant"
+            },
+            {
+                "wordItal": "Cavallo",
+                "gender": "masc.",
+                "wordEng": "Horse"
+            },
+            {
+                "wordItal": "Lupo",
+                "gender": "masc.",
+                "wordEng": "Wolf"
+            },
+            {
+                "wordItal": "Leone",
+                "gender": "masc.",
+                "wordEng": "Lion"
+            },
+            {
+                "wordItal": "Scimmia",
+                "gender": "fem.",
+                "wordEng": "Monkey"
+            },
+            {
+                "wordItal": "Tartaruga",
+                "gender": "fem.",
+                "wordEng": "Turtle"
+            },
+            {
+                "wordItal": "Rana",
+                "gender": "fem.",
+                "wordEng": "Frog"
+            },
+            {
+                "wordItal": "Farfalle",
+                "gender": "fem.",
+                "wordEng": "Butterfly"
+            },
+            {
+                "wordItal": "Uccello",
+                "gender": "masc.",
+                "wordEng": "Bird"
+            },
+            {
+                "wordItal": "Tigre",
+                "gender": "fem.",
+                "wordEng": "Tiger"
+            },
+            {
+                "wordItal": "Serpente",
+                "gender": "masc.",
+                "wordEng": "Snake"
+            },
+            {
+                "wordItal": "Orso",
+                "gender": "masc.",
+                "wordEng": "Bear"
+            },
+            {
+                "wordItal": "Coniglio",
+                "gender": "masc.",
+                "wordEng": "Rabbit"
+            },
+            {
+                "wordItal": "Criceto",
+                "gender": "masc.",
+                "wordEng": "Hamster"
+            },
+            {
+                "wordItal": "Ragno",
+                "gender": "masc.",
+                "wordEng": "Spider"
+            },
+            {
+                "wordItal": "Formica",
+                "gender": "fem.",
+                "wordEng": "Ant"
+            }
+        ]
+    },
+    {
+        "flashSetName": "Clothes",
+        "words": [
+            {
+                "wordItal": "Costume da bagno",
+                "gender": "masc.",
+                "wordEng": "Bathing Suit"
+            },
+            {
+                "wordItal": "Cappotto",
+                "gender": "masc.",
+                "wordEng": "Coat"
+            },
+            {
+                "wordItal": "Giacca",
+                "gender": "fem.",
+                "wordEng": "Jacket"
+            },
+            {
+                "wordItal": "Dei jeans",
+                "gender": "masc.",
+                "wordEng": "Jeans"
+            },
+            {
+                "wordItal": "Pigiama",
+                "gender": "masc.",
+                "wordEng": "Pajamas"
+            },
+            {
+                "wordItal": "Dei pantaloni",
+                "gender": "masc.",
+                "wordEng": "Pants/Trousers"
+            },
+            {
+                "wordItal": "Impermeabile",
+                "gender": "masc.",
+                "wordEng": "Raincoat"
+            },
+            {
+                "wordItal": "Dei pantaloncini",
+                "gender": "masc.",
+                "wordEng": "Shorts"
+            },
+            {
+                "wordItal": "Maglione",
+                "gender": "masc.",
+                "wordEng": "Sweater"
+            },
+            {
+                "wordItal": "Maglietta",
+                "gender": "masc.",
+                "wordEng": "T-Shirt"
+            },
+            {
+                "wordItal": "Canotta",
+                "gender": "fem.",
+                "wordEng": "Tank Top"
+            },
+            {
+                "wordItal": "Dei Stivali",
+                "gender": "masc.",
+                "wordEng": "Boots"
+            },
+            {
+                "wordItal": "Dei Sandali",
+                "gender": "masc.",
+                "wordEng": "Sandals"
+            },
+            {
+                "wordItal": "Delle Scarpe",
+                "gender": "fem.",
+                "wordEng": "Shoes"
+            },
+            {
+                "wordItal": "Delle Scarpe con Tacchi Alti",
+                "gender": "fem.",
+                "wordEng": "High-heeled Shoes"
+            },
+            {
+                "wordItal": "Delle Scarpe da Ginnastica",
+                "gender": "fem.",
+                "wordEng": "Sneakers"
+            },
+            {
+                "wordItal": "Dei Calzini",
+                "gender": "masc.",
+                "wordEng": "Socks"
+            },
+            {
+                "wordItal": "Camicia",
+                "gender": "fem.",
+                "wordEng": "Blouse"
+            },
+            {
+                "wordItal": "Vestito",
+                "gender": "masc.",
+                "wordEng": "Dress"
+            },
+            {
+                "wordItal": "Gonna",
+                "gender": "fem.",
+                "wordEng": "Skirt"
+            },
+            {
+                "wordItal": "Camicia",
+                "gender": "fem.",
+                "wordEng": "Shirt"
+            },
+            {
+                "wordItal": "Abito da Uomo",
+                "gender": "masc.",
+                "wordEng": "Suit"
+            },
+            {
+                "wordItal": "Cravatta",
+                "gender": "fem.",
+                "wordEng": "Tie"
+            }
+        ]
+    },
+    {
+        "flashSetName": "Family",
+        "words": [
+            {
+                "wordItal": "Padre",
+                "gender": "masc.",
+                "wordEng": "Father"
+            },
+            {
+                "wordItal": "Madre",
+                "gender": "fem.",
+                "wordEng": "Mother"
+            },
+            {
+                "wordItal": "I Genitori",
+                "gender": "masc.",
+                "wordEng": "Parents"
+            },
+            {
+                "wordItal": "Fratello",
+                "gender": "masc.",
+                "wordEng": "Brother"
+            },
+            {
+                "wordItal": "Sorella",
+                "gender": "fem.",
+                "wordEng": "Sister"
+            },
+            {
+                "wordItal": "Marito",
+                "gender": "masc.",
+                "wordEng": "Husband"
+            },
+            {
+                "wordItal": "Moglie",
+                "gender": "fem.",
+                "wordEng": "Wife"
+            },
+            {
+                "wordItal": "Figlio",
+                "gender": "masc.",
+                "wordEng": "Son"
+            },
+            {
+                "wordItal": "Figlia",
+                "gender": "fem.",
+                "wordEng": "Daughter"
+            },
+            {
+                "wordItal": "Zio",
+                "gender": "masc.",
+                "wordEng": "Uncle"
+            },
+            {
+                "wordItal": "Zia",
+                "gender": "fem.",
+                "wordEng": "Aunt"
+            },
+            {
+                "wordItal": "Nonno",
+                "gender": "masc.",
+                "wordEng": "Grandfather"
+            },
+            {
+                "wordItal": "Nonna",
+                "gender": "fem.",
+                "wordEng": "Grandmother"
+            },
+            {
+                "wordItal": "Il Nipote",
+                "gender": "masc.",
+                "wordEng": "Grandson/Nephew"
+            },
+            {
+                "wordItal": "La Nipote",
+                "gender": "fem.",
+                "wordEng": "Grandaughter/Niece"
+            },
+            {
+                "wordItal": "Il Cugino/La Cugina",
+                "gender": "masc./fem.",
+                "wordEng": "Cousin"
+            },
+            {
+                "wordItal": "Il Findanzato/La Fidanzata",
+                "gender": "masc./fem.",
+                "wordEng": "Fiance/Fiancee"
+            },
+            {
+                "wordItal": "Il Suocero/La Suocera",
+                "gender": "masc./fem.",
+                "wordEng": "Father-in-law/Mother-in-law"
+            },
+            {
+                "wordItal": "Il Cognato/La Cognata",
+                "gender": "masc./fem.",
+                "wordEng": "Brother-in-law/Sister-in-law"
+            },
+            {
+                "wordItal": "Il Bimbo/La Bimba",
+                "gender": "masc./fem.",
+                "wordEng": "Baby"
+            }
+        ]
+    },
+    {
+        "flashSetName": "mostUsedNouns",
+        "words": [
+            {
+                "wordItal": "Amore",
+                "gender": "fem.",
+                "wordEng": "Love"
+            },
+            {
+                "wordItal": "Animale",
+                "gender": "masc.",
+                "wordEng": "Animal"
+            },
+            {
+                "wordItal": "Auto",
+                "gender": "fem.",
+                "wordEng": "Car"
+            },
+            {
+                "wordItal": "Affare",
+                "gender": "fem.",
+                "wordEng": "affair/matter/bargain"
+            },
+            {
+                "wordItal": "Il Bambino/La Bambina",
+                "gender": "masc./fem.",
+                "wordEng": "Boy/Girl"
+            },
+            {
+                "wordItal": "Coso/Cosa",
+                "gender": "masc./fem.",
+                "wordEng": "Thing"
+            },
+            {
+                "wordItal": "Casa",
+                "gender": "fem.",
+                "wordEng": "House"
+            },
+            {
+                "wordItal": "Citta",
+                "gender": "fem.",
+                "wordEng": "City"
+            },
+            {
+                "wordItal": "Clima",
+                "gender": "masc.",
+                "wordEng": "Climate"
+            },
+            {
+                "wordItal": "Famiglia",
+                "gender": "fem.",
+                "wordEng": "Family"
+            },
+            {
+                "wordItal": "Festa",
+                "gender": "fem.",
+                "wordEng": "Party"
+            },
+            {
+                "wordItal": "Forza",
+                "gender": "fem.",
+                "wordEng": "Strength"
+            },
+            {
+                "wordItal": "Gente",
+                "gender": "fem.",
+                "wordEng": "People"
+            },
+            {
+                "wordItal": "Giorno",
+                "gender": "masc.",
+                "wordEng": "Day"
+            },
+            {
+                "wordItal": "Luce",
+                "gender": "fem.",
+                "wordEng": "Light"
+            },
+            {
+                "wordItal": "Mamma",
+                "gender": "fem.",
+                "wordEng": "Mom"
+            },
+            {
+                "wordItal": "Mano",
+                "gender": "masc.",
+                "wordEng": "Hand"
+            },
+            {
+                "wordItal": "Mare",
+                "gender": "masc.",
+                "wordEng": "Sea"
+            },
+            {
+                "wordItal": "Modo",
+                "gender": "masc.",
+                "wordEng": "Way/manner"
+            },
+            {
+                "wordItal": "Moda",
+                "gender": "fem.",
+                "wordEng": "Fashion"
+            },
+            {
+                "wordItal": "Montagna",
+                "gender": "fem.",
+                "wordEng": "Mountain"
+            },
+            {
+                "wordItal": "Nome",
+                "gender": "masc.",
+                "wordEng": "Name"
+            },
+            {
+                "wordItal": "Ora",
+                "gender": "fem.",
+                "wordEng": "Hour/time"
+            },
+            {
+                "wordItal": "Paese",
+                "gender": "masc.",
+                "wordEng": "Country/town"
+            },
+            {
+                "wordItal": "Posto",
+                "gender": "masc.",
+                "wordEng": "Place"
+            },
+            {
+                "wordItal": "Ricetta",
+                "gender": "fem.",
+                "wordEng": "Recipe"
+            },
+            {
+                "wordItal": "Sole",
+                "gender": "masc.",
+                "wordEng": "Sun"
+            },
+            {
+                "wordItal": "Tempo",
+                "gender": "masc.",
+                "wordEng": "Time/weather"
+            },
+            {
+                "wordItal": "Vestito",
+                "gender": "masc.",
+                "wordEng": "Clothes/suit/dress"
+            },
+            {
+                "wordItal": "Vita",
+                "gender": "fem.",
+                "wordEng": "Life"
+            },
+            {
+                "wordItal": "Uomo",
+                "gender": "masc.",
+                "wordEng": "Man/human-being"
+            }
+        ]
+    },
+    {
+        "flashSetName": "mostUsedAdjetives",
+        "words": [
+            {
+                "wordItal": "Bello/Bella",
+                "gender": "masc./fem.",
+                "wordEng": "Beautiful"
+            },
+            {
+                "wordItal": "Caldo/Calda",
+                "gender": "masc./fem.",
+                "wordEng": "Hot"
+            },
+            {
+                "wordItal": "Caro/Cara",
+                "gender": "masc./fem.",
+                "wordEng": "Expensive/dear"
+            },
+            {
+                "wordItal": "Comodo/Comoda",
+                "gender": "masc./fem.",
+                "wordEng": "Comfortable"
+            },
+            {
+                "wordItal": "Corto/Corta",
+                "gender": "masc./fem.",
+                "wordEng": "Short"
+            },
+            {
+                "wordItal": "Difficile",
+                "gender": "masc. and fem.",
+                "wordEng": "Difficult"
+            },
+            {
+                "wordItal": "Economico/Economica",
+                "gender": "masc./fem.",
+                "wordEng": "Cheap/inexpensive"
+            },
+            {
+                "wordItal": "Facile",
+                "gender": "masc. and fem.",
+                "wordEng": "Easy"
+            },
+            {
+                "wordItal": "Fresco/Fresca",
+                "gender": "masc./fem.",
+                "wordEng": "Fresh"
+            },
+            {
+                "wordItal": "Grande",
+                "gender": "masc. and fem.",
+                "wordEng": "Big/great"
+            },
+            {
+                "wordItal": "Lontano/Lontana",
+                "gender": "masc./fem.",
+                "wordEng": "Far"
+            },
+            {
+                "wordItal": "Lungo/Lunga",
+                "gender": "masc./fem.",
+                "wordEng": "Long"
+            },
+            {
+                "wordItal": "Normale",
+                "gender": "masc. and fem.",
+                "wordEng": "Normal"
+            },
+            {
+                "wordItal": "Nuovo/Nuova",
+                "gender": "masc./fem.",
+                "wordEng": "New"
+            },
+            {
+                "wordItal": "Perfetto/Perfetta",
+                "gender": "masc.fem.",
+                "wordEng": "Perfect"
+            },
+            {
+                "wordItal": "Piccolo/Piccola",
+                "gender": "masc./fem.",
+                "wordEng": "Small/little"
+            },
+            {
+                "wordItal": "Quello/Quella",
+                "gender": "masc./fem.",
+                "wordEng": "That"
+            },
+            {
+                "wordItal": "Questo/Qeusta",
+                "gender": "masc./fem.",
+                "wordEng": "This"
+            },
+            {
+                "wordItal": "Semplice",
+                "gender": "masc. and fem.",
+                "wordEng": "Simple"
+            },
+            {
+                "wordItal": "Stupido/Stupida",
+                "gender": "masc./fem.",
+                "wordEng": "Stupid"
+            },
+            {
+                "wordItal": "Tanto/Tanta",
+                "gender": "masc./fem.",
+                "wordEng": "A lot/many"
+            },
+            {
+                "wordItal": "Utile",
+                "gender": "masc. and fem.",
+                "wordEng": "Useful"
+            },
+            {
+                "wordItal": "Vecchio/Vecchia",
+                "gender": "masc./fem.",
+                "wordEng": "Old"
+            },
+            {
+                "wordItal": "Vicino/Vicina",
+                "gender": "masc./fem.",
+                "wordEng": "Close/near"
+            },
+            {
+                "wordItal": "Vuoto/Vuota",
+                "gender": "masc./fem.",
+                "wordEng": "Empty"
+            }
+        ]
+    },
+    {
+        "flashSetName": "mostUsedVerbs",
+        "words": [
+            {
+                "wordItal": "Abitare",
+                "gender": "",
+                "wordEng": "To live"
+            },
+            {
+                "wordItal": "Andare",
+                "gender": "",
+                "wordEng": "To go"
+            },
+            {
+                "wordItal": "Avere",
+                "gender": "",
+                "wordEng": "To have"
+            },
+            {
+                "wordItal": "Bere",
+                "gender": "",
+                "wordEng": "To drink"
+            },
+            {
+                "wordItal": "Capire",
+                "gender": "",
+                "wordEng": "To understand"
+            },
+            {
+                "wordItal": "Comprare",
+                "gender": "",
+                "wordEng": "To buy"
+            },
+            {
+                "wordItal": "Dare",
+                "gender": "",
+                "wordEng": "To give"
+            },
+            {
+                "wordItal": "Dire",
+                "gender": "",
+                "wordEng": "To say/tell"
+            },
+            {
+                "wordItal": "Dovere",
+                "gender": "",
+                "wordEng": "Must/have to"
+            },
+            {
+                "wordItal": "Essere",
+                "gender": "",
+                "wordEng": "To be"
+            },
+            {
+                "wordItal": "Fare",
+                "gender": "",
+                "wordEng": "To do/make"
+            },
+            {
+                "wordItal": "Mangiare",
+                "gender": "",
+                "wordEng": "To eat"
+            },
+            {
+                "wordItal": "Parlare",
+                "gender": "",
+                "wordEng": "To talk"
+            },
+            {
+                "wordItal": "Potere",
+                "gender": "",
+                "wordEng": "Can/be able to"
+            },
+            {
+                "wordItal": "Prendere",
+                "gender": "",
+                "wordEng": "To get/take"
+            },
+            {
+                "wordItal": "Sentire",
+                "gender": "",
+                "wordEng": "To feel"
+            },
+            {
+                "wordItal": "Vedere",
+                "gender": "",
+                "wordEng": "To see"
+            },
+            {
+                "wordItal": "Venire",
+                "gender": "",
+                "wordEng": "To come"
+            },
+            {
+                "wordItal": "Volere",
+                "gender": "",
+                "wordEng": "To want"
+            },
+            {
+                "wordItal": "Vestire",
+                "gender": "",
+                "wordEng": "To dress"
+            }
+        ]
+    },
+    {
+        "flashSetName": "mostUsedAdverbs",
+        "words": [
+            {
+                "wordItal": "Adesso",
+                "gender": "",
+                "wordEng": "Now"
+            },
+            {
+                "wordItal": "Allora",
+                "gender": "",
+                "wordEng": "So/then"
+            },
+            {
+                "wordItal": "Anche",
+                "gender": "",
+                "wordEng": "Also/too"
+            },
+            {
+                "wordItal": "Bene",
+                "gender": "",
+                "wordEng": "Good/well"
+            },
+            {
+                "wordItal": "Davanti",
+                "gender": "",
+                "wordEng": "In front of"
+            },
+            {
+                "wordItal": "Dietro",
+                "gender": "",
+                "wordEng": "Behind"
+            },
+            {
+                "wordItal": "Dopo",
+                "gender": "",
+                "wordEng": "After/later"
+            },
+            {
+                "wordItal": "Dove",
+                "gender": "",
+                "wordEng": "Where"
+            },
+            {
+                "wordItal": "Dunque",
+                "gender": "",
+                "wordEng": "So/therefore"
+            },
+            {
+                "wordItal": "Frequente",
+                "gender": "",
+                "wordEng": "Frequent"
+            },
+            {
+                "wordItal": "Eccetera",
+                "gender": "",
+                "wordEng": "Eccetera"
+            },
+            {
+                "wordItal": "Male",
+                "gender": "",
+                "wordEng": "Badly/poorly"
+            },
+            {
+                "wordItal": "Mentre",
+                "gender": "",
+                "wordEng": "While"
+            },
+            {
+                "wordItal": "Ora",
+                "gender": "",
+                "wordEng": "Now"
+            },
+            {
+                "wordItal": "Prima",
+                "gender": "",
+                "wordEng": "Before"
+            },
+            {
+                "wordItal": "Sopra",
+                "gender": "",
+                "wordEng": "On top of/above/over"
+            },
+            {
+                "wordItal": "Soprattuto",
+                "gender": "",
+                "wordEng": "Especially"
+            },
+            {
+                "wordItal": "Sotto",
+                "gender": "",
+                "wordEng": "Under/underneath"
+            },
+            {
+                "wordItal": "Spesso",
+                "gender": "",
+                "wordEng": "Often"
+            },
+            {
+                "wordItal": "A volte",
+                "gender": "",
+                "wordEng": "Sometimes"
+            }
+        ]
+    },
+    {
+        "flashSetName": "usefulPhrases",
+        "words": [
+            {
+                "wordItal": "Ciao",
+                "gender": "",
+                "wordEng": "Hello/goodbye"
+            },
+            {
+                "wordItal": "Arrivederci!",
+                "gender": "",
+                "wordEng": "Goodbye"
+            },
+            {
+                "wordItal": "Grazie!",
+                "gender": "",
+                "wordEng": "Thank you!"
+            },
+            {
+                "wordItal": "Prego!",
+                "gender": "",
+                "wordEng": "You're welcome!/Can I help you?"
+            },
+            {
+                "wordItal": "Mi scusi!",
+                "gender": "",
+                "wordEng": "Excuse me"
+            },
+            {
+                "wordItal": "Quanto costa?",
+                "gender": "",
+                "wordEng": "How much is?"
+            },
+            {
+                "wordItal": "Come si arriva...?",
+                "gender": "",
+                "wordEng": "How do I get to...?"
+            },
+            {
+                "wordItal": "Dove il bagno",
+                "gender": "",
+                "wordEng": "Where is the bathroom?"
+            },
+            {
+                "wordItal": "Vorrei",
+                "gender": "",
+                "wordEng": "I would like"
+            },
+            {
+                "wordItal": "Salute!",
+                "gender": "",
+                "wordEng": "Cheers!"
+            },
+            {
+                "wordItal": "Come ti chiami?",
+                "gender": "",
+                "wordEng": "What is your name?"
+            },
+            {
+                "wordItal": "Mi chiamo...",
+                "gender": "",
+                "wordEng": "My name is..."
+            },
+            {
+                "wordItal": "Come sta? (formal)",
+                "gender": "",
+                "wordEng": "How are you?"
+            },
+            {
+                "wordItal": "Di dove sei?",
+                "gender": "",
+                "wordEng": "Wherea are you from?"
+            },
+            {
+                "wordItal": "Sono di...",
+                "gender": "",
+                "wordEng": "I am from..."
+            },
+            {
+                "wordItal": "Non capisco",
+                "gender": "",
+                "wordEng": "I don't understand"
+            },
+            {
+                "wordItal": "Sorry!",
+                "gender": "",
+                "wordEng": "Mi dispiace!"
+            },
+            {
+                "wordItal": "Per favore",
+                "gender": "",
+                "wordEng": "Please"
+            },
+            {
+                "wordItal": "Quanti anni hai?",
+                "gender": "",
+                "wordEng": "How old are you?"
+            },
+            {
+                "wordItal": "Io ho ... anni",
+                "gender": "",
+                "wordEng": "I am .... years old"
+            }
+        ]
+    },
+    {
+        "flashSetName": "1000 words",
+        "words": [
+            {
+                "wordItal": "Il",
+                "gender": "",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "Di",
+                "gender": "",
+                "wordEng": "Of"
+            },
+            {
+                "wordItal": "E",
+                "gender": "masc.",
+                "wordEng": "And"
+            },
+            {
+                "wordItal": "A",
+                "gender": "fem.",
+                "wordEng": "To"
+            },
+            {
+                "wordItal": "Che",
+                "gender": "masc.",
+                "wordEng": "That"
+            },
+            {
+                "wordItal": "In",
+                "gender": "",
+                "wordEng": "In"
+            },
+            {
+                "wordItal": "Un",
+                "gender": "",
+                "wordEng": "A"
+            },
+            {
+                "wordItal": "Per",
+                "gender": "",
+                "wordEng": "For"
+            },
+            {
+                "wordItal": "È",
+                "gender": "",
+                "wordEng": "Is"
+            },
+            {
+                "wordItal": "Con",
+                "gender": "",
+                "wordEng": "With"
+            },
+            {
+                "wordItal": "Non",
+                "gender": "",
+                "wordEng": "Not"
+            },
+            {
+                "wordItal": "Una",
+                "gender": "fem.",
+                "wordEng": "A"
+            },
+            {
+                "wordItal": "I",
+                "gender": "",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "La",
+                "gender": "fem.",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "Al",
+                "gender": "",
+                "wordEng": "To the"
+            },
+            {
+                "wordItal": "Si",
+                "gender": "",
+                "wordEng": "Yes"
+            },
+            {
+                "wordItal": "Le",
+                "gender": "masc.",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "Da",
+                "gender": "fem.",
+                "wordEng": "From"
+            },
+            {
+                "wordItal": "Del",
+                "gender": "",
+                "wordEng": "Of the"
+            },
+            {
+                "wordItal": "Della",
+                "gender": "fem.",
+                "wordEng": "Of the"
+            },
+            {
+                "wordItal": "Mi",
+                "gender": "",
+                "wordEng": "Me"
+            },
+            {
+                "wordItal": "Ma",
+                "gender": "fem.",
+                "wordEng": "But"
+            },
+            {
+                "wordItal": "Ho",
+                "gender": "masc.",
+                "wordEng": "Have"
+            },
+            {
+                "wordItal": "Lo",
+                "gender": "masc.",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "No",
+                "gender": "masc.",
+                "wordEng": "No"
+            },
+            {
+                "wordItal": "Come",
+                "gender": "masc.",
+                "wordEng": "As"
+            },
+            {
+                "wordItal": "Sono",
+                "gender": "masc.",
+                "wordEng": "Are"
+            },
+            {
+                "wordItal": "Più",
+                "gender": "",
+                "wordEng": "More"
+            },
+            {
+                "wordItal": "Gli",
+                "gender": "",
+                "wordEng": "The"
+            },
+            {
+                "wordItal": "Se",
+                "gender": "masc.",
+                "wordEng": "If"
+            },
+            {
+                "wordItal": "Ci",
+                "gender": "",
+                "wordEng": "There"
+            },
+            {
+                "wordItal": "Alla",
+                "gender": "fem.",
+                "wordEng": "To the"
+            },
+            {
+                "wordItal": "Tu",
+                "gender": "",
+                "wordEng": "You"
+            },
+            {
+                "wordItal": "Te",
+                "gender": "masc.",
+                "wordEng": "You"
+            },
+            {
+                "wordItal": "Ha",
+                "gender": "fem.",
+                "wordEng": "Has"
+            },
+            {
+                "wordItal": "Cosa",
+                "gender": "fem.",
+                "wordEng": "What"
+            },
+            {
+                "wordItal": "Me",
+                "gender": "masc.",
+                "wordEng": "Me"
+            },
+            {
+                "wordItal": "Delle",
+                "gender": "masc.",
+                "wordEng": "Of the"
+            },
+            {
+                "wordItal": "Questo",
+                "gender": "masc.",
+                "wordEng": "This"
+            },
+            {
+                "wordItal": "Lui",
+                "gender": "",
+                "wordEng": "He"
+            },
+            {
+                "wordItal": "Quello",
+                "gender": "masc.",
+                "wordEng": "That"
+            },
+            {
+                "wordItal": "Quella",
+                "gender": "fem.",
+                "wordEng": "That"
+            },
+            {
+                "wordItal": "Lei",
+                "gender": "",
+                "wordEng": "She"
+            },
+            {
+                "wordItal": "Era",
+                "gender": "fem.",
+                "wordEng": "Was"
+            },
+            {
+                "wordItal": "Stato",
+                "gender": "masc.",
+                "wordEng": "State"
+            },
+            {
+                "wordItal": "Ti",
+                "gender": "",
+                "wordEng": "You"
+            },
+            {
+                "wordItal": "Questi",
+                "gender": "",
+                "wordEng": "These"
+            },
+            {
+                "wordItal": "Noi",
+                "gender": "",
+                "wordEng": "We"
+            },
+            {
+                "wordItal": "Quando",
+                "gender": "masc.",
+                "wordEng": "When"
+            },
+            {
+                "wordItal": "Poi",
+                "gender": "",
+                "wordEng": "Then"
+            },
+            {
+                "wordItal": "Queste",
+                "gender": "masc.",
+                "wordEng": "These"
+            },
+            {
+                "wordItal": "Così",
+                "gender": "",
+                "wordEng": "So"
+            },
+            {
+                "wordItal": "Tuo",
+                "gender": "masc.",
+                "wordEng": "Your"
+            },
+            {
+                "wordItal": "Altro",
+                "gender": "masc.",
+                "wordEng": "Other"
+            },
+            {
+                "wordItal": "Dei",
+                "gender": "",
+                "wordEng": "Of the"
+            },
+            {
+                "wordItal": "Suo",
+                "gender": "masc.",
+                "wordEng": "His"
+            },
+            {
+                "wordItal": "Senza",
+                "gender": "fem.",
+                "wordEng": "Without"
+            },
+            {
+                "wordItal": "Meno",
+                "gender": "masc.",
+                "wordEng": "Less"
+            },
+            {
+                "wordItal": "Ad",
+                "gender": "",
+                "wordEng": "To"
+            },
+            {
+                "wordItal": "Mio",
+                "gender": "masc.",
+                "wordEng": "My"
+            },
+            {
+                "wordItal": "Meglio",
+                "gender": "masc.",
+                "wordEng": "Better"
+            },
+            {
+                "wordItal": "Quelle",
+                "gender": "masc.",
+                "wordEng": "Those"
+            },
+            {
+                "wordItal": "Ancora",
+                "gender": "fem.",
+                "wordEng": "Still"
+            },
+            {
+                "wordItal": "Molto",
+                "gender": "masc.",
+                "wordEng": "Very"
+            },
+            {
+                "wordItal": "Loro",
+                "gender": "masc.",
+                "wordEng": "Their"
+            },
+            {
+                "wordItal": "Sempre",
+                "gender": "masc.",
+                "wordEng": "Always"
+            },
+            {
+                "wordItal": "Questa",
+                "gender": "fem.",
+                "wordEng": "This"
+            },
+            {
+                "wordItal": "Su",
+                "gender": "",
+                "wordEng": "On"
+            },
+            {
+                "wordItal": "Può",
+                "gender": "",
+                "wordEng": "Can"
+            },
+            {
+                "wordItal": "Perché",
+                "gender": "",
+                "wordEng": "Why"
+            },
+            {
+                "wordItal": "Vuoi",
+                "gender": "",
+                "wordEng": "You want"
+            },
+            {
+                "wordItal": "Dice",
+                "gender": "masc.",
+                "wordEng": "Says"
+            },
+            {
+                "wordItal": "Quindi",
+                "gender": "",
+                "wordEng": "So"
+            },
+            {
+                "wordItal": "Due",
+                "gender": "masc.",
+                "wordEng": "Two"
+            },
+            {
+                "wordItal": "Vuole",
+                "gender": "masc.",
+                "wordEng": "Wants"
+            },
+            {
+                "wordItal": "Visto",
+                "gender": "masc.",
+                "wordEng": "Seen"
+            },
+            {
+                "wordItal": "Fra",
+                "gender": "fem.",
+                "wordEng": "Between"
+            },
+            {
+                "wordItal": "Lì",
+                "gender": "",
+                "wordEng": "There"
+            },
+            {
+                "wordItal": "Poco",
+                "gender": "masc.",
+                "wordEng": "Little"
+            },
+            {
+                "wordItal": "Troppo",
+                "gender": "masc.",
+                "wordEng": "Too much"
+            },
+            {
+                "wordItal": "Molta",
+                "gender": "fem.",
+                "wordEng": "Much"
+            },
+            {
+                "wordItal": "Qualcosa",
+                "gender": "fem.",
+                "wordEng": "Something"
+            },
+            {
+                "wordItal": "Chi",
+                "gender": "",
+                "wordEng": "Who"
+            },
+            {
+                "wordItal": "Tra",
+                "gender": "fem.",
+                "wordEng": "Between"
+            },
+            {
+                "wordItal": "Ogni",
+                "gender": "",
+                "wordEng": "Every"
+            },
+            {
+                "wordItal": "Qualche",
+                "gender": "masc.",
+                "wordEng": "Some"
+            },
+            {
+                "wordItal": "Vostra",
+                "gender": "fem.",
+                "wordEng": "Your"
+            },
+            {
+                "wordItal": "Oggi",
+                "gender": "",
+                "wordEng": "Today"
+            },
+            {
+                "wordItal": "Trova",
+                "gender": "fem.",
+                "wordEng": "Finds"
+            },
+            {
+                "wordItal": "Sembra",
+                "gender": "fem.",
+                "wordEng": "Seems"
+            },
+            {
+                "wordItal": "Parlato",
+                "gender": "masc.",
+                "wordEng": "Spoken"
+            },
+            {
+                "wordItal": "Nessuno",
+                "gender": "masc.",
+                "wordEng": "Nobody"
+            },
+            {
+                "wordItal": "Alcuni",
+                "gender": "",
+                "wordEng": "Some"
+            },
+            {
+                "wordItal": "Guarda",
+                "gender": "fem.",
+                "wordEng": "Looks"
+            },
+            {
+                "wordItal": "Primo",
+                "gender": "masc.",
+                "wordEng": "First"
+            },
+            {
+                "wordItal": "Quattro",
+                "gender": "masc.",
+                "wordEng": "Four"
+            },
+            {
+                "wordItal": "Cominciato",
+                "gender": "masc.",
+                "wordEng": "Started"
+            },
+            {
+                "wordItal": "Rimasto",
+                "gender": "masc.",
+                "wordEng": "Remained"
+            },
+            {
+                "wordItal": "Dentro",
+                "gender": "masc.",
+                "wordEng": "Inside"
+            },
+            {
+                "wordItal": "Lunga",
+                "gender": "fem.",
+                "wordEng": "Long"
+            },
+            {
+                "wordItal": "Aiuto",
+                "gender": "masc.",
+                "wordEng": "Help"
+            },
+            {
+                "wordItal": "Entrato",
+                "gender": "masc.",
+                "wordEng": "Entered"
+            },
+            {
+                "wordItal": "Cammino",
+                "gender": "masc.",
+                "wordEng": "Path"
+            },
+            {
+                "wordItal": "Accanto",
+                "gender": "masc.",
+                "wordEng": "Next"
+            },
+            {
+                "wordItal": "Trovato",
+                "gender": "masc.",
+                "wordEng": "Found"
+            },
+            {
+                "wordItal": "Entrambi",
+                "gender": "",
+                "wordEng": "Both"
+            },
+            {
+                "wordItal": "Parecchi",
+                "gender": "",
+                "wordEng": "Several"
+            },
+            {
+                "wordItal": "Ecco",
+                "gender": "masc.",
+                "wordEng": "Here"
+            },
+            {
+                "wordItal": "Volta",
+                "gender": "fem.",
+                "wordEng": "Time"
+            },
+            {
+                "wordItal": "Persone",
+                "gender": "masc.",
+                "wordEng": "People"
+            },
+            {
+                "wordItal": "Strada",
+                "gender": "fem.",
+                "wordEng": "Street"
+            },
+            {
+                "wordItal": "Lavoro",
+                "gender": "masc.",
+                "wordEng": "Work"
+            },
+            {
+                "wordItal": "Vivere",
+                "gender": "masc.",
+                "wordEng": "Live"
+            },
+            {
+                "wordItal": "Nuovo",
+                "gender": "masc.",
+                "wordEng": "New"
+            },
+            {
+                "wordItal": "Domani",
+                "gender": "",
+                "wordEng": "Tomorrow"
+            },
+            {
+                "wordItal": "Bello",
+                "gender": "masc.",
+                "wordEng": "Beautiful"
+            },
+            {
+                "wordItal": "Anno",
+                "gender": "masc.",
+                "wordEng": "Year"
+            },
+            {
+                "wordItal": "Nostro",
+                "gender": "masc.",
+                "wordEng": "Our"
+            },
+            {
+                "wordItal": "Parola",
+                "gender": "fem.",
+                "wordEng": "Word"
+            },
+            {
+                "wordItal": "Ragazza",
+                "gender": "fem.",
+                "wordEng": "Girl"
+            },
+            {
+                "wordItal": "Ragazzo",
+                "gender": "masc.",
+                "wordEng": "Boy"
+            },
+            {
+                "wordItal": "Mese",
+                "gender": "masc.",
+                "wordEng": "Month"
+            },
+            {
+                "wordItal": "Corpo",
+                "gender": "masc.",
+                "wordEng": "Body"
+            },
+            {
+                "wordItal": "Uomini",
+                "gender": "",
+                "wordEng": "Men"
+            },
+            {
+                "wordItal": "Mondo",
+                "gender": "masc.",
+                "wordEng": "World"
+            },
+            {
+                "wordItal": "Settimana",
+                "gender": "fem.",
+                "wordEng": "Week"
+            },
+            {
+                "wordItal": "Notte",
+                "gender": "masc.",
+                "wordEng": "Night"
+            },
+            {
+                "wordItal": "Faccia",
+                "gender": "fem.",
+                "wordEng": "Face"
+            },
+            {
+                "wordItal": "Senso",
+                "gender": "masc.",
+                "wordEng": "Sense"
+            },
+            {
+                "wordItal": "Fine",
+                "gender": "masc.",
+                "wordEng": "End"
+            },
+            {
+                "wordItal": "Verso",
+                "gender": "masc.",
+                "wordEng": "Towards"
+            },
+            {
+                "wordItal": "Avanti",
+                "gender": "",
+                "wordEng": "Forward"
+            },
+            {
+                "wordItal": "Vista",
+                "gender": "fem.",
+                "wordEng": "View"
+            },
+            {
+                "wordItal": "Propria",
+                "gender": "fem.",
+                "wordEng": "Own"
+            },
+            {
+                "wordItal": "Forse",
+                "gender": "masc.",
+                "wordEng": "Maybe"
+            },
+            {
+                "wordItal": "Giovane",
+                "gender": "masc.",
+                "wordEng": "Young"
+            },
+            {
+                "wordItal": "Presente",
+                "gender": "masc.",
+                "wordEng": "Present"
+            },
+            {
+                "wordItal": "Caro",
+                "gender": "masc.",
+                "wordEng": "Dear"
+            },
+            {
+                "wordItal": "Anima",
+                "gender": "fem.",
+                "wordEng": "Soul"
+            },
+            {
+                "wordItal": "Cuore",
+                "gender": "masc.",
+                "wordEng": "Heart"
+            },
+            {
+                "wordItal": "Pensiero",
+                "gender": "masc.",
+                "wordEng": "Thought"
+            },
+            {
+                "wordItal": "Voce",
+                "gender": "masc.",
+                "wordEng": "Voice"
+            },
+            {
+                "wordItal": "Genitori",
+                "gender": "",
+                "wordEng": "Parents"
+            },
+            {
+                "wordItal": "Spazio",
+                "gender": "masc.",
+                "wordEng": "Space"
+            },
+            {
+                "wordItal": "Vecchio",
+                "gender": "masc.",
+                "wordEng": "Old"
+            },
+            {
+                "wordItal": "Invece",
+                "gender": "masc.",
+                "wordEng": "Instead"
+            },
+            {
+                "wordItal": "Punto",
+                "gender": "masc.",
+                "wordEng": "Point"
+            },
+            {
+                "wordItal": "Mattina",
+                "gender": "fem.",
+                "wordEng": "Morning"
+            },
+            {
+                "wordItal": "Giornata",
+                "gender": "fem.",
+                "wordEng": "Day"
+            },
+            {
+                "wordItal": "Amico",
+                "gender": "masc.",
+                "wordEng": "Friend"
+            },
+            {
+                "wordItal": "Piede",
+                "gender": "masc.",
+                "wordEng": "Foot"
+            },
+            {
+                "wordItal": "Campo",
+                "gender": "masc.",
+                "wordEng": "Field"
+            },
+            {
+                "wordItal": "Idea",
+                "gender": "fem.",
+                "wordEng": "Idea"
+            },
+            {
+                "wordItal": "Bravo",
+                "gender": "masc.",
+                "wordEng": "Good"
+            },
+            {
+                "wordItal": "Matrimonio",
+                "gender": "masc.",
+                "wordEng": "Marriage"
+            },
+            {
+                "wordItal": "Notizia",
+                "gender": "fem.",
+                "wordEng": "News"
+            },
+            {
+                "wordItal": "Libro",
+                "gender": "masc.",
+                "wordEng": "Book"
+            },
+            {
+                "wordItal": "Destino",
+                "gender": "masc.",
+                "wordEng": "Destiny"
+            },
+            {
+                "wordItal": "Lettera",
+                "gender": "fem.",
+                "wordEng": "Letter"
+            },
+            {
+                "wordItal": "Domanda",
+                "gender": "fem.",
+                "wordEng": "Question"
+            },
+            {
+                "wordItal": "Lato",
+                "gender": "masc.",
+                "wordEng": "Side"
+            },
+            {
+                "wordItal": "Sorte",
+                "gender": "masc.",
+                "wordEng": "Fate"
+            },
+            {
+                "wordItal": "Volto",
+                "gender": "masc.",
+                "wordEng": "Face"
+            },
+            {
+                "wordItal": "Piano",
+                "gender": "masc.",
+                "wordEng": "Plan"
+            },
+            {
+                "wordItal": "Scuola",
+                "gender": "fem.",
+                "wordEng": "School"
+            },
+            {
+                "wordItal": "Volo",
+                "gender": "masc.",
+                "wordEng": "Flight"
+            },
+            {
+                "wordItal": "Pieno",
+                "gender": "masc.",
+                "wordEng": "Full"
+            },
+            {
+                "wordItal": "Serata",
+                "gender": "fem.",
+                "wordEng": "Evening"
+            },
+            {
+                "wordItal": "Risposta",
+                "gender": "fem.",
+                "wordEng": "Answer"
+            },
+            {
+                "wordItal": "Mezzo",
+                "gender": "masc.",
+                "wordEng": "Middle"
+            },
+            {
+                "wordItal": "Sera",
+                "gender": "fem.",
+                "wordEng": "Evening"
+            },
+            {
+                "wordItal": "Musica",
+                "gender": "fem.",
+                "wordEng": "Music"
+            },
+            {
+                "wordItal": "Motivo",
+                "gender": "masc.",
+                "wordEng": "Reason"
+            },
+            {
+                "wordItal": "Quasi",
+                "gender": "",
+                "wordEng": "Almost"
+            },
+            {
+                "wordItal": "Perfetto",
+                "gender": "masc.",
+                "wordEng": "Perfect"
+            },
+            {
+                "wordItal": "Cielo",
+                "gender": "masc.",
+                "wordEng": "Sky"
+            },
+            {
+                "wordItal": "Piccolo",
+                "gender": "masc.",
+                "wordEng": "Small"
+            },
+            {
+                "wordItal": "Attenzione",
+                "gender": "masc.",
+                "wordEng": "Attention"
+            },
+            {
+                "wordItal": "Fortuna",
+                "gender": "fem.",
+                "wordEng": "Luck"
+            },
+            {
+                "wordItal": "Pericolo",
+                "gender": "masc.",
+                "wordEng": "Danger"
+            },
+            {
+                "wordItal": "Mente",
+                "gender": "masc.",
+                "wordEng": "Mind"
+            },
+            {
+                "wordItal": "Ombra",
+                "gender": "fem.",
+                "wordEng": "Shadow"
+            },
+            {
+                "wordItal": "Cinque",
+                "gender": "masc.",
+                "wordEng": "Five"
+            },
+            {
+                "wordItal": "Storia",
+                "gender": "fem.",
+                "wordEng": "Story"
+            },
+            {
+                "wordItal": "Pensato",
+                "gender": "masc.",
+                "wordEng": "Thought"
+            },
+            {
+                "wordItal": "Passato",
+                "gender": "masc.",
+                "wordEng": "Past"
+            },
+            {
+                "wordItal": "Guerra",
+                "gender": "fem.",
+                "wordEng": "War"
+            },
+            {
+                "wordItal": "Gioco",
+                "gender": "masc.",
+                "wordEng": "Game"
+            },
+            {
+                "wordItal": "Scena",
+                "gender": "fem.",
+                "wordEng": "Scene"
+            },
+            {
+                "wordItal": "Padri",
+                "gender": "",
+                "wordEng": "Fathers"
+            },
+            {
+                "wordItal": "Proprio",
+                "gender": "masc.",
+                "wordEng": "Own"
+            },
+            {
+                "wordItal": "Lontano",
+                "gender": "masc.",
+                "wordEng": "Far"
+            },
+            {
+                "wordItal": "Ricordo",
+                "gender": "masc.",
+                "wordEng": "Memory"
+            },
+            {
+                "wordItal": "Sogno",
+                "gender": "masc.",
+                "wordEng": "Dream"
+            },
+            {
+                "wordItal": "Coraggio",
+                "gender": "masc.",
+                "wordEng": "Courage"
+            },
+            {
+                "wordItal": "Niente",
+                "gender": "masc.",
+                "wordEng": "Nothing"
+            },
+            {
+                "wordItal": "Malato",
+                "gender": "masc.",
+                "wordEng": "Sick"
+            },
+            {
+                "wordItal": "Diavolo",
+                "gender": "masc.",
+                "wordEng": "Devil"
+            },
+            {
+                "wordItal": "Dolore",
+                "gender": "masc.",
+                "wordEng": "Pain"
+            },
+            {
+                "wordItal": "Vicino",
+                "gender": "masc.",
+                "wordEng": "Near"
+            },
+            {
+                "wordItal": "Straniero",
+                "gender": "masc.",
+                "wordEng": "Foreigner"
+            },
+            {
+                "wordItal": "Andato",
+                "gender": "masc.",
+                "wordEng": "Gone"
+            },
+            {
+                "wordItal": "Buono",
+                "gender": "masc.",
+                "wordEng": "Good"
+            },
+            {
+                "wordItal": "Bambino",
+                "gender": "masc.",
+                "wordEng": "Child"
+            },
+            {
+                "wordItal": "Aspetto",
+                "gender": "masc.",
+                "wordEng": "Look"
+            },
+            {
+                "wordItal": "Quarto",
+                "gender": "masc.",
+                "wordEng": "Fourth"
+            },
+            {
+                "wordItal": "Almeno",
+                "gender": "masc.",
+                "wordEng": "At least"
+            },
+            {
+                "wordItal": "Serio",
+                "gender": "masc.",
+                "wordEng": "Serious"
+            },
+            {
+                "wordItal": "Lungo",
+                "gender": "masc.",
+                "wordEng": "Long"
+            },
+            {
+                "wordItal": "Soltanto",
+                "gender": "masc.",
+                "wordEng": "Only"
+            },
+            {
+                "wordItal": "Diverso",
+                "gender": "masc.",
+                "wordEng": "Different"
+            },
+            {
+                "wordItal": "Piace",
+                "gender": "masc.",
+                "wordEng": "Likes"
+            },
+            {
+                "wordItal": "Forte",
+                "gender": "masc.",
+                "wordEng": "Strong"
+            },
+            {
+                "wordItal": "Uscito",
+                "gender": "masc.",
+                "wordEng": "Out"
+            },
+            {
+                "wordItal": "Felice",
+                "gender": "masc.",
+                "wordEng": "Happy"
+            },
+            {
+                "wordItal": "Paura",
+                "gender": "fem.",
+                "wordEng": "Fear"
+            },
+            {
+                "wordItal": "Contento",
+                "gender": "masc.",
+                "wordEng": "Happy"
+            },
+            {
+                "wordItal": "Secondo",
+                "gender": "masc.",
+                "wordEng": "Second"
+            },
+            {
+                "wordItal": "Basta",
+                "gender": "fem.",
+                "wordEng": "Enough"
+            },
+            {
+                "wordItal": "Buona",
+                "gender": "fem.",
+                "wordEng": "Good"
+            },
+            {
+                "wordItal": "Brutto",
+                "gender": "masc.",
+                "wordEng": "Ugly"
+            },
+            {
+                "wordItal": "Dimenticato",
+                "gender": "masc.",
+                "wordEng": "Forgotten"
+            },
+            {
+                "wordItal": "Salutato",
+                "gender": "masc.",
+                "wordEng": "Greeted"
+            },
+            {
+                "wordItal": "Chiuso",
+                "gender": "masc.",
+                "wordEng": "Closed"
+            },
+            {
+                "wordItal": "Merito",
+                "gender": "masc.",
+                "wordEng": "Merit"
+            },
+            {
+                "wordItal": "Finito",
+                "gender": "masc.",
+                "wordEng": "Finished"
+            },
+            {
+                "wordItal": "Certo",
+                "gender": "masc.",
+                "wordEng": "Certain"
+            },
+            {
+                "wordItal": "Ritorno",
+                "gender": "masc.",
+                "wordEng": "Return"
+            },
+            {
+                "wordItal": "Carattere",
+                "gender": "masc.",
+                "wordEng": "Character"
+            },
+            {
+                "wordItal": "Verità",
+                "gender": "",
+                "wordEng": "Truth"
+            },
+            {
+                "wordItal": "Sveglia",
+                "gender": "fem.",
+                "wordEng": "Wake up"
+            },
+            {
+                "wordItal": "Ultimo",
+                "gender": "masc.",
+                "wordEng": "Last"
+            },
+            {
+                "wordItal": "Subito",
+                "gender": "masc.",
+                "wordEng": "Immediately"
+            },
+            {
+                "wordItal": "Già",
+                "gender": "",
+                "wordEng": "Already"
+            },
+            {
+                "wordItal": "Parte",
+                "gender": "masc.",
+                "wordEng": "Part"
+            },
+            {
+                "wordItal": "Veramente",
+                "gender": "masc.",
+                "wordEng": "Really"
+            },
+            {
+                "wordItal": "Vero",
+                "gender": "masc.",
+                "wordEng": "True"
+            },
+            {
+                "wordItal": "Quale",
+                "gender": "masc.",
+                "wordEng": "Which"
+            },
+            {
+                "wordItal": "Unico",
+                "gender": "masc.",
+                "wordEng": "Only"
+            },
+            {
+                "wordItal": "Compagno",
+                "gender": "masc.",
+                "wordEng": "Companion"
+            },
+            {
+                "wordItal": "Ultima",
+                "gender": "fem.",
+                "wordEng": "Last"
+            },
+            {
+                "wordItal": "Davvero",
+                "gender": "masc.",
+                "wordEng": "Really"
+            },
+            {
+                "wordItal": "Migliore",
+                "gender": "masc.",
+                "wordEng": "Best"
+            },
+            {
+                "wordItal": "Solito",
+                "gender": "masc.",
+                "wordEng": "Usual"
+            },
+            {
+                "wordItal": "Vera",
+                "gender": "fem.",
+                "wordEng": "True"
+            },
+            {
+                "wordItal": "Nuova",
+                "gender": "fem.",
+                "wordEng": "New"
+            },
+            {
+                "wordItal": "Arrivata",
+                "gender": "fem.",
+                "wordEng": "Arrived"
+            },
+            {
+                "wordItal": "Sicuramente",
+                "gender": "masc.",
+                "wordEng": "Surely"
+            },
+            {
+                "wordItal": "Primi",
+                "gender": "",
+                "wordEng": "First"
+            },
+            {
+                "wordItal": "Cambiato",
+                "gender": "masc.",
+                "wordEng": "Changed"
+            },
+            {
+                "wordItal": "Giovani",
+                "gender": "",
+                "wordEng": "Young"
+            },
+            {
+                "wordItal": "Ragione",
+                "gender": "masc.",
+                "wordEng": "Reason"
+            },
+            {
+                "wordItal": "Tutti",
+                "gender": "",
+                "wordEng": "All"
+            },
+            {
+                "wordItal": "Cercare",
+                "gender": "masc.",
+                "wordEng": "Search"
+            },
+            {
+                "wordItal": "Trovare",
+                "gender": "masc.",
+                "wordEng": "Find"
+            },
+            {
+                "wordItal": "Aiutato",
+                "gender": "masc.",
+                "wordEng": "Helped"
+            },
+            {
+                "wordItal": "Lavorato",
+                "gender": "masc.",
+                "wordEng": "Worked"
+            },
+            {
+                "wordItal": "Arrivo",
+                "gender": "masc.",
+                "wordEng": "Arrival"
+            },
+            {
+                "wordItal": "Occhio",
+                "gender": "masc.",
+                "wordEng": "Eye"
+            },
+            {
+                "wordItal": "Macchina",
+                "gender": "fem.",
+                "wordEng": "Car"
+            },
+            {
+                "wordItal": "Denaro",
+                "gender": "masc.",
+                "wordEng": "Money"
+            },
+            {
+                "wordItal": "Morte",
+                "gender": "masc.",
+                "wordEng": "Death"
+            },
+            {
+                "wordItal": "Testa",
+                "gender": "fem.",
+                "wordEng": "Head"
+            },
+            {
+                "wordItal": "Popolo",
+                "gender": "masc.",
+                "wordEng": "People"
+            },
+            {
+                "wordItal": "Segno",
+                "gender": "masc.",
+                "wordEng": "Sign"
+            },
+            {
+                "wordItal": "Fiore",
+                "gender": "masc.",
+                "wordEng": "Flower"
+            },
+            {
+                "wordItal": "Pietra",
+                "gender": "fem.",
+                "wordEng": "Stone"
+            },
+            {
+                "wordItal": "Sangue",
+                "gender": "masc.",
+                "wordEng": "Blood"
+            },
+            {
+                "wordItal": "Dio",
+                "gender": "masc.",
+                "wordEng": "God"
+            },
+            {
+                "wordItal": "Città",
+                "gender": "",
+                "wordEng": "City"
+            },
+            {
+                "wordItal": "Acqua",
+                "gender": "fem.",
+                "wordEng": "Water"
+            },
+            {
+                "wordItal": "Porta",
+                "gender": "fem.",
+                "wordEng": "Door"
+            },
+            {
+                "wordItal": "Fuoco",
+                "gender": "masc.",
+                "wordEng": "Fire"
+            },
+            {
+                "wordItal": "Re",
+                "gender": "masc.",
+                "wordEng": "King"
+            },
+            {
+                "wordItal": "Regina",
+                "gender": "fem.",
+                "wordEng": "Queen"
+            },
+            {
+                "wordItal": "Bosco",
+                "gender": "masc.",
+                "wordEng": "Forest"
+            },
+            {
+                "wordItal": "Vento",
+                "gender": "masc.",
+                "wordEng": "Wind"
+            },
+            {
+                "wordItal": "Luna",
+                "gender": "fem.",
+                "wordEng": "Moon"
+            },
+            {
+                "wordItal": "Stella",
+                "gender": "fem.",
+                "wordEng": "Star"
+            },
+            {
+                "wordItal": "Neve",
+                "gender": "masc.",
+                "wordEng": "Snow"
+            },
+            {
+                "wordItal": "Pioggia",
+                "gender": "fem.",
+                "wordEng": "Rain"
+            },
+            {
+                "wordItal": "Fiume",
+                "gender": "masc.",
+                "wordEng": "River"
+            },
+            {
+                "wordItal": "Prato",
+                "gender": "masc.",
+                "wordEng": "Meadow"
+            },
+            {
+                "wordItal": "Campagna",
+                "gender": "fem.",
+                "wordEng": "Countryside"
+            },
+            {
+                "wordItal": "Terra",
+                "gender": "fem.",
+                "wordEng": "Earth"
+            },
+            {
+                "wordItal": "Lacrima",
+                "gender": "fem.",
+                "wordEng": "Tear"
+            },
+            {
+                "wordItal": "Letto",
+                "gender": "masc.",
+                "wordEng": "Bed"
+            },
+            {
+                "wordItal": "Finestra",
+                "gender": "fem.",
+                "wordEng": "Window"
+            },
+            {
+                "wordItal": "Specchio",
+                "gender": "masc.",
+                "wordEng": "Mirror"
+            },
+            {
+                "wordItal": "Sorriso",
+                "gender": "masc.",
+                "wordEng": "Smile"
+            },
+            {
+                "wordItal": "Silenzio",
+                "gender": "masc.",
+                "wordEng": "Silence"
+            },
+            {
+                "wordItal": "Rumore",
+                "gender": "masc.",
+                "wordEng": "Noise"
+            },
+            {
+                "wordItal": "Pace",
+                "gender": "masc.",
+                "wordEng": "Peace"
+            },
+            {
+                "wordItal": "Grazia",
+                "gender": "fem.",
+                "wordEng": "Grace"
+            },
+            {
+                "wordItal": "Gioia",
+                "gender": "fem.",
+                "wordEng": "Joy"
+            },
+            {
+                "wordItal": "Speranza",
+                "gender": "fem.",
+                "wordEng": "Hope"
+            },
+            {
+                "wordItal": "Nemico",
+                "gender": "masc.",
+                "wordEng": "Enemy"
+            },
+            {
+                "wordItal": "Felicità",
+                "gender": "",
+                "wordEng": "Happiness"
+            },
+            {
+                "wordItal": "Tristezza",
+                "gender": "fem.",
+                "wordEng": "Sadness"
+            },
+            {
+                "wordItal": "Bugia",
+                "gender": "fem.",
+                "wordEng": "Lie"
+            },
+            {
+                "wordItal": "Rispetto",
+                "gender": "masc.",
+                "wordEng": "Respect"
+            },
+            {
+                "wordItal": "Onore",
+                "gender": "masc.",
+                "wordEng": "Honor"
+            },
+            {
+                "wordItal": "Vergogna",
+                "gender": "fem.",
+                "wordEng": "Shame"
+            },
+            {
+                "wordItal": "Colpa",
+                "gender": "fem.",
+                "wordEng": "Fault"
+            },
+            {
+                "wordItal": "Fede",
+                "gender": "masc.",
+                "wordEng": "Faith"
+            },
+            {
+                "wordItal": "Piacere",
+                "gender": "masc.",
+                "wordEng": "Pleasure"
+            },
+            {
+                "wordItal": "Noia",
+                "gender": "fem.",
+                "wordEng": "Boredom"
+            },
+            {
+                "wordItal": "Amarezza",
+                "gender": "fem.",
+                "wordEng": "Bitterness"
+            },
+            {
+                "wordItal": "Passione",
+                "gender": "masc.",
+                "wordEng": "Passion"
+            },
+            {
+                "wordItal": "Odio",
+                "gender": "masc.",
+                "wordEng": "Hatred"
+            },
+            {
+                "wordItal": "Bacio",
+                "gender": "masc.",
+                "wordEng": "Kiss"
+            },
+            {
+                "wordItal": "Abbraccio",
+                "gender": "masc.",
+                "wordEng": "Hug"
+            },
+            {
+                "wordItal": "Pianto",
+                "gender": "masc.",
+                "wordEng": "Cry"
+            },
+            {
+                "wordItal": "Carezza",
+                "gender": "fem.",
+                "wordEng": "Caress"
+            },
+            {
+                "wordItal": "Battito",
+                "gender": "masc.",
+                "wordEng": "Beat"
+            },
+            {
+                "wordItal": "Incubo",
+                "gender": "masc.",
+                "wordEng": "Nightmare"
+            },
+            {
+                "wordItal": "Desiderio",
+                "gender": "masc.",
+                "wordEng": "Desire"
+            },
+            {
+                "wordItal": "Illusione",
+                "gender": "masc.",
+                "wordEng": "Illusion"
+            },
+            {
+                "wordItal": "Grido",
+                "gender": "masc.",
+                "wordEng": "Cry"
+            },
+            {
+                "wordItal": "Sussurro",
+                "gender": "masc.",
+                "wordEng": "Whisper"
+            },
+            {
+                "wordItal": "Urlo",
+                "gender": "masc.",
+                "wordEng": "Scream"
+            },
+            {
+                "wordItal": "Riso",
+                "gender": "masc.",
+                "wordEng": "Laugh"
+            },
+            {
+                "wordItal": "Sguardo",
+                "gender": "masc.",
+                "wordEng": "Look"
+            },
+            {
+                "wordItal": "Viso",
+                "gender": "masc.",
+                "wordEng": "Face"
+            },
+            {
+                "wordItal": "Bocca",
+                "gender": "fem.",
+                "wordEng": "Mouth"
+            },
+            {
+                "wordItal": "Labbro",
+                "gender": "masc.",
+                "wordEng": "Lip"
+            },
+            {
+                "wordItal": "Dente",
+                "gender": "masc.",
+                "wordEng": "Tooth"
+            },
+            {
+                "wordItal": "Lingua",
+                "gender": "fem.",
+                "wordEng": "Tongue"
+            },
+            {
+                "wordItal": "Gola",
+                "gender": "fem.",
+                "wordEng": "Throat"
+            },
+            {
+                "wordItal": "Collo",
+                "gender": "masc.",
+                "wordEng": "Neck"
+            },
+            {
+                "wordItal": "Spalla",
+                "gender": "fem.",
+                "wordEng": "Shoulder"
+            },
+            {
+                "wordItal": "Petto",
+                "gender": "masc.",
+                "wordEng": "Chest"
+            },
+            {
+                "wordItal": "Schiena",
+                "gender": "fem.",
+                "wordEng": "Back"
+            },
+            {
+                "wordItal": "Fianco",
+                "gender": "masc.",
+                "wordEng": "Side"
+            },
+            {
+                "wordItal": "Pancia",
+                "gender": "fem.",
+                "wordEng": "Belly"
+            },
+            {
+                "wordItal": "Anca",
+                "gender": "fem.",
+                "wordEng": "Hip"
+            },
+            {
+                "wordItal": "Gamba",
+                "gender": "fem.",
+                "wordEng": "Leg"
+            },
+            {
+                "wordItal": "Ginocchio",
+                "gender": "masc.",
+                "wordEng": "Knee"
+            },
+            {
+                "wordItal": "Dito",
+                "gender": "masc.",
+                "wordEng": "Finger"
+            },
+            {
+                "wordItal": "Unghia",
+                "gender": "fem.",
+                "wordEng": "Nail"
+            },
+            {
+                "wordItal": "Capello",
+                "gender": "masc.",
+                "wordEng": "Hair"
+            },
+            {
+                "wordItal": "Orecchio",
+                "gender": "masc.",
+                "wordEng": "Ear"
+            },
+            {
+                "wordItal": "Fronte",
+                "gender": "masc.",
+                "wordEng": "Forehead"
+            },
+            {
+                "wordItal": "Sopracciglio",
+                "gender": "masc.",
+                "wordEng": "Eyebrow"
+            },
+            {
+                "wordItal": "Ciglia",
+                "gender": "fem.",
+                "wordEng": "Eyelash"
+            },
+            {
+                "wordItal": "Naso",
+                "gender": "masc.",
+                "wordEng": "Nose"
+            },
+            {
+                "wordItal": "Guancia",
+                "gender": "fem.",
+                "wordEng": "Cheek"
+            },
+            {
+                "wordItal": "Mento",
+                "gender": "masc.",
+                "wordEng": "Chin"
+            },
+            {
+                "wordItal": "Pelle",
+                "gender": "masc.",
+                "wordEng": "Skin"
+            },
+            {
+                "wordItal": "Osso",
+                "gender": "masc.",
+                "wordEng": "Bone"
+            },
+            {
+                "wordItal": "Muscolo",
+                "gender": "masc.",
+                "wordEng": "Muscle"
+            },
+            {
+                "wordItal": "Polmone",
+                "gender": "masc.",
+                "wordEng": "Lung"
+            },
+            {
+                "wordItal": "Fegato",
+                "gender": "masc.",
+                "wordEng": "Liver"
+            },
+            {
+                "wordItal": "Stomaco",
+                "gender": "masc.",
+                "wordEng": "Stomach"
+            },
+            {
+                "wordItal": "Intestino",
+                "gender": "masc.",
+                "wordEng": "Intestine"
+            },
+            {
+                "wordItal": "Rene",
+                "gender": "masc.",
+                "wordEng": "Kidney"
+            },
+            {
+                "wordItal": "Vescica",
+                "gender": "fem.",
+                "wordEng": "Bladder"
+            },
+            {
+                "wordItal": "Cervello",
+                "gender": "masc.",
+                "wordEng": "Brain"
+            },
+            {
+                "wordItal": "Nervo",
+                "gender": "masc.",
+                "wordEng": "Nerve"
+            },
+            {
+                "wordItal": "Scheletro",
+                "gender": "masc.",
+                "wordEng": "Skeleton"
+            },
+            {
+                "wordItal": "Organo",
+                "gender": "masc.",
+                "wordEng": "Organ"
+            },
+            {
+                "wordItal": "Persona",
+                "gender": "fem.",
+                "wordEng": "Person"
+            },
+            {
+                "wordItal": "Cugino",
+                "gender": "masc.",
+                "wordEng": "Cousin"
+            },
+            {
+                "wordItal": "Nipote",
+                "gender": "masc.",
+                "wordEng": "Nephew"
+            },
+            {
+                "wordItal": "Fidanzato",
+                "gender": "masc.",
+                "wordEng": "Fiancé"
+            },
+            {
+                "wordItal": "Fidanzata",
+                "gender": "fem.",
+                "wordEng": "Fiancée"
+            },
+            {
+                "wordItal": "Amante",
+                "gender": "masc.",
+                "wordEng": "Lover"
+            },
+            {
+                "wordItal": "Collega",
+                "gender": "fem.",
+                "wordEng": "Colleague"
+            },
+            {
+                "wordItal": "Capo",
+                "gender": "masc.",
+                "wordEng": "Boss"
+            },
+            {
+                "wordItal": "Lavoratore",
+                "gender": "masc.",
+                "wordEng": "Worker"
+            },
+            {
+                "wordItal": "Impiegato",
+                "gender": "masc.",
+                "wordEng": "Employee"
+            },
+            {
+                "wordItal": "Studente",
+                "gender": "masc.",
+                "wordEng": "Student"
+            },
+            {
+                "wordItal": "Insegnante",
+                "gender": "masc.",
+                "wordEng": "Teacher"
+            },
+            {
+                "wordItal": "Professore",
+                "gender": "masc.",
+                "wordEng": "Professor"
+            },
+            {
+                "wordItal": "Medico",
+                "gender": "masc.",
+                "wordEng": "Doctor"
+            },
+            {
+                "wordItal": "Infermiere",
+                "gender": "masc.",
+                "wordEng": "Nurse"
+            },
+            {
+                "wordItal": "Dentista",
+                "gender": "fem.",
+                "wordEng": "Dentist"
+            },
+            {
+                "wordItal": "Farmacista",
+                "gender": "fem.",
+                "wordEng": "Pharmacist"
+            },
+            {
+                "wordItal": "Avvocato",
+                "gender": "masc.",
+                "wordEng": "Lawyer"
+            },
+            {
+                "wordItal": "Giudice",
+                "gender": "masc.",
+                "wordEng": "Judge"
+            },
+            {
+                "wordItal": "Poliziotto",
+                "gender": "masc.",
+                "wordEng": "Policeman"
+            },
+            {
+                "wordItal": "Pompiere",
+                "gender": "masc.",
+                "wordEng": "Fireman"
+            },
+            {
+                "wordItal": "Soldato",
+                "gender": "masc.",
+                "wordEng": "Soldier"
+            },
+            {
+                "wordItal": "Pilota",
+                "gender": "fem.",
+                "wordEng": "Driver"
+            },
+            {
+                "wordItal": "Autista",
+                "gender": "fem.",
+                "wordEng": "Driver"
+            },
+            {
+                "wordItal": "Ingegnere",
+                "gender": "masc.",
+                "wordEng": "Engineer"
+            },
+            {
+                "wordItal": "Architetto",
+                "gender": "masc.",
+                "wordEng": "Architect"
+            },
+            {
+                "wordItal": "Contadino",
+                "gender": "masc.",
+                "wordEng": "Farmer"
+            },
+            {
+                "wordItal": "Pescatore",
+                "gender": "masc.",
+                "wordEng": "Fisherman"
+            },
+            {
+                "wordItal": "Cuoco",
+                "gender": "masc.",
+                "wordEng": "Cook"
+            },
+            {
+                "wordItal": "Cameriere",
+                "gender": "masc.",
+                "wordEng": "Waiter"
+            },
+            {
+                "wordItal": "Barista",
+                "gender": "fem.",
+                "wordEng": "Bartender"
+            },
+            {
+                "wordItal": "Venditore",
+                "gender": "masc.",
+                "wordEng": "Seller"
+            },
+            {
+                "wordItal": "Cassiere",
+                "gender": "masc.",
+                "wordEng": "Cashier"
+            },
+            {
+                "wordItal": "Commesso",
+                "gender": "masc.",
+                "wordEng": "Clerk"
+            },
+            {
+                "wordItal": "Dirigente",
+                "gender": "masc.",
+                "wordEng": "Manager"
+            },
+            {
+                "wordItal": "Imprenditore",
+                "gender": "masc.",
+                "wordEng": "Entrepreneur"
+            },
+            {
+                "wordItal": "Artigiano",
+                "gender": "masc.",
+                "wordEng": "Craftsman"
+            },
+            {
+                "wordItal": "Pittore",
+                "gender": "masc.",
+                "wordEng": "Painter"
+            },
+            {
+                "wordItal": "Scultore",
+                "gender": "masc.",
+                "wordEng": "Sculptor"
+            },
+            {
+                "wordItal": "Musicista",
+                "gender": "fem.",
+                "wordEng": "Musician"
+            },
+            {
+                "wordItal": "Cantante",
+                "gender": "masc.",
+                "wordEng": "Singer"
+            },
+            {
+                "wordItal": "Attore",
+                "gender": "masc.",
+                "wordEng": "Actor"
+            },
+            {
+                "wordItal": "Attrice",
+                "gender": "masc.",
+                "wordEng": "Actress"
+            },
+            {
+                "wordItal": "Ballerino",
+                "gender": "masc.",
+                "wordEng": "Dancer"
+            },
+            {
+                "wordItal": "Scrittore",
+                "gender": "masc.",
+                "wordEng": "Writer"
+            },
+            {
+                "wordItal": "Poeta",
+                "gender": "fem.",
+                "wordEng": "Poet"
+            },
+            {
+                "wordItal": "Giornalista",
+                "gender": "fem.",
+                "wordEng": "Journalist"
+            },
+            {
+                "wordItal": "Fotografo",
+                "gender": "masc.",
+                "wordEng": "Photographer"
+            },
+            {
+                "wordItal": "Regista",
+                "gender": "fem.",
+                "wordEng": "Director"
+            },
+            {
+                "wordItal": "Produttore",
+                "gender": "masc.",
+                "wordEng": "Producer"
+            },
+            {
+                "wordItal": "Politico",
+                "gender": "masc.",
+                "wordEng": "Politician"
+            },
+            {
+                "wordItal": "Sindaco",
+                "gender": "masc.",
+                "wordEng": "Mayor"
+            },
+            {
+                "wordItal": "Deputato",
+                "gender": "masc.",
+                "wordEng": "Deputy"
+            },
+            {
+                "wordItal": "Senatore",
+                "gender": "masc.",
+                "wordEng": "Senator"
+            },
+            {
+                "wordItal": "Presidente",
+                "gender": "masc.",
+                "wordEng": "President"
+            },
+            {
+                "wordItal": "Ministro",
+                "gender": "masc.",
+                "wordEng": "Minister"
+            },
+            {
+                "wordItal": "Ambasciatore",
+                "gender": "masc.",
+                "wordEng": "Ambassador"
+            },
+            {
+                "wordItal": "Console",
+                "gender": "masc.",
+                "wordEng": "Consul"
+            },
+            {
+                "wordItal": "Funzionario",
+                "gender": "masc.",
+                "wordEng": "Official"
+            },
+            {
+                "wordItal": "Diplomatico",
+                "gender": "masc.",
+                "wordEng": "Diplomat"
+            },
+            {
+                "wordItal": "Economista",
+                "gender": "fem.",
+                "wordEng": "Economist"
+            },
+            {
+                "wordItal": "Finanziere",
+                "gender": "masc.",
+                "wordEng": "Financier"
+            },
+            {
+                "wordItal": "Banchiere",
+                "gender": "masc.",
+                "wordEng": "Banker"
+            },
+            {
+                "wordItal": "Contabile",
+                "gender": "masc.",
+                "wordEng": "Accountant"
+            },
+            {
+                "wordItal": "Consulente",
+                "gender": "masc.",
+                "wordEng": "Consultant"
+            },
+            {
+                "wordItal": "Segretario",
+                "gender": "masc.",
+                "wordEng": "Secretary"
+            },
+            {
+                "wordItal": "Traduttore",
+                "gender": "masc.",
+                "wordEng": "Translator"
+            },
+            {
+                "wordItal": "Interprete",
+                "gender": "masc.",
+                "wordEng": "Interpreter"
+            },
+            {
+                "wordItal": "Guida",
+                "gender": "fem.",
+                "wordEng": "Guide"
+            },
+            {
+                "wordItal": "Turista",
+                "gender": "fem.",
+                "wordEng": "Tourist"
+            },
+            {
+                "wordItal": "Viaggiatore",
+                "gender": "masc.",
+                "wordEng": "Traveller"
+            },
+            {
+                "wordItal": "Esploratore",
+                "gender": "masc.",
+                "wordEng": "Explorer"
+            },
+            {
+                "wordItal": "Pellegrino",
+                "gender": "masc.",
+                "wordEng": "Pilgrim"
+            },
+            {
+                "wordItal": "Emigrante",
+                "gender": "masc.",
+                "wordEng": "Emigrant"
+            },
+            {
+                "wordItal": "Immigrante",
+                "gender": "masc.",
+                "wordEng": "Immigrant"
+            },
+            {
+                "wordItal": "Rifugiato",
+                "gender": "masc.",
+                "wordEng": "Refugee"
+            },
+            {
+                "wordItal": "Prigioniero",
+                "gender": "masc.",
+                "wordEng": "Prisoner"
+            },
+            {
+                "wordItal": "Detenuto",
+                "gender": "masc.",
+                "wordEng": "Detainee"
+            },
+            {
+                "wordItal": "Carcerato",
+                "gender": "masc.",
+                "wordEng": "Inmate"
+            },
+            {
+                "wordItal": "Criminale",
+                "gender": "masc.",
+                "wordEng": "Criminal"
+            },
+            {
+                "wordItal": "Ladro",
+                "gender": "masc.",
+                "wordEng": "Thief"
+            },
+            {
+                "wordItal": "Rapinatore",
+                "gender": "masc.",
+                "wordEng": "Robber"
+            },
+            {
+                "wordItal": "Assassino",
+                "gender": "masc.",
+                "wordEng": "Murderer"
+            },
+            {
+                "wordItal": "Terrorista",
+                "gender": "fem.",
+                "wordEng": "Terrorist"
+            },
+            {
+                "wordItal": "Vittima",
+                "gender": "fem.",
+                "wordEng": "Victim"
+            },
+            {
+                "wordItal": "Eroe",
+                "gender": "masc.",
+                "wordEng": "Hero"
+            },
+            {
+                "wordItal": "Santo",
+                "gender": "masc.",
+                "wordEng": "Saint"
+            },
+            {
+                "wordItal": "Martire",
+                "gender": "masc.",
+                "wordEng": "Martyr"
+            },
+            {
+                "wordItal": "Peccatore",
+                "gender": "masc.",
+                "wordEng": "Sinner"
+            },
+            {
+                "wordItal": "Profeta",
+                "gender": "fem.",
+                "wordEng": "Prophet"
+            },
+            {
+                "wordItal": "Sacerdote",
+                "gender": "masc.",
+                "wordEng": "Priest"
+            },
+            {
+                "wordItal": "Vescovo",
+                "gender": "masc.",
+                "wordEng": "Bishop"
+            },
+            {
+                "wordItal": "Papa",
+                "gender": "fem.",
+                "wordEng": "Pope"
+            },
+            {
+                "wordItal": "Monaco",
+                "gender": "masc.",
+                "wordEng": "Monk"
+            },
+            {
+                "wordItal": "Suora",
+                "gender": "fem.",
+                "wordEng": "Nun"
+            },
+            {
+                "wordItal": "Missionario",
+                "gender": "masc.",
+                "wordEng": "Missionary"
+            },
+            {
+                "wordItal": "Mistico",
+                "gender": "masc.",
+                "wordEng": "Mystic"
+            },
+            {
+                "wordItal": "Filosofo",
+                "gender": "masc.",
+                "wordEng": "Philosopher"
+            },
+            {
+                "wordItal": "Scienziato",
+                "gender": "masc.",
+                "wordEng": "Scientist"
+            },
+            {
+                "wordItal": "Matematico",
+                "gender": "masc.",
+                "wordEng": "Mathematician"
+            },
+            {
+                "wordItal": "Fisico",
+                "gender": "masc.",
+                "wordEng": "Physicist"
+            },
+            {
+                "wordItal": "Chimico",
+                "gender": "masc.",
+                "wordEng": "Chemist"
+            },
+            {
+                "wordItal": "Biologo",
+                "gender": "masc.",
+                "wordEng": "Biologist"
+            },
+            {
+                "wordItal": "Astronomo",
+                "gender": "masc.",
+                "wordEng": "Astronomer"
+            },
+            {
+                "wordItal": "Geologo",
+                "gender": "masc.",
+                "wordEng": "Geologist"
+            },
+            {
+                "wordItal": "Archeologo",
+                "gender": "masc.",
+                "wordEng": "Archaeologist"
+            },
+            {
+                "wordItal": "Storico",
+                "gender": "masc.",
+                "wordEng": "Historian"
+            },
+            {
+                "wordItal": "Psicologo",
+                "gender": "masc.",
+                "wordEng": "Psychologist"
+            },
+            {
+                "wordItal": "Psichiatra",
+                "gender": "fem.",
+                "wordEng": "Psychiatrist"
+            },
+            {
+                "wordItal": "Sociologo",
+                "gender": "masc.",
+                "wordEng": "Sociologist"
+            },
+            {
+                "wordItal": "Antropologo",
+                "gender": "masc.",
+                "wordEng": "Anthropologist"
+            },
+            {
+                "wordItal": "Teologo",
+                "gender": "masc.",
+                "wordEng": "Theologian"
+            },
+            {
+                "wordItal": "Politologo",
+                "gender": "masc.",
+                "wordEng": "Political scientist"
+            },
+            {
+                "wordItal": "Giurista",
+                "gender": "fem.",
+                "wordEng": "Jurist"
+            },
+            {
+                "wordItal": "Chirurgo",
+                "gender": "masc.",
+                "wordEng": "Surgeon"
+            },
+            {
+                "wordItal": "Oculista",
+                "gender": "fem.",
+                "wordEng": "Oculist"
+            },
+            {
+                "wordItal": "Cardiologo",
+                "gender": "masc.",
+                "wordEng": "Cardiologist"
+            },
+            {
+                "wordItal": "Neurologo",
+                "gender": "masc.",
+                "wordEng": "Neurologist"
+            },
+            {
+                "wordItal": "Pediatra",
+                "gender": "fem.",
+                "wordEng": "Pediatrician"
+            },
+            {
+                "wordItal": "Ortopedico",
+                "gender": "masc.",
+                "wordEng": "Orthopedist"
+            },
+            {
+                "wordItal": "Ginecologo",
+                "gender": "masc.",
+                "wordEng": "Gynecologist"
+            },
+            {
+                "wordItal": "Urologo",
+                "gender": "masc.",
+                "wordEng": "Urologist"
+            },
+            {
+                "wordItal": "Dermatologo",
+                "gender": "masc.",
+                "wordEng": "Dermatologist"
+            },
+            {
+                "wordItal": "Otorinolaringoiatra",
+                "gender": "fem.",
+                "wordEng": "Otorhinolaryngologist"
+            },
+            {
+                "wordItal": "Radiologo",
+                "gender": "masc.",
+                "wordEng": "Radiologist"
+            },
+            {
+                "wordItal": "Anestesista",
+                "gender": "fem.",
+                "wordEng": "Anesthetist"
+            },
+            {
+                "wordItal": "Patologo",
+                "gender": "masc.",
+                "wordEng": "Pathologist"
+            },
+            {
+                "wordItal": "Virologo",
+                "gender": "masc.",
+                "wordEng": "Virologist"
+            },
+            {
+                "wordItal": "Immunologo",
+                "gender": "masc.",
+                "wordEng": "Immunologist"
+            },
+            {
+                "wordItal": "Genetista",
+                "gender": "fem.",
+                "wordEng": "Geneticist"
+            },
+            {
+                "wordItal": "Oncologo",
+                "gender": "masc.",
+                "wordEng": "Oncologist"
+            },
+            {
+                "wordItal": "Epidemiologo",
+                "gender": "masc.",
+                "wordEng": "Epidemiologist"
+            },
+            {
+                "wordItal": "Nutrizionista",
+                "gender": "fem.",
+                "wordEng": "Nutritionist"
+            },
+            {
+                "wordItal": "Dietologo",
+                "gender": "masc.",
+                "wordEng": "Dietitian"
+            },
+            {
+                "wordItal": "Fisioterapista",
+                "gender": "fem.",
+                "wordEng": "Physiotherapist"
+            },
+            {
+                "wordItal": "Psicoterapeuta",
+                "gender": "fem.",
+                "wordEng": "Psychotherapist"
+            },
+            {
+                "wordItal": "Logopedista",
+                "gender": "fem.",
+                "wordEng": "Speech therapist"
+            },
+            {
+                "wordItal": "Osteopata",
+                "gender": "fem.",
+                "wordEng": "Osteopath"
+            },
+            {
+                "wordItal": "Erborista",
+                "gender": "fem.",
+                "wordEng": "Herbalist"
+            },
+            {
+                "wordItal": "Chiropratico",
+                "gender": "masc.",
+                "wordEng": "Chiropractor"
+            },
+            {
+                "wordItal": "Omeopata",
+                "gender": "fem.",
+                "wordEng": "Homeopath"
+            },
+            {
+                "wordItal": "Agopuntore",
+                "gender": "masc.",
+                "wordEng": "Acupuncturist"
+            },
+            {
+                "wordItal": "Shiatsu",
+                "gender": "",
+                "wordEng": "Shiatsu"
+            },
+            {
+                "wordItal": "Massaggiatore",
+                "gender": "masc.",
+                "wordEng": "Masseur"
+            },
+            {
+                "wordItal": "Coach",
+                "gender": "",
+                "wordEng": "Coach"
+            },
+            {
+                "wordItal": "Istruttore",
+                "gender": "masc.",
+                "wordEng": "Instructor"
+            },
+            {
+                "wordItal": "Allenatore",
+                "gender": "masc.",
+                "wordEng": "Trainer"
+            },
+            {
+                "wordItal": "Personal trainer",
+                "gender": "",
+                "wordEng": "Personal trainer"
+            },
+            {
+                "wordItal": "Bodybuilder",
+                "gender": "",
+                "wordEng": "Bodybuilder"
+            },
+            {
+                "wordItal": "Atleta",
+                "gender": "fem.",
+                "wordEng": "Athlete"
+            },
+            {
+                "wordItal": "Calciatore",
+                "gender": "masc.",
+                "wordEng": "Footballer"
+            },
+            {
+                "wordItal": "Giocatore",
+                "gender": "masc.",
+                "wordEng": "Player"
+            },
+            {
+                "wordItal": "Corridore",
+                "gender": "masc.",
+                "wordEng": "Runner"
+            },
+            {
+                "wordItal": "Ciclista",
+                "gender": "fem.",
+                "wordEng": "Cyclist"
+            },
+            {
+                "wordItal": "Nuotatore",
+                "gender": "masc.",
+                "wordEng": "Swimmer"
+            },
+            {
+                "wordItal": "Sciatore",
+                "gender": "masc.",
+                "wordEng": "Skier"
+            },
+            {
+                "wordItal": "Tennista",
+                "gender": "fem.",
+                "wordEng": "Tennis player"
+            },
+            {
+                "wordItal": "Golfista",
+                "gender": "fem.",
+                "wordEng": "Golfer"
+            },
+            {
+                "wordItal": "Pugile",
+                "gender": "masc.",
+                "wordEng": "Boxer"
+            },
+            {
+                "wordItal": "Lottatore",
+                "gender": "masc.",
+                "wordEng": "Wrestler"
+            },
+            {
+                "wordItal": "Motociclista",
+                "gender": "fem.",
+                "wordEng": "Motorcyclist"
+            },
+            {
+                "wordItal": "Marinaio",
+                "gender": "masc.",
+                "wordEng": "Sailor"
+            },
+            {
+                "wordItal": "Cacciatore",
+                "gender": "masc.",
+                "wordEng": "Hunter"
+            },
+            {
+                "wordItal": "Tiratore",
+                "gender": "masc.",
+                "wordEng": "Shooter"
+            },
+            {
+                "wordItal": "Arciere",
+                "gender": "masc.",
+                "wordEng": "Archer"
+            },
+            {
+                "wordItal": "Alpinista",
+                "gender": "fem.",
+                "wordEng": "Mountaineer"
+            },
+            {
+                "wordItal": "Speleologo",
+                "gender": "masc.",
+                "wordEng": "Caver"
+            },
+            {
+                "wordItal": "Subacqueo",
+                "gender": "masc.",
+                "wordEng": "Diver"
+            },
+            {
+                "wordItal": "Aeromodellista",
+                "gender": "fem.",
+                "wordEng": "Model aircraft pilot"
+            },
+            {
+                "wordItal": "Modellista",
+                "gender": "fem.",
+                "wordEng": "Model maker"
+            },
+            {
+                "wordItal": "Collezionista",
+                "gender": "fem.",
+                "wordEng": "Collector"
+            },
+            {
+                "wordItal": "Gamer",
+                "gender": "",
+                "wordEng": "Gamer"
+            },
+            {
+                "wordItal": "Cosplayer",
+                "gender": "",
+                "wordEng": "Cosplayer"
+            },
+            {
+                "wordItal": "Streamer",
+                "gender": "",
+                "wordEng": "Streamer"
+            },
+            {
+                "wordItal": "Youtuber",
+                "gender": "",
+                "wordEng": "Youtuber"
+            },
+            {
+                "wordItal": "Blogger",
+                "gender": "",
+                "wordEng": "Blogger"
+            },
+            {
+                "wordItal": "Influencer",
+                "gender": "",
+                "wordEng": "Influencer"
+            },
+            {
+                "wordItal": "Videomaker",
+                "gender": "",
+                "wordEng": "Videomaker"
+            },
+            {
+                "wordItal": "Grafico",
+                "gender": "masc.",
+                "wordEng": "Graphic designer"
+            },
+            {
+                "wordItal": "Illustratore",
+                "gender": "masc.",
+                "wordEng": "Illustrator"
+            },
+            {
+                "wordItal": "Fumettista",
+                "gender": "fem.",
+                "wordEng": "Comic artist"
+            },
+            {
+                "wordItal": "Critico",
+                "gender": "masc.",
+                "wordEng": "Critic"
+            },
+            {
+                "wordItal": "Recensore",
+                "gender": "masc.",
+                "wordEng": "Reviewer"
+            },
+            {
+                "wordItal": "Sceneggiatore",
+                "gender": "masc.",
+                "wordEng": "Screenwriter"
+            },
+            {
+                "wordItal": "Doppiatore",
+                "gender": "masc.",
+                "wordEng": "Voice actor"
+            },
+            {
+                "wordItal": "Compositore",
+                "gender": "masc.",
+                "wordEng": "Composer"
+            },
+            {
+                "wordItal": "Paroliere",
+                "gender": "masc.",
+                "wordEng": "Lyricist"
+            },
+            {
+                "wordItal": "Disc jockey",
+                "gender": "",
+                "wordEng": "Dj"
+            },
+            {
+                "wordItal": "Conduttore",
+                "gender": "masc.",
+                "wordEng": "Presenter"
+            },
+            {
+                "wordItal": "Comico",
+                "gender": "masc.",
+                "wordEng": "Comedian"
+            },
+            {
+                "wordItal": "Burattinaio",
+                "gender": "masc.",
+                "wordEng": "Puppeteer"
+            },
+            {
+                "wordItal": "Acrobata",
+                "gender": "fem.",
+                "wordEng": "Acrobat"
+            },
+            {
+                "wordItal": "Giocoliere",
+                "gender": "masc.",
+                "wordEng": "Juggler"
+            },
+            {
+                "wordItal": "Maggiordomo",
+                "gender": "masc.",
+                "wordEng": "Butler"
+            },
+            {
+                "wordItal": "Cameriera",
+                "gender": "fem.",
+                "wordEng": "Maid"
+            },
+            {
+                "wordItal": "Giardiniere",
+                "gender": "masc.",
+                "wordEng": "Gardener"
+            },
+            {
+                "wordItal": "Sarto",
+                "gender": "masc.",
+                "wordEng": "Tailor"
+            },
+            {
+                "wordItal": "Calzolaio",
+                "gender": "masc.",
+                "wordEng": "Shoemaker"
+            },
+            {
+                "wordItal": "Falegname",
+                "gender": "masc.",
+                "wordEng": "Carpenter"
+            },
+            {
+                "wordItal": "Fabbro",
+                "gender": "masc.",
+                "wordEng": "Blacksmith"
+            },
+            {
+                "wordItal": "Elettricista",
+                "gender": "fem.",
+                "wordEng": "Electrician"
+            },
+            {
+                "wordItal": "Idraulico",
+                "gender": "masc.",
+                "wordEng": "Plumber"
+            },
+            {
+                "wordItal": "Meccanico",
+                "gender": "masc.",
+                "wordEng": "Mechanic"
+            },
+            {
+                "wordItal": "Tecnico",
+                "gender": "masc.",
+                "wordEng": "Technician"
+            },
+            {
+                "wordItal": "Geometra",
+                "gender": "fem.",
+                "wordEng": "Surveyor"
+            },
+            {
+                "wordItal": "Urbanista",
+                "gender": "fem.",
+                "wordEng": "Urban planner"
+            },
+            {
+                "wordItal": "Computer",
+                "gender": "",
+                "wordEng": "Computer"
+            },
+            {
+                "wordItal": "Telefono",
+                "gender": "masc.",
+                "wordEng": "Phone"
+            },
+            {
+                "wordItal": "Tablet",
+                "gender": "",
+                "wordEng": "Tablet"
+            },
+            {
+                "wordItal": "Internet",
+                "gender": "",
+                "wordEng": "Internet"
+            },
+            {
+                "wordItal": "Email",
+                "gender": "",
+                "wordEng": "Email"
+            },
+            {
+                "wordItal": "Sito",
+                "gender": "masc.",
+                "wordEng": "Site"
+            },
+            {
+                "wordItal": "Web",
+                "gender": "",
+                "wordEng": "Web"
+            },
+            {
+                "wordItal": "Browser",
+                "gender": "",
+                "wordEng": "Browser"
+            },
+            {
+                "wordItal": "Password",
+                "gender": "",
+                "wordEng": "Password"
+            },
+            {
+                "wordItal": "Account",
+                "gender": "",
+                "wordEng": "Account"
+            },
+            {
+                "wordItal": "File",
+                "gender": "masc.",
+                "wordEng": "File"
+            },
+            {
+                "wordItal": "Documento",
+                "gender": "masc.",
+                "wordEng": "Document"
+            },
+            {
+                "wordItal": "Immagine",
+                "gender": "masc.",
+                "wordEng": "Image"
+            },
+            {
+                "wordItal": "Video",
+                "gender": "masc.",
+                "wordEng": "Video"
+            },
+            {
+                "wordItal": "Film",
+                "gender": "",
+                "wordEng": "Movie"
+            },
+            {
+                "wordItal": "Programma",
+                "gender": "fem.",
+                "wordEng": "Program"
+            },
+            {
+                "wordItal": "Software",
+                "gender": "masc.",
+                "wordEng": "Software"
+            },
+            {
+                "wordItal": "App",
+                "gender": "",
+                "wordEng": "App"
+            },
+            {
+                "wordItal": "Utente",
+                "gender": "masc.",
+                "wordEng": "User"
+            },
+            {
+                "wordItal": "Rete",
+                "gender": "masc.",
+                "wordEng": "Network"
+            },
+            {
+                "wordItal": "Server",
+                "gender": "",
+                "wordEng": "Server"
+            },
+            {
+                "wordItal": "Database",
+                "gender": "masc.",
+                "wordEng": "Database"
+            },
+            {
+                "wordItal": "Cloud",
+                "gender": "",
+                "wordEng": "Cloud"
+            },
+            {
+                "wordItal": "Disco",
+                "gender": "masc.",
+                "wordEng": "Disk"
+            },
+            {
+                "wordItal": "Memoria",
+                "gender": "fem.",
+                "wordEng": "Memory"
+            },
+            {
+                "wordItal": "Processore",
+                "gender": "masc.",
+                "wordEng": "Processor"
+            },
+            {
+                "wordItal": "Schermo",
+                "gender": "masc.",
+                "wordEng": "Screen"
+            },
+            {
+                "wordItal": "Tastiera",
+                "gender": "fem.",
+                "wordEng": "Keyboard"
+            },
+            {
+                "wordItal": "Mouse",
+                "gender": "masc.",
+                "wordEng": "Mouse"
+            },
+            {
+                "wordItal": "Stampante",
+                "gender": "masc.",
+                "wordEng": "Printer"
+            },
+            {
+                "wordItal": "Scanner",
+                "gender": "",
+                "wordEng": "Scanner"
+            },
+            {
+                "wordItal": "Altoparlante",
+                "gender": "masc.",
+                "wordEng": "Speaker"
+            },
+            {
+                "wordItal": "Microfono",
+                "gender": "masc.",
+                "wordEng": "Microphone"
+            },
+            {
+                "wordItal": "Cuffia",
+                "gender": "fem.",
+                "wordEng": "Headphone"
+            },
+            {
+                "wordItal": "Telecamera",
+                "gender": "fem.",
+                "wordEng": "Camera"
+            },
+            {
+                "wordItal": "Foto",
+                "gender": "masc.",
+                "wordEng": "Photo"
+            },
+            {
+                "wordItal": "Carta",
+                "gender": "fem.",
+                "wordEng": "Paper"
+            },
+            {
+                "wordItal": "Penna",
+                "gender": "fem.",
+                "wordEng": "Pen"
+            },
+            {
+                "wordItal": "Matita",
+                "gender": "fem.",
+                "wordEng": "Pencil"
+            },
+            {
+                "wordItal": "Gomma",
+                "gender": "fem.",
+                "wordEng": "Eraser"
+            },
+            {
+                "wordItal": "Quaderno",
+                "gender": "masc.",
+                "wordEng": "Notebook"
+            },
+            {
+                "wordItal": "Rivista",
+                "gender": "fem.",
+                "wordEng": "Magazine"
+            },
+            {
+                "wordItal": "Giornale",
+                "gender": "masc.",
+                "wordEng": "Newspaper"
+            },
+            {
+                "wordItal": "Pagina",
+                "gender": "fem.",
+                "wordEng": "Page"
+            },
+            {
+                "wordItal": "Paragrafo",
+                "gender": "masc.",
+                "wordEng": "Paragraph"
+            },
+            {
+                "wordItal": "Frase",
+                "gender": "masc.",
+                "wordEng": "Sentence"
+            },
+            {
+                "wordItal": "Numero",
+                "gender": "masc.",
+                "wordEng": "Number"
+            },
+            {
+                "wordItal": "Simbolo",
+                "gender": "masc.",
+                "wordEng": "Symbol"
+            },
+            {
+                "wordItal": "Testo",
+                "gender": "masc.",
+                "wordEng": "Text"
+            },
+            {
+                "wordItal": "Titolo",
+                "gender": "masc.",
+                "wordEng": "Title"
+            },
+            {
+                "wordItal": "Sottotitolo",
+                "gender": "masc.",
+                "wordEng": "Subtitle"
+            },
+            {
+                "wordItal": "Capitolo",
+                "gender": "masc.",
+                "wordEng": "Chapter"
+            },
+            {
+                "wordItal": "Indice",
+                "gender": "masc.",
+                "wordEng": "Index"
+            },
+            {
+                "wordItal": "Prefazione",
+                "gender": "masc.",
+                "wordEng": "Preface"
+            },
+            {
+                "wordItal": "Introduzione",
+                "gender": "masc.",
+                "wordEng": "Introduction"
+            },
+            {
+                "wordItal": "Conclusione",
+                "gender": "masc.",
+                "wordEng": "Conclusion"
+            },
+            {
+                "wordItal": "Appendice",
+                "gender": "masc.",
+                "wordEng": "Appendix"
+            },
+            {
+                "wordItal": "Bibliografia",
+                "gender": "fem.",
+                "wordEng": "Bibliography"
+            },
+            {
+                "wordItal": "Autore",
+                "gender": "masc.",
+                "wordEng": "Author"
+            },
+            {
+                "wordItal": "Editore",
+                "gender": "masc.",
+                "wordEng": "Publisher"
+            },
+            {
+                "wordItal": "Lettore",
+                "gender": "masc.",
+                "wordEng": "Reader"
+            },
+            {
+                "wordItal": "Narratore",
+                "gender": "masc.",
+                "wordEng": "Narrator"
+            },
+            {
+                "wordItal": "Dialetto",
+                "gender": "masc.",
+                "wordEng": "Dialect"
+            },
+            {
+                "wordItal": "Accento",
+                "gender": "masc.",
+                "wordEng": "Accent"
+            },
+            {
+                "wordItal": "Pronuncia",
+                "gender": "fem.",
+                "wordEng": "Pronunciation"
+            },
+            {
+                "wordItal": "Grammatica",
+                "gender": "fem.",
+                "wordEng": "Grammar"
+            },
+            {
+                "wordItal": "Sintassi",
+                "gender": "",
+                "wordEng": "Syntax"
+            },
+            {
+                "wordItal": "Lessico",
+                "gender": "masc.",
+                "wordEng": "Lexicon"
+            },
+            {
+                "wordItal": "Dizionario",
+                "gender": "masc.",
+                "wordEng": "Dictionary"
+            },
+            {
+                "wordItal": "Vocabolario",
+                "gender": "masc.",
+                "wordEng": "Vocabulary"
+            },
+            {
+                "wordItal": "Espressione",
+                "gender": "masc.",
+                "wordEng": "Expression"
+            },
+            {
+                "wordItal": "Termine",
+                "gender": "masc.",
+                "wordEng": "Term"
+            },
+            {
+                "wordItal": "Definizione",
+                "gender": "masc.",
+                "wordEng": "Definition"
+            },
+            {
+                "wordItal": "Significato",
+                "gender": "masc.",
+                "wordEng": "Meaning"
+            },
+            {
+                "wordItal": "Traduzione",
+                "gender": "masc.",
+                "wordEng": "Translation"
+            },
+            {
+                "wordItal": "Comunicazione",
+                "gender": "masc.",
+                "wordEng": "Communication"
+            },
+            {
+                "wordItal": "Conversazione",
+                "gender": "masc.",
+                "wordEng": "Conversation"
+            },
+            {
+                "wordItal": "Dialogo",
+                "gender": "masc.",
+                "wordEng": "Dialogue"
+            },
+            {
+                "wordItal": "Monologo",
+                "gender": "masc.",
+                "wordEng": "Monologue"
+            },
+            {
+                "wordItal": "Discorso",
+                "gender": "masc.",
+                "wordEng": "Speech"
+            },
+            {
+                "wordItal": "Dibattito",
+                "gender": "masc.",
+                "wordEng": "Debate"
+            },
+            {
+                "wordItal": "Conferenza",
+                "gender": "fem.",
+                "wordEng": "Conference"
+            },
+            {
+                "wordItal": "Presentazione",
+                "gender": "masc.",
+                "wordEng": "Presentation"
+            },
+            {
+                "wordItal": "Lezione",
+                "gender": "masc.",
+                "wordEng": "Class"
+            },
+            {
+                "wordItal": "Esame",
+                "gender": "masc.",
+                "wordEng": "Exam"
+            },
+            {
+                "wordItal": "Compito",
+                "gender": "masc.",
+                "wordEng": "Homework"
+            },
+            {
+                "wordItal": "Studio",
+                "gender": "masc.",
+                "wordEng": "Study"
+            },
+            {
+                "wordItal": "Ricerca",
+                "gender": "fem.",
+                "wordEng": "Research"
+            },
+            {
+                "wordItal": "Scienza",
+                "gender": "fem.",
+                "wordEng": "Science"
+            },
+            {
+                "wordItal": "Tecnologia",
+                "gender": "fem.",
+                "wordEng": "Technology"
+            },
+            {
+                "wordItal": "Ingegneria",
+                "gender": "fem.",
+                "wordEng": "Engineering"
+            },
+            {
+                "wordItal": "Matematica",
+                "gender": "fem.",
+                "wordEng": "Mathematics"
+            },
+            {
+                "wordItal": "Fisica",
+                "gender": "fem.",
+                "wordEng": "Physics"
+            },
+            {
+                "wordItal": "Chimica",
+                "gender": "fem.",
+                "wordEng": "Chemistry"
+            },
+            {
+                "wordItal": "Biologia",
+                "gender": "fem.",
+                "wordEng": "Biology"
+            },
+            {
+                "wordItal": "Geologia",
+                "gender": "fem.",
+                "wordEng": "Geology"
+            },
+            {
+                "wordItal": "Astronomia",
+                "gender": "fem.",
+                "wordEng": "Astronomy"
+            },
+            {
+                "wordItal": "Medicina",
+                "gender": "fem.",
+                "wordEng": "Medicine"
+            },
+            {
+                "wordItal": "Psicologia",
+                "gender": "fem.",
+                "wordEng": "Psychology"
+            },
+            {
+                "wordItal": "Sociologia",
+                "gender": "fem.",
+                "wordEng": "Sociology"
+            },
+            {
+                "wordItal": "Antropologia",
+                "gender": "fem.",
+                "wordEng": "Anthropology"
+            },
+            {
+                "wordItal": "Economia",
+                "gender": "fem.",
+                "wordEng": "Economics"
+            },
+            {
+                "wordItal": "Politica",
+                "gender": "fem.",
+                "wordEng": "Politics"
+            },
+            {
+                "wordItal": "Giurisprudenza",
+                "gender": "fem.",
+                "wordEng": "Law"
+            },
+            {
+                "wordItal": "Filosofia",
+                "gender": "fem.",
+                "wordEng": "Philosophy"
+            },
+            {
+                "wordItal": "Letteratura",
+                "gender": "fem.",
+                "wordEng": "Literature"
+            },
+            {
+                "wordItal": "Arte",
+                "gender": "masc.",
+                "wordEng": "Art"
+            },
+            {
+                "wordItal": "Teatro",
+                "gender": "masc.",
+                "wordEng": "Theater"
+            },
+            {
+                "wordItal": "Cinema",
+                "gender": "fem.",
+                "wordEng": "Cinema"
+            },
+            {
+                "wordItal": "Danza",
+                "gender": "fem.",
+                "wordEng": "Dance"
+            },
+            {
+                "wordItal": "Fotografia",
+                "gender": "fem.",
+                "wordEng": "Photography"
+            },
+            {
+                "wordItal": "Pittura",
+                "gender": "fem.",
+                "wordEng": "Painting"
+            },
+            {
+                "wordItal": "Scultura",
+                "gender": "fem.",
+                "wordEng": "Sculpture"
+            },
+            {
+                "wordItal": "Architettura",
+                "gender": "fem.",
+                "wordEng": "Architecture"
+            },
+            {
+                "wordItal": "Design",
+                "gender": "",
+                "wordEng": "Design"
+            },
+            {
+                "wordItal": "Cucina",
+                "gender": "fem.",
+                "wordEng": "Cooking"
+            },
+            {
+                "wordItal": "Gastronomia",
+                "gender": "fem.",
+                "wordEng": "Gastronomy"
+            },
+            {
+                "wordItal": "Agricoltura",
+                "gender": "fem.",
+                "wordEng": "Agriculture"
+            },
+            {
+                "wordItal": "Allevamento",
+                "gender": "masc.",
+                "wordEng": "Breeding"
+            },
+            {
+                "wordItal": "Pesca",
+                "gender": "fem.",
+                "wordEng": "Fishing"
+            },
+            {
+                "wordItal": "Caccia",
+                "gender": "fem.",
+                "wordEng": "Hunting"
+            },
+            {
+                "wordItal": "Giardinaggio",
+                "gender": "masc.",
+                "wordEng": "Gardening"
+            },
+            {
+                "wordItal": "Artigianato",
+                "gender": "masc.",
+                "wordEng": "Crafts"
+            },
+            {
+                "wordItal": "Industria",
+                "gender": "fem.",
+                "wordEng": "Industry"
+            },
+            {
+                "wordItal": "Commercio",
+                "gender": "masc.",
+                "wordEng": "Trade"
+            },
+            {
+                "wordItal": "Turismo",
+                "gender": "masc.",
+                "wordEng": "Tourism"
+            },
+            {
+                "wordItal": "Trasporto",
+                "gender": "masc.",
+                "wordEng": "Transportation"
+            },
+            {
+                "wordItal": "Informazione",
+                "gender": "masc.",
+                "wordEng": "Information"
+            },
+            {
+                "wordItal": "Educazione",
+                "gender": "masc.",
+                "wordEng": "Education"
+            },
+            {
+                "wordItal": "Formazione",
+                "gender": "masc.",
+                "wordEng": "Training"
+            },
+            {
+                "wordItal": "Occupazione",
+                "gender": "masc.",
+                "wordEng": "Employment"
+            },
+            {
+                "wordItal": "Disoccupazione",
+                "gender": "masc.",
+                "wordEng": "Unemployment"
+            },
+            {
+                "wordItal": "Governo",
+                "gender": "masc.",
+                "wordEng": "Government"
+            },
+            {
+                "wordItal": "Parlamento",
+                "gender": "masc.",
+                "wordEng": "Parliament"
+            },
+            {
+                "wordItal": "Senato",
+                "gender": "masc.",
+                "wordEng": "Senate"
+            },
+            {
+                "wordItal": "Camera",
+                "gender": "fem.",
+                "wordEng": "Chamber"
+            },
+            {
+                "wordItal": "Legge",
+                "gender": "masc.",
+                "wordEng": "Law"
+            },
+            {
+                "wordItal": "Decreto",
+                "gender": "masc.",
+                "wordEng": "Decree"
+            },
+            {
+                "wordItal": "Ordinanza",
+                "gender": "fem.",
+                "wordEng": "Ordinance"
+            },
+            {
+                "wordItal": "Regolamento",
+                "gender": "masc.",
+                "wordEng": "Regulation"
+            },
+            {
+                "wordItal": "Norma",
+                "gender": "fem.",
+                "wordEng": "Norm"
+            },
+            {
+                "wordItal": "Statuto",
+                "gender": "masc.",
+                "wordEng": "Statute"
+            },
+            {
+                "wordItal": "Costituzione",
+                "gender": "masc.",
+                "wordEng": "Constitution"
+            },
+            {
+                "wordItal": "Giustizia",
+                "gender": "fem.",
+                "wordEng": "Justice"
+            },
+            {
+                "wordItal": "Tribunale",
+                "gender": "masc.",
+                "wordEng": "Court"
+            },
+            {
+                "wordItal": "Accusa",
+                "gender": "fem.",
+                "wordEng": "Accusation"
+            },
+            {
+                "wordItal": "Difesa",
+                "gender": "fem.",
+                "wordEng": "Defense"
+            },
+            {
+                "wordItal": "Sentenza",
+                "gender": "fem.",
+                "wordEng": "Sentence"
+            },
+            {
+                "wordItal": "Condanna",
+                "gender": "fem.",
+                "wordEng": "Conviction"
+            },
+            {
+                "wordItal": "Assoluzione",
+                "gender": "masc.",
+                "wordEng": "Acquittal"
+            },
+            {
+                "wordItal": "Pena",
+                "gender": "fem.",
+                "wordEng": "Penalty"
+            },
+            {
+                "wordItal": "Carcere",
+                "gender": "masc.",
+                "wordEng": "Prison"
+            },
+            {
+                "wordItal": "Detenzione",
+                "gender": "masc.",
+                "wordEng": "Detention"
+            },
+            {
+                "wordItal": "Libertà",
+                "gender": "",
+                "wordEng": "Freedom"
+            },
+            {
+                "wordItal": "Diritto",
+                "gender": "masc.",
+                "wordEng": "Right"
+            },
+            {
+                "wordItal": "Obbligo",
+                "gender": "masc.",
+                "wordEng": "Obligation"
+            },
+            {
+                "wordItal": "Responsabilità",
+                "gender": "",
+                "wordEng": "Responsibility"
+            },
+            {
+                "wordItal": "Reato",
+                "gender": "masc.",
+                "wordEng": "Crime"
+            },
+            {
+                "wordItal": "Infrazione",
+                "gender": "masc.",
+                "wordEng": "Infringement"
+            },
+            {
+                "wordItal": "Multa",
+                "gender": "fem.",
+                "wordEng": "Fine"
+            },
+            {
+                "wordItal": "Sanzione",
+                "gender": "masc.",
+                "wordEng": "Sanction"
+            },
+            {
+                "wordItal": "Bicicletta",
+                "gender": "fem.",
+                "wordEng": "Bicycle"
+            },
+            {
+                "wordItal": "Tavolo",
+                "gender": "masc.",
+                "wordEng": "Table"
+            },
+            {
+                "wordItal": "Sedia",
+                "gender": "fem.",
+                "wordEng": "Chair"
+            },
+            {
+                "wordItal": "Zaino",
+                "gender": "masc.",
+                "wordEng": "Backpack"
+            },
+            {
+                "wordItal": "Università",
+                "gender": "",
+                "wordEng": "University"
+            },
+            {
+                "wordItal": "Ufficio",
+                "gender": "masc.",
+                "wordEng": "Office"
+            },
+            {
+                "wordItal": "Piazza",
+                "gender": "fem.",
+                "wordEng": "Square"
+            },
+            {
+                "wordItal": "Amica",
+                "gender": "fem.",
+                "wordEng": "Friend (female)"
+            },
+            {
+                "wordItal": "Cugina",
+                "gender": "fem.",
+                "wordEng": "Cousin (female)"
+            },
+            {
+                "wordItal": "Bambina",
+                "gender": "fem.",
+                "wordEng": "Child (female)"
+            },
+            {
+                "wordItal": "Donna",
+                "gender": "fem.",
+                "wordEng": "Woman"
+            },
+            {
+                "wordItal": "Pappagallo",
+                "gender": "masc.",
+                "wordEng": "Parrot"
+            },
+            {
+                "wordItal": "Autobus",
+                "gender": "",
+                "wordEng": "Bus"
+            },
+            {
+                "wordItal": "Treno",
+                "gender": "masc.",
+                "wordEng": "Train"
+            },
+            {
+                "wordItal": "Aereo",
+                "gender": "masc.",
+                "wordEng": "Airplane"
+            },
+            {
+                "wordItal": "Nave",
+                "gender": "masc.",
+                "wordEng": "Ship"
+            },
+            {
+                "wordItal": "Banca",
+                "gender": "fem.",
+                "wordEng": "Bank"
+            },
+            {
+                "wordItal": "Negozio",
+                "gender": "masc.",
+                "wordEng": "Shop"
+            },
+            {
+                "wordItal": "Ristorante",
+                "gender": "masc.",
+                "wordEng": "Restaurant"
+            },
+            {
+                "wordItal": "Albergo",
+                "gender": "masc.",
+                "wordEng": "Hotel"
+            },
+            {
+                "wordItal": "Ospedale",
+                "gender": "masc.",
+                "wordEng": "Hospital"
+            },
+            {
+                "wordItal": "Farmacia",
+                "gender": "fem.",
+                "wordEng": "Pharmacy"
+            },
+            {
+                "wordItal": "Chiesa",
+                "gender": "fem.",
+                "wordEng": "Church"
+            },
+            {
+                "wordItal": "Museo",
+                "gender": "masc.",
+                "wordEng": "Museum"
+            },
+            {
+                "wordItal": "Parco",
+                "gender": "masc.",
+                "wordEng": "Park"
+            },
+            {
+                "wordItal": "Giardino",
+                "gender": "masc.",
+                "wordEng": "Garden"
+            },
+            {
+                "wordItal": "Mercato",
+                "gender": "masc.",
+                "wordEng": "Market"
+            },
+            {
+                "wordItal": "Biblioteca",
+                "gender": "fem.",
+                "wordEng": "Library"
+            },
+            {
+                "wordItal": "Stazione",
+                "gender": "masc.",
+                "wordEng": "Station"
+            },
+            {
+                "wordItal": "Aeroporto",
+                "gender": "masc.",
+                "wordEng": "Airport"
+            },
+            {
+                "wordItal": "Porto",
+                "gender": "masc.",
+                "wordEng": "Port"
+            },
+            {
+                "wordItal": "Spiaggia",
+                "gender": "fem.",
+                "wordEng": "Beach"
+            },
+            {
+                "wordItal": "Lago",
+                "gender": "masc.",
+                "wordEng": "Lake"
+            },
+            {
+                "wordItal": "Foresta",
+                "gender": "fem.",
+                "wordEng": "Forest"
+            },
+            {
+                "wordItal": "Deserto",
+                "gender": "masc.",
+                "wordEng": "Desert"
+            },
+            {
+                "wordItal": "Isola",
+                "gender": "fem.",
+                "wordEng": "Island"
+            },
+            {
+                "wordItal": "Penisola",
+                "gender": "fem.",
+                "wordEng": "Peninsula"
+            },
+            {
+                "wordItal": "Valle",
+                "gender": "masc.",
+                "wordEng": "Valley"
+            },
+            {
+                "wordItal": "Collina",
+                "gender": "fem.",
+                "wordEng": "Hill"
+            },
+            {
+                "wordItal": "Pianura",
+                "gender": "fem.",
+                "wordEng": "Plain"
+            },
+            {
+                "wordItal": "Vulcano",
+                "gender": "masc.",
+                "wordEng": "Volcano"
+            },
+            {
+                "wordItal": "Ferrovia",
+                "gender": "fem.",
+                "wordEng": "Railway"
+            },
+            {
+                "wordItal": "Autostrada",
+                "gender": "fem.",
+                "wordEng": "Highway"
+            },
+            {
+                "wordItal": "Viale",
+                "gender": "masc.",
+                "wordEng": "Avenue"
+            },
+            {
+                "wordItal": "Fuori",
+                "gender": "",
+                "wordEng": "Outside"
+            },
+            {
+                "wordItal": "Nuvola",
+                "gender": "fem.",
+                "wordEng": "Cloud"
+            },
+            {
+                "wordItal": "Tempesta",
+                "gender": "fem.",
+                "wordEng": "Storm"
+            },
+            {
+                "wordItal": "Fulmine",
+                "gender": "masc.",
+                "wordEng": "Lightning"
+            },
+            {
+                "wordItal": "Arcobaleno",
+                "gender": "masc.",
+                "wordEng": "Rainbow"
+            },
+            {
+                "wordItal": "Galassia",
+                "gender": "fem.",
+                "wordEng": "Galaxy"
+            },
+            {
+                "wordItal": "Universo",
+                "gender": "masc.",
+                "wordEng": "Universe"
+            },
+            {
+                "wordItal": "Oceano",
+                "gender": "masc.",
+                "wordEng": "Ocean"
+            },
+            {
+                "wordItal": "Baia",
+                "gender": "fem.",
+                "wordEng": "Bay"
+            },
+            {
+                "wordItal": "Continente",
+                "gender": "masc.",
+                "wordEng": "Continent"
+            },
+            {
+                "wordItal": "Pianeta",
+                "gender": "fem.",
+                "wordEng": "Planet"
+            },
+            {
+                "wordItal": "Cometa",
+                "gender": "fem.",
+                "wordEng": "Comet"
+            },
+            {
+                "wordItal": "Asteroide",
+                "gender": "masc.",
+                "wordEng": "Asteroid"
+            },
+            {
+                "wordItal": "Meteora",
+                "gender": "fem.",
+                "wordEng": "Meteor"
+            },
+            {
+                "wordItal": "Fango",
+                "gender": "masc.",
+                "wordEng": "Mud"
+            },
+            {
+                "wordItal": "Sabbia",
+                "gender": "fem.",
+                "wordEng": "Sand"
+            },
+            {
+                "wordItal": "Ghiaia",
+                "gender": "fem.",
+                "wordEng": "Gravel"
+            },
+            {
+                "wordItal": "Roccia",
+                "gender": "fem.",
+                "wordEng": "Rock"
+            },
+            {
+                "wordItal": "Giungla",
+                "gender": "fem.",
+                "wordEng": "Jungle"
+            },
+            {
+                "wordItal": "Prateria",
+                "gender": "fem.",
+                "wordEng": "Prairie"
+            },
+            {
+                "wordItal": "Tundra",
+                "gender": "fem.",
+                "wordEng": "Tundra"
+            },
+            {
+                "wordItal": "Oasi",
+                "gender": "",
+                "wordEng": "Oasis"
+            },
+            {
+                "wordItal": "Stagno",
+                "gender": "masc.",
+                "wordEng": "Pond"
+            },
+            {
+                "wordItal": "Cascata",
+                "gender": "fem.",
+                "wordEng": "Waterfall"
+            },
+            {
+                "wordItal": "Ghiacciaio",
+                "gender": "masc.",
+                "wordEng": "Glacier"
+            },
+            {
+                "wordItal": "Arcipelago",
+                "gender": "masc.",
+                "wordEng": "Archipelago"
+            },
+            {
+                "wordItal": "Foglia",
+                "gender": "fem.",
+                "wordEng": "Leaf"
+            },
+            {
+                "wordItal": "Albero",
+                "gender": "masc.",
+                "wordEng": "Tree"
+            },
+            {
+                "wordItal": "Erba",
+                "gender": "fem.",
+                "wordEng": "Grass"
+            },
+            {
+                "wordItal": "Cespuglio",
+                "gender": "masc.",
+                "wordEng": "Bush"
+            },
+            {
+                "wordItal": "Frutta",
+                "gender": "fem.",
+                "wordEng": "Fruit"
+            },
+            {
+                "wordItal": "Verdura",
+                "gender": "fem.",
+                "wordEng": "Vegetable"
+            },
+            {
+                "wordItal": "Latte",
+                "gender": "masc.",
+                "wordEng": "Milk"
+            },
+            {
+                "wordItal": "Carne",
+                "gender": "masc.",
+                "wordEng": "Meat"
+            },
+            {
+                "wordItal": "Succo",
+                "gender": "masc.",
+                "wordEng": "Juice"
+            },
+            {
+                "wordItal": "Caffè",
+                "gender": "",
+                "wordEng": "Coffee"
+            },
+            {
+                "wordItal": "Tè",
+                "gender": "",
+                "wordEng": "Tea"
+            },
+            {
+                "wordItal": "Zucchero",
+                "gender": "masc.",
+                "wordEng": "Sugar"
+            },
+            {
+                "wordItal": "Sale",
+                "gender": "masc.",
+                "wordEng": "Salt"
+            },
+            {
+                "wordItal": "Pepe",
+                "gender": "masc.",
+                "wordEng": "Pepper"
+            },
+            {
+                "wordItal": "Olio",
+                "gender": "masc.",
+                "wordEng": "Oil"
+            },
+            {
+                "wordItal": "Burro",
+                "gender": "masc.",
+                "wordEng": "Butter"
+            },
+            {
+                "wordItal": "Pasta",
+                "gender": "fem.",
+                "wordEng": "Pasta"
+            },
+            {
+                "wordItal": "Uovo",
+                "gender": "masc.",
+                "wordEng": "Egg"
+            },
+            {
+                "wordItal": "Patata",
+                "gender": "fem.",
+                "wordEng": "Potato"
+            },
+            {
+                "wordItal": "Carota",
+                "gender": "fem.",
+                "wordEng": "Carrot"
+            },
+            {
+                "wordItal": "Lattuga",
+                "gender": "fem.",
+                "wordEng": "Lettuce"
+            },
+            {
+                "wordItal": "Cavolo",
+                "gender": "masc.",
+                "wordEng": "Cabbage"
+            },
+            {
+                "wordItal": "Peperone",
+                "gender": "masc.",
+                "wordEng": "Pepper"
+            },
+            {
+                "wordItal": "Zucchina",
+                "gender": "fem.",
+                "wordEng": "Zucchini"
+            },
+            {
+                "wordItal": "Cipolla",
+                "gender": "fem.",
+                "wordEng": "Onion"
+            },
+            {
+                "wordItal": "Aglio",
+                "gender": "masc.",
+                "wordEng": "Garlic"
+            },
+            {
+                "wordItal": "Mela",
+                "gender": "fem.",
+                "wordEng": "Apple"
+            },
+            {
+                "wordItal": "Banana",
+                "gender": "fem.",
+                "wordEng": "Banana"
+            },
+            {
+                "wordItal": "Arancia",
+                "gender": "fem.",
+                "wordEng": "Orange"
+            },
+            {
+                "wordItal": "Pera",
+                "gender": "fem.",
+                "wordEng": "Pear"
+            },
+            {
+                "wordItal": "Uva",
+                "gender": "fem.",
+                "wordEng": "Grape"
+            },
+            {
+                "wordItal": "Fragola",
+                "gender": "fem.",
+                "wordEng": "Strawberry"
+            },
+            {
+                "wordItal": "Lampone",
+                "gender": "masc.",
+                "wordEng": "Raspberry"
+            },
+            {
+                "wordItal": "Mirtillo",
+                "gender": "masc.",
+                "wordEng": "Blueberry"
+            },
+            {
+                "wordItal": "Ciliegia",
+                "gender": "fem.",
+                "wordEng": "Cherry"
+            },
+            {
+                "wordItal": "Pianoforte",
+                "gender": "masc.",
+                "wordEng": "Piano"
+            },
+            {
+                "wordItal": "Chitarra",
+                "gender": "fem.",
+                "wordEng": "Guitar"
+            },
+            {
+                "wordItal": "Violino",
+                "gender": "masc.",
+                "wordEng": "Violin"
+            },
+            {
+                "wordItal": "Batteria",
+                "gender": "fem.",
+                "wordEng": "Drums"
+            },
+            {
+                "wordItal": "Flauto",
+                "gender": "masc.",
+                "wordEng": "Flute"
+            },
+            {
+                "wordItal": "Saxofono",
+                "gender": "masc.",
+                "wordEng": "Saxophone"
+            },
+            {
+                "wordItal": "Tromba",
+                "gender": "fem.",
+                "wordEng": "Trumpet"
+            },
+            {
+                "wordItal": "Clarinetto",
+                "gender": "masc.",
+                "wordEng": "Clarinet"
+            },
+            {
+                "wordItal": "Oboe",
+                "gender": "masc.",
+                "wordEng": "Oboe"
+            },
+            {
+                "wordItal": "Fagotto",
+                "gender": "masc.",
+                "wordEng": "Bassoon"
+            },
+            {
+                "wordItal": "Arpa",
+                "gender": "fem.",
+                "wordEng": "Harp"
+            },
+            {
+                "wordItal": "Mandolino",
+                "gender": "masc.",
+                "wordEng": "Mandolin"
+            },
+            {
+                "wordItal": "Ukulele",
+                "gender": "masc.",
+                "wordEng": "Ukulele"
+            },
+            {
+                "wordItal": "Basso",
+                "gender": "masc.",
+                "wordEng": "Bass"
+            },
+            {
+                "wordItal": "Coro",
+                "gender": "masc.",
+                "wordEng": "Choir"
+            },
+            {
+                "wordItal": "Orchestra",
+                "gender": "fem.",
+                "wordEng": "Orchestra"
+            },
+            {
+                "wordItal": "Sinfonia",
+                "gender": "fem.",
+                "wordEng": "Symphony"
+            },
+            {
+                "wordItal": "Concerto",
+                "gender": "masc.",
+                "wordEng": "Concert"
+            },
+            {
+                "wordItal": "Opera",
+                "gender": "fem.",
+                "wordEng": "Opera"
+            },
+            {
+                "wordItal": "Balletto",
+                "gender": "masc.",
+                "wordEng": "Ballet"
+            },
+            {
+                "wordItal": "Direttore",
+                "gender": "masc.",
+                "wordEng": "Conductor"
+            },
+            {
+                "wordItal": "Maestro",
+                "gender": "masc.",
+                "wordEng": "Maestro"
+            },
+            {
+                "wordItal": "Band",
+                "gender": "",
+                "wordEng": "Band"
+            },
+            {
+                "wordItal": "Gruppo",
+                "gender": "masc.",
+                "wordEng": "Group"
+            },
+            {
+                "wordItal": "Canzone",
+                "gender": "masc.",
+                "wordEng": "Song"
+            },
+            {
+                "wordItal": "Melodia",
+                "gender": "fem.",
+                "wordEng": "Melody"
+            },
+            {
+                "wordItal": "Ritmo",
+                "gender": "masc.",
+                "wordEng": "Rhythm"
+            },
+            {
+                "wordItal": "Armonia",
+                "gender": "fem.",
+                "wordEng": "Harmony"
+            },
+            {
+                "wordItal": "Nota",
+                "gender": "fem.",
+                "wordEng": "Note"
+            },
+            {
+                "wordItal": "Accordo",
+                "gender": "masc.",
+                "wordEng": "Chord"
+            },
+            {
+                "wordItal": "Scala",
+                "gender": "fem.",
+                "wordEng": "Scale"
+            },
+            {
+                "wordItal": "Battuta",
+                "gender": "fem.",
+                "wordEng": "Beat"
+            },
+            {
+                "wordItal": "Solfeggio",
+                "gender": "masc.",
+                "wordEng": "Solfege"
+            },
+            {
+                "wordItal": "Spartito",
+                "gender": "masc.",
+                "wordEng": "Sheet music"
+            },
+            {
+                "wordItal": "Partitura",
+                "gender": "fem.",
+                "wordEng": "Score"
+            },
+            {
+                "wordItal": "Registrazione",
+                "gender": "masc.",
+                "wordEng": "Recording"
+            },
+            {
+                "wordItal": "Amplificatore",
+                "gender": "masc.",
+                "wordEng": "Amplifier"
+            },
+            {
+                "wordItal": "Auricolare",
+                "gender": "masc.",
+                "wordEng": "Earphone"
+            },
+            {
+                "wordItal": "Cuffie",
+                "gender": "masc.",
+                "wordEng": "Headphones"
+            },
+            {
+                "wordItal": "Sala",
+                "gender": "fem.",
+                "wordEng": "Hall"
+            },
+            {
+                "wordItal": "Palco",
+                "gender": "masc.",
+                "wordEng": "Stage"
+            },
+            {
+                "wordItal": "Salute",
+                "gender": "masc.",
+                "wordEng": "Health"
+            },
+            {
+                "wordItal": "Malattia",
+                "gender": "fem.",
+                "wordEng": "Illness"
+            },
+            {
+                "wordItal": "Cura",
+                "gender": "fem.",
+                "wordEng": "Cure"
+            },
+            {
+                "wordItal": "Dottore",
+                "gender": "masc.",
+                "wordEng": "Doctor"
+            },
+            {
+                "wordItal": "Infermiera",
+                "gender": "fem.",
+                "wordEng": "Nurse"
+            },
+            {
+                "wordItal": "Ambulanza",
+                "gender": "fem.",
+                "wordEng": "Ambulance"
+            },
+            {
+                "wordItal": "Farmaco",
+                "gender": "masc.",
+                "wordEng": "Drug"
+            },
+            {
+                "wordItal": "Vitamina",
+                "gender": "fem.",
+                "wordEng": "Vitamin"
+            },
+            {
+                "wordItal": "Vaccino",
+                "gender": "masc.",
+                "wordEng": "Vaccine"
+            },
+            {
+                "wordItal": "Chirurgia",
+                "gender": "fem.",
+                "wordEng": "Surgery"
+            },
+            {
+                "wordItal": "Operazione",
+                "gender": "masc.",
+                "wordEng": "Operation"
+            },
+            {
+                "wordItal": "Terapia",
+                "gender": "fem.",
+                "wordEng": "Therapy"
+            },
+            {
+                "wordItal": "Paziente",
+                "gender": "masc.",
+                "wordEng": "Patient"
+            },
+            {
+                "wordItal": "Febbre",
+                "gender": "masc.",
+                "wordEng": "Fever"
+            },
+            {
+                "wordItal": "Ferita",
+                "gender": "fem.",
+                "wordEng": "Wound"
+            },
+            {
+                "wordItal": "Frattura",
+                "gender": "fem.",
+                "wordEng": "Fracture"
+            },
+            {
+                "wordItal": "Influenza",
+                "gender": "fem.",
+                "wordEng": "Flu"
+            },
+            {
+                "wordItal": "Virus",
+                "gender": "",
+                "wordEng": "Virus"
+            },
+            {
+                "wordItal": "Batterio",
+                "gender": "masc.",
+                "wordEng": "Bacteria"
+            },
+            {
+                "wordItal": "Allergia",
+                "gender": "fem.",
+                "wordEng": "Allergy"
+            },
+            {
+                "wordItal": "Infezione",
+                "gender": "masc.",
+                "wordEng": "Infection"
+            },
+            {
+                "wordItal": "Sistema",
+                "gender": "fem.",
+                "wordEng": "System"
+            },
+            {
+                "wordItal": "Organismo",
+                "gender": "masc.",
+                "wordEng": "Organism"
+            },
+            {
+                "wordItal": "Tessuto",
+                "gender": "masc.",
+                "wordEng": "Tissue"
+            },
+            {
+                "wordItal": "Cellula",
+                "gender": "fem.",
+                "wordEng": "Cell"
+            },
+            {
+                "wordItal": "Stagione",
+                "gender": "masc.",
+                "wordEng": "Season"
+            },
+            {
+                "wordItal": "Inverno",
+                "gender": "masc.",
+                "wordEng": "Winter"
+            },
+            {
+                "wordItal": "Primavera",
+                "gender": "fem.",
+                "wordEng": "Spring"
+            },
+            {
+                "wordItal": "Estate",
+                "gender": "masc.",
+                "wordEng": "Summer"
+            },
+            {
+                "wordItal": "Autunno",
+                "gender": "masc.",
+                "wordEng": "Autumn"
+            },
+            {
+                "wordItal": "Freddo",
+                "gender": "masc.",
+                "wordEng": "Cold"
+            },
+            {
+                "wordItal": "Caldo",
+                "gender": "masc.",
+                "wordEng": "Heat"
+            },
+            {
+                "wordItal": "Ghiaccio",
+                "gender": "masc.",
+                "wordEng": "Ice"
+            },
+            {
+                "wordItal": "Fresco",
+                "gender": "masc.",
+                "wordEng": "Cool"
+            },
+            {
+                "wordItal": "Nebbia",
+                "gender": "fem.",
+                "wordEng": "Fog"
+            },
+            {
+                "wordItal": "Umidità",
+                "gender": "",
+                "wordEng": "Humidity"
+            },
+            {
+                "wordItal": "Secco",
+                "gender": "masc.",
+                "wordEng": "Dry"
+            },
+            {
+                "wordItal": "Bagnato",
+                "gender": "masc.",
+                "wordEng": "Wet"
+            },
+            {
+                "wordItal": "Afa",
+                "gender": "fem.",
+                "wordEng": "Muggy"
+            },
+            {
+                "wordItal": "Tuono",
+                "gender": "masc.",
+                "wordEng": "Thunder"
+            },
+            {
+                "wordItal": "Grandine",
+                "gender": "masc.",
+                "wordEng": "Hail"
+            },
+            {
+                "wordItal": "Tornado",
+                "gender": "masc.",
+                "wordEng": "Tornado"
+            },
+            {
+                "wordItal": "Uragano",
+                "gender": "masc.",
+                "wordEng": "Hurricane"
+            },
+            {
+                "wordItal": "Tifone",
+                "gender": "masc.",
+                "wordEng": "Typhoon"
+            },
+            {
+                "wordItal": "Tsunami",
+                "gender": "",
+                "wordEng": "Tsunami"
+            },
+            {
+                "wordItal": "Alluvione",
+                "gender": "masc.",
+                "wordEng": "Flood"
+            },
+            {
+                "wordItal": "Siccità",
+                "gender": "",
+                "wordEng": "Drought"
+            },
+            {
+                "wordItal": "Terremoto",
+                "gender": "masc.",
+                "wordEng": "Earthquake"
+            },
+            {
+                "wordItal": "Eruzione",
+                "gender": "masc.",
+                "wordEng": "Eruption"
+            },
+            {
+                "wordItal": "Frana",
+                "gender": "fem.",
+                "wordEng": "Landslide"
+            },
+            {
+                "wordItal": "Valanga",
+                "gender": "fem.",
+                "wordEng": "Avalanche"
+            },
+            {
+                "wordItal": "Incendio",
+                "gender": "masc.",
+                "wordEng": "Fire"
+            },
+            {
+                "wordItal": "Tempesta di neve",
+                "gender": "masc.",
+                "wordEng": "Blizzard"
+            },
+            {
+                "wordItal": "Maremoto",
+                "gender": "masc.",
+                "wordEng": "Seismic sea wave"
+            },
+            {
+                "wordItal": "Calamità",
+                "gender": "",
+                "wordEng": "Calamity"
+            },
+            {
+                "wordItal": "Disastro",
+                "gender": "masc.",
+                "wordEng": "Disaster"
+            },
+            {
+                "wordItal": "Emergenza",
+                "gender": "fem.",
+                "wordEng": "Emergency"
+            },
+            {
+                "wordItal": "Sicurezza",
+                "gender": "fem.",
+                "wordEng": "Safety"
+            }
+        ]
+    }
+]
+

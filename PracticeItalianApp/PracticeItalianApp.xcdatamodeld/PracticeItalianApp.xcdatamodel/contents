@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23A5286i" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ActivityFirstLaunch" representedClassName="ActivityFirstLaunch" syncable="YES" codeGenerationType="class">
+        <attribute name="activityName" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isFirstLaunch" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="ConjPresent" representedClassName="ConjPresent" syncable="YES" codeGenerationType="class"/>
+    <entity name="FirstLaunch" representedClassName="FirstLaunch" syncable="YES" codeGenerationType="class">
+        <attribute name="isFirstLaunch" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="FlashCardAccuracy" representedClassName="FlashCardAccuracy" syncable="YES" codeGenerationType="class">
+        <attribute name="cardAttempts" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="cardName" optional="YES" attributeType="String"/>
+        <attribute name="correct" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="incorrect" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="FlashCardSetAccuracy" representedClassName="FlashCardSetAccuracy" syncable="YES" codeGenerationType="class">
+        <attribute name="correct" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="incorrect" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="setName" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="LastAudioCompleted" representedClassName="LastAudioCompleted" syncable="YES" codeGenerationType="class">
+        <attribute name="audioName" optional="YES" attributeType="String"/>
+        <attribute name="didComplete" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="LastStoryCompleted" representedClassName="LastStoryCompleted" syncable="YES" codeGenerationType="class">
+        <attribute name="didComplete" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="storyName" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserAddedVerb" representedClassName="UserAddedVerb" syncable="YES" codeGenerationType="class">
+        <attribute name="condizionale" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="futuro" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="imperativo" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="imperfetto" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="passatoProssimo" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="presente" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="verbNameEnglish" optional="YES" attributeType="String"/>
+        <attribute name="verbNameItalian" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserCoins" representedClassName="UserCoins" syncable="YES" codeGenerationType="class">
+        <attribute name="coins" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+    </entity>
+    <entity name="UserCompletedActivities" representedClassName="UserCompletedActivities" syncable="YES" codeGenerationType="class">
+        <attribute name="activityName" optional="YES" attributeType="String"/>
+        <attribute name="isCompleted" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="UserFlashCardAccuracy" representedClassName="UserFlashCardAccuracy" syncable="YES" codeGenerationType="class">
+        <attribute name="percentage" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="UserFlashCardList" representedClassName="UserFlashCardList" syncable="YES" codeGenerationType="class">
+        <attribute name="englishLine1" optional="YES" attributeType="String"/>
+        <attribute name="englishLine2" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="italianLine1" optional="YES" attributeType="String"/>
+        <attribute name="italianLine2" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserMadeFlashCard" representedClassName="UserMadeFlashCard" syncable="YES" codeGenerationType="class">
+        <attribute name="englishLine1" optional="YES" attributeType="String"/>
+        <attribute name="englishLine2" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="italianLine1" optional="YES" attributeType="String"/>
+        <attribute name="italianLine2" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserUnlockedDataSets" representedClassName="UserUnlockedDataSets" syncable="YES" codeGenerationType="class">
+        <attribute name="dataSetName" optional="YES" attributeType="String"/>
+        <attribute name="isUnlocked" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="UserVerbList" representedClassName="UserVerbList" syncable="YES" codeGenerationType="class">
+        <attribute name="condizionale" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="futuro" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="imperativo" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="imperfetto" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="passatoProssimo" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="presente" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="verbNameEnglish" optional="YES" attributeType="String"/>
+        <attribute name="verbNameItalian" optional="YES" attributeType="String"/>
+    </entity>
+</model>
